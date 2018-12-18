@@ -1,0 +1,3430 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-12-11T16:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4280154",
+        "cycleway": "lane",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Sickingenstraße",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6867824,
+            49.3839092
+          ],
+          [
+            8.6852394,
+            49.383957
+          ],
+          [
+            8.6851494,
+            49.3839591
+          ],
+          [
+            8.6850256,
+            49.383962
+          ],
+          [
+            8.684003,
+            49.3840107
+          ],
+          [
+            8.6839254,
+            49.3840144
+          ],
+          [
+            8.683835,
+            49.3840211
+          ],
+          [
+            8.6837778,
+            49.3840253
+          ],
+          [
+            8.6831834,
+            49.3840694
+          ],
+          [
+            8.6821952,
+            49.3841222
+          ]
+        ]
+      },
+      "id": "way/4280154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4537174",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "maxspeed:forward": "70",
+        "name": "Schlierbacher Landstraße",
+        "oneway": "no",
+        "ref": "B 37",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7615994,
+            49.4155555
+          ],
+          [
+            8.7625598,
+            49.4152731
+          ],
+          [
+            8.7630369,
+            49.4151302
+          ],
+          [
+            8.7632903,
+            49.4150511
+          ],
+          [
+            8.7643522,
+            49.4147464
+          ]
+        ]
+      },
+      "id": "way/4537174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5006198",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Max-Joseph-Straße",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6822879,
+            49.3784414
+          ],
+          [
+            8.6811815,
+            49.3783992
+          ],
+          [
+            8.6808692,
+            49.378389
+          ],
+          [
+            8.6806929,
+            49.3783831
+          ],
+          [
+            8.6802767,
+            49.3783672
+          ],
+          [
+            8.6793233,
+            49.3783308
+          ],
+          [
+            8.6788022,
+            49.378318
+          ],
+          [
+            8.6786256,
+            49.3783128
+          ],
+          [
+            8.6785294,
+            49.3783094
+          ],
+          [
+            8.6782007,
+            49.3783038
+          ]
+        ]
+      },
+      "id": "way/5006198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747351",
+        "cycleway": "lane",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rohrbacher Straße",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6904792,
+            49.3868091
+          ],
+          [
+            8.6904331,
+            49.3880816
+          ],
+          [
+            8.6904229,
+            49.3883349
+          ],
+          [
+            8.6903676,
+            49.3893778
+          ],
+          [
+            8.6903552,
+            49.3896327
+          ],
+          [
+            8.6903451,
+            49.3898016
+          ],
+          [
+            8.6903364,
+            49.3899803
+          ],
+          [
+            8.690324,
+            49.3902175
+          ],
+          [
+            8.6902686,
+            49.3912289
+          ],
+          [
+            8.6902531,
+            49.391601
+          ],
+          [
+            8.6902454,
+            49.3917532
+          ],
+          [
+            8.6902349,
+            49.3919856
+          ],
+          [
+            8.6902329,
+            49.3920132
+          ],
+          [
+            8.6902136,
+            49.3922842
+          ],
+          [
+            8.6901723,
+            49.3928034
+          ],
+          [
+            8.6901136,
+            49.3934037
+          ],
+          [
+            8.6900758,
+            49.3936961
+          ]
+        ]
+      },
+      "id": "way/23747351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24008428",
+        "cycleway": "lane",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Hertzstraße"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6847931,
+            49.3681414
+          ],
+          [
+            8.6848098,
+            49.3679834
+          ],
+          [
+            8.6848306,
+            49.3677477
+          ],
+          [
+            8.6848937,
+            49.3670309
+          ]
+        ]
+      },
+      "id": "way/24008428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24224503",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Karlsruher Straße",
+        "sidewalk": "both",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6904451,
+            49.3837555
+          ],
+          [
+            8.6904631,
+            49.3841118
+          ],
+          [
+            8.6904765,
+            49.3845957
+          ],
+          [
+            8.6905075,
+            49.3854335
+          ],
+          [
+            8.690508,
+            49.3854602
+          ],
+          [
+            8.6904956,
+            49.3860789
+          ],
+          [
+            8.6904835,
+            49.386566
+          ],
+          [
+            8.6904792,
+            49.3868091
+          ]
+        ]
+      },
+      "id": "way/24224503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24340240",
+        "cycleway": "lane",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Philipp-Otto-Runge-Straße"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6860191,
+            49.3935345
+          ],
+          [
+            8.6860125,
+            49.3936432
+          ],
+          [
+            8.6860033,
+            49.393793
+          ]
+        ]
+      },
+      "id": "way/24340240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24839407",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Handschuhsheimer Landstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6904464,
+            49.4192185
+          ],
+          [
+            8.6902747,
+            49.4195771
+          ],
+          [
+            8.6901227,
+            49.419833
+          ],
+          [
+            8.6898543,
+            49.4202165
+          ],
+          [
+            8.6896525,
+            49.4205139
+          ],
+          [
+            8.6895166,
+            49.4207954
+          ],
+          [
+            8.6892517,
+            49.4213132
+          ]
+        ]
+      },
+      "id": "way/24839407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25304528",
+        "cycleway": "lane",
+        "highway": "unclassified",
+        "name": "Hildastraße",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6343369,
+            49.4007649
+          ],
+          [
+            8.6343551,
+            49.4008041
+          ],
+          [
+            8.634384,
+            49.4008746
+          ],
+          [
+            8.6344374,
+            49.401005
+          ]
+        ]
+      },
+      "id": "way/25304528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28891216",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Brückenstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.692218,
+            49.4138488
+          ],
+          [
+            8.6921888,
+            49.4142618
+          ],
+          [
+            8.6921513,
+            49.4146702
+          ],
+          [
+            8.6921472,
+            49.4147273
+          ]
+        ]
+      },
+      "id": "way/28891216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28901220",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Brückenstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6921472,
+            49.4147273
+          ],
+          [
+            8.6921449,
+            49.4147778
+          ],
+          [
+            8.6921384,
+            49.4151423
+          ]
+        ]
+      },
+      "id": "way/28901220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30353739",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "20",
+        "name": "Hertzstraße",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6848937,
+            49.3670309
+          ],
+          [
+            8.6849626,
+            49.3663366
+          ],
+          [
+            8.6849734,
+            49.3662276
+          ],
+          [
+            8.6850063,
+            49.3653896
+          ],
+          [
+            8.6850079,
+            49.3653483
+          ]
+        ]
+      },
+      "id": "way/30353739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30488942",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (22:00-06:00)",
+        "name": "Rohrbacher Straße",
+        "oneway": "no",
+        "postal_code": "69115",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:urban",
+        "source:maxspeed:conditional": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6907023,
+            49.4002934
+          ],
+          [
+            8.6910178,
+            49.4009369
+          ],
+          [
+            8.6913239,
+            49.4016444
+          ],
+          [
+            8.6913713,
+            49.4017656
+          ],
+          [
+            8.6915789,
+            49.4022961
+          ],
+          [
+            8.6916387,
+            49.4024443
+          ],
+          [
+            8.6918969,
+            49.4031156
+          ],
+          [
+            8.6921424,
+            49.403876
+          ]
+        ]
+      },
+      "id": "way/30488942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30606191",
+        "cycleway": "lane",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rohrbacher Straße",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6900758,
+            49.3936961
+          ],
+          [
+            8.6900078,
+            49.3942835
+          ]
+        ]
+      },
+      "id": "way/30606191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32570190",
+        "cycleway": "lane",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rohrbacher Straße",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6900078,
+            49.3942835
+          ],
+          [
+            8.6899117,
+            49.3951861
+          ],
+          [
+            8.6898785,
+            49.3954984
+          ],
+          [
+            8.6898641,
+            49.3956038
+          ],
+          [
+            8.6898484,
+            49.3957295
+          ],
+          [
+            8.6898459,
+            49.3957554
+          ],
+          [
+            8.6898264,
+            49.39592
+          ],
+          [
+            8.6897537,
+            49.3963617
+          ],
+          [
+            8.6897186,
+            49.39653
+          ],
+          [
+            8.6896716,
+            49.3967537
+          ],
+          [
+            8.6896325,
+            49.3969498
+          ]
+        ]
+      },
+      "id": "way/32570190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33171097",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "slight_left|through",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6749261,
+            49.4079365
+          ],
+          [
+            8.6747968,
+            49.4079403
+          ],
+          [
+            8.674703,
+            49.4079478
+          ],
+          [
+            8.6745094,
+            49.4079677
+          ]
+        ]
+      },
+      "id": "way/33171097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33171373",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6769318,
+            49.4079782
+          ],
+          [
+            8.6769042,
+            49.4079785
+          ],
+          [
+            8.6768503,
+            49.407979
+          ]
+        ]
+      },
+      "id": "way/33171373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38861537",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary_link",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Lessingstraße",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6806574,
+            49.4016426
+          ],
+          [
+            8.6804263,
+            49.4018167
+          ],
+          [
+            8.6803375,
+            49.4018803
+          ],
+          [
+            8.6802712,
+            49.4019325
+          ]
+        ]
+      },
+      "id": "way/38861537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40138700",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Steubenstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6888562,
+            49.4222009
+          ],
+          [
+            8.688529,
+            49.4229835
+          ],
+          [
+            8.688175,
+            49.4237804
+          ],
+          [
+            8.6879715,
+            49.424212
+          ],
+          [
+            8.6879171,
+            49.4242843
+          ],
+          [
+            8.6878627,
+            49.424341
+          ]
+        ]
+      },
+      "id": "way/40138700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42723395",
+        "cycleway": "lane",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rohrbacher Straße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6896325,
+            49.3969498
+          ],
+          [
+            8.6896193,
+            49.3970133
+          ]
+        ]
+      },
+      "id": "way/42723395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43119559",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Mönchhofstraße",
+        "note:de": "Cycleway=lane wird nur für Radfahrstreifen mit durchgezogener Linie verwendet. Dies ist ein Fahrradschutzstreifen, der von Autos überfahren wird. Dieser wird nicht als cycleway=lane bezeichnet.",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6835958,
+            49.4173857
+          ],
+          [
+            8.6827817,
+            49.4173883
+          ],
+          [
+            8.68269,
+            49.4173886
+          ],
+          [
+            8.6824606,
+            49.4173894
+          ],
+          [
+            8.6821071,
+            49.4173905
+          ],
+          [
+            8.6818824,
+            49.4173912
+          ]
+        ]
+      },
+      "id": "way/43119559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45266647",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "sign",
+        "name": "Bürgerstraße",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6727659,
+            49.3782957
+          ],
+          [
+            8.6725255,
+            49.3781839
+          ],
+          [
+            8.6722293,
+            49.3780462
+          ]
+        ]
+      },
+      "id": "way/45266647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64490542",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Max-Joseph-Straße",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.677872,
+            49.3784133
+          ],
+          [
+            8.6777208,
+            49.3787214
+          ],
+          [
+            8.6776609,
+            49.3788009
+          ],
+          [
+            8.6775813,
+            49.378885
+          ]
+        ]
+      },
+      "id": "way/64490542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64490544",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "lcn": "yes",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Sickingenstraße",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6821952,
+            49.3841222
+          ],
+          [
+            8.6817196,
+            49.3841452
+          ]
+        ]
+      },
+      "id": "way/64490544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96258582",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.67706,
+            49.4079768
+          ],
+          [
+            8.6769703,
+            49.4079778
+          ],
+          [
+            8.6769318,
+            49.4079782
+          ]
+        ]
+      },
+      "id": "way/96258582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133845943",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lessingstraße",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "sidewalk": "no",
+        "smoothness": "good",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left|||",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6782138,
+            49.4032031
+          ],
+          [
+            8.6780406,
+            49.4033802
+          ],
+          [
+            8.6778691,
+            49.4035663
+          ]
+        ]
+      },
+      "id": "way/133845943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152548387",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6768503,
+            49.407979
+          ],
+          [
+            8.6767754,
+            49.4079799
+          ],
+          [
+            8.6767349,
+            49.4079797
+          ]
+        ]
+      },
+      "id": "way/152548387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154938448",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Handschuhsheimer Landstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6919751,
+            49.4171391
+          ],
+          [
+            8.6919412,
+            49.4172202
+          ],
+          [
+            8.691879,
+            49.4173065
+          ],
+          [
+            8.6918173,
+            49.4173689
+          ],
+          [
+            8.6914276,
+            49.4177259
+          ]
+        ]
+      },
+      "id": "way/154938448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155055411",
+        "change:lanes:backward": "not_left|yes",
+        "change:lanes:forward": "no",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "maxspeed": "30",
+        "maxweight": "7.5",
+        "name": "Brückenkopfstraße",
+        "placement:backward": "left_of:1",
+        "ref": "L 534",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|left;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.692218,
+            49.4138488
+          ],
+          [
+            8.6922388,
+            49.4138516
+          ],
+          [
+            8.6924666,
+            49.4138646
+          ],
+          [
+            8.6929136,
+            49.4138646
+          ],
+          [
+            8.6932158,
+            49.4138657
+          ],
+          [
+            8.6932662,
+            49.4138646
+          ],
+          [
+            8.6933271,
+            49.4138627
+          ]
+        ]
+      },
+      "id": "way/155055411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155061714",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6766302,
+            49.4081373
+          ],
+          [
+            8.6765504,
+            49.4080604
+          ],
+          [
+            8.6764958,
+            49.4080114
+          ]
+        ]
+      },
+      "id": "way/155061714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159236488",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Max-Joseph-Straße",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.677972,
+            49.3783353
+          ],
+          [
+            8.6779366,
+            49.3783504
+          ],
+          [
+            8.6779108,
+            49.3783679
+          ],
+          [
+            8.6778908,
+            49.3783878
+          ],
+          [
+            8.677872,
+            49.3784133
+          ]
+        ]
+      },
+      "id": "way/159236488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168617856",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Lessingstraße",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6801962,
+            49.4019818
+          ],
+          [
+            8.6801659,
+            49.4020016
+          ],
+          [
+            8.6800866,
+            49.4020537
+          ]
+        ]
+      },
+      "id": "way/168617856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172374552",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Rottmannstraße",
+        "ref": "B 3",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6862675,
+            49.4250818
+          ],
+          [
+            8.6851064,
+            49.4255687
+          ],
+          [
+            8.6843153,
+            49.4259005
+          ],
+          [
+            8.6834974,
+            49.4262435
+          ]
+        ]
+      },
+      "id": "way/172374552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182767887",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "name": "Kaiserstraße",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6814458,
+            49.4033559
+          ],
+          [
+            8.6814558,
+            49.4033528
+          ],
+          [
+            8.6815543,
+            49.4033225
+          ],
+          [
+            8.6815919,
+            49.403311
+          ],
+          [
+            8.6817002,
+            49.4032777
+          ]
+        ]
+      },
+      "id": "way/182767887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182932158",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Lessingstraße",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6802712,
+            49.4019325
+          ],
+          [
+            8.6801962,
+            49.4019818
+          ]
+        ]
+      },
+      "id": "way/182932158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/191923763",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Kurpfalzring",
+        "oneway": "no",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6410818,
+            49.4020449
+          ],
+          [
+            8.6411057,
+            49.4019826
+          ],
+          [
+            8.6411144,
+            49.40196
+          ],
+          [
+            8.6411441,
+            49.4018827
+          ]
+        ]
+      },
+      "id": "way/191923763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203535626",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6767349,
+            49.4079797
+          ],
+          [
+            8.6766962,
+            49.4079803
+          ],
+          [
+            8.6766429,
+            49.4079811
+          ],
+          [
+            8.6764967,
+            49.4079797
+          ],
+          [
+            8.6764569,
+            49.4079792
+          ]
+        ]
+      },
+      "id": "way/203535626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217330280",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Brückenstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6920325,
+            49.4166742
+          ],
+          [
+            8.6920289,
+            49.4166864
+          ],
+          [
+            8.6920162,
+            49.4169124
+          ],
+          [
+            8.6919751,
+            49.4171391
+          ]
+        ]
+      },
+      "id": "way/217330280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228088195",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lessingstraße",
+        "oneway": "yes",
+        "smoothness": "good",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6778691,
+            49.4035663
+          ],
+          [
+            8.6778211,
+            49.4036192
+          ]
+        ]
+      },
+      "id": "way/228088195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230738188",
+        "bicycle": "yes",
+        "bus:lanes": "unknown|designated",
+        "cycleway": "lane",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lessingstraße",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6786101,
+            49.4029903
+          ],
+          [
+            8.6782138,
+            49.4032031
+          ]
+        ]
+      },
+      "id": "way/230738188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231972180",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Kurfürsten-Anlage",
+        "oneway": "yes",
+        "railway": "abandoned",
+        "short_name": "KFA",
+        "sidewalk": "no",
+        "smoothness": "good",
+        "source:maxspeed": "DE:urban",
+        "source:railway": "Messtischblatt 23, Heidelberg 1878",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6839217,
+            49.4056812
+          ],
+          [
+            8.6835872,
+            49.4056212
+          ],
+          [
+            8.6834375,
+            49.4055943
+          ],
+          [
+            8.6830342,
+            49.4055226
+          ],
+          [
+            8.682874,
+            49.4054932
+          ],
+          [
+            8.6818604,
+            49.4053114
+          ],
+          [
+            8.6811958,
+            49.4051922
+          ],
+          [
+            8.6810888,
+            49.405173
+          ],
+          [
+            8.6810327,
+            49.4051549
+          ]
+        ]
+      },
+      "id": "way/231972180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236501542",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Mozartstraße",
+        "turn:lanes:forward": "left|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6340659,
+            49.4003414
+          ],
+          [
+            8.6342995,
+            49.4007064
+          ],
+          [
+            8.6343369,
+            49.4007649
+          ]
+        ]
+      },
+      "id": "way/236501542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244565454",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Karlsruher Straße",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6903545,
+            49.3828499
+          ],
+          [
+            8.6903772,
+            49.3829877
+          ],
+          [
+            8.6904145,
+            49.3833083
+          ],
+          [
+            8.6904169,
+            49.3833292
+          ],
+          [
+            8.6904451,
+            49.3837555
+          ]
+        ]
+      },
+      "id": "way/244565454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244565455",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rohrbacher Straße",
+        "oneway": "yes",
+        "ref": "B 3",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6895673,
+            49.3971959
+          ],
+          [
+            8.6896193,
+            49.3970133
+          ]
+        ]
+      },
+      "id": "way/244565455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245550090",
+        "cycleway": "lane",
+        "cycleway:bicycle": "designated",
+        "highway": "tertiary",
+        "name": "Schwetzinger Straße",
+        "oneway": "yes",
+        "ref": "L 598",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6721474,
+            49.3826609
+          ],
+          [
+            8.6722504,
+            49.3827692
+          ],
+          [
+            8.6723155,
+            49.3828713
+          ],
+          [
+            8.6724553,
+            49.3831982
+          ]
+        ]
+      },
+      "id": "way/245550090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249342758",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Carl-Benz-Straße",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "turn:lanes": "right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6793278,
+            49.3979333
+          ],
+          [
+            8.679387,
+            49.3977879
+          ],
+          [
+            8.6794496,
+            49.3975896
+          ],
+          [
+            8.6794711,
+            49.397486
+          ],
+          [
+            8.6794709,
+            49.3973557
+          ],
+          [
+            8.6794682,
+            49.3973336
+          ],
+          [
+            8.6794518,
+            49.3972906
+          ],
+          [
+            8.6794339,
+            49.3972539
+          ]
+        ]
+      },
+      "id": "way/249342758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254010814",
+        "cycleway": "lane",
+        "highway": "primary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Neckarstaden",
+        "sidewalk": "right",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6947865,
+            49.4116653
+          ],
+          [
+            8.6951914,
+            49.4117233
+          ],
+          [
+            8.6956382,
+            49.4117883
+          ],
+          [
+            8.6961903,
+            49.4118659
+          ],
+          [
+            8.6964185,
+            49.4118979
+          ],
+          [
+            8.6966477,
+            49.4119301
+          ],
+          [
+            8.6972211,
+            49.4120108
+          ],
+          [
+            8.6972997,
+            49.4120218
+          ],
+          [
+            8.6975551,
+            49.4120504
+          ]
+        ]
+      },
+      "id": "way/254010814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263352608",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6764958,
+            49.4080114
+          ],
+          [
+            8.6764569,
+            49.4079792
+          ]
+        ]
+      },
+      "id": "way/263352608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279554828",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Kurfürsten-Anlage",
+        "oneway": "yes",
+        "railway": "abandoned",
+        "short_name": "KFA",
+        "sidewalk": "no",
+        "smoothness": "good",
+        "source:maxspeed": "DE:urban",
+        "source:railway": "Messtischblatt 23, Heidelberg 1878",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6810327,
+            49.4051549
+          ],
+          [
+            8.6798723,
+            49.4049594
+          ],
+          [
+            8.6793868,
+            49.4048776
+          ]
+        ]
+      },
+      "id": "way/279554828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286823147",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (22:00-24:00, 0:00-06:00)",
+        "name": "Rohrbacher Straße",
+        "oneway": "no",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "source:maxspeed": "DE:urban",
+        "source:maxspeed:conditional": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6921424,
+            49.403876
+          ],
+          [
+            8.6924438,
+            49.4049766
+          ],
+          [
+            8.6924784,
+            49.4051101
+          ],
+          [
+            8.6925736,
+            49.405452
+          ],
+          [
+            8.6926049,
+            49.405572
+          ],
+          [
+            8.6927599,
+            49.4061769
+          ],
+          [
+            8.6927738,
+            49.4062201
+          ]
+        ]
+      },
+      "id": "way/286823147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294407224",
+        "change:lanes:backward": "no",
+        "change:lanes:forward": "not_left|yes|yes",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Jahnstraße",
+        "placement:backward": "left_of:1",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6774671,
+            49.4126452
+          ],
+          [
+            8.6772475,
+            49.4126311
+          ]
+        ]
+      },
+      "id": "way/294407224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294407225",
+        "change:lanes:backward": "no",
+        "change:lanes:forward": "not_left|yes",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Jahnstraße",
+        "placement:backward": "left_of:1",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6780643,
+            49.412679
+          ],
+          [
+            8.6775078,
+            49.4126473
+          ],
+          [
+            8.6774671,
+            49.4126452
+          ]
+        ]
+      },
+      "id": "way/294407225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294416956",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6764569,
+            49.4079792
+          ],
+          [
+            8.6761273,
+            49.4079755
+          ],
+          [
+            8.6760482,
+            49.4079735
+          ],
+          [
+            8.675522,
+            49.4079601
+          ],
+          [
+            8.6753151,
+            49.4079416
+          ]
+        ]
+      },
+      "id": "way/294416956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319620061",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Brückenstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6921384,
+            49.4151423
+          ],
+          [
+            8.6921237,
+            49.4154397
+          ],
+          [
+            8.6921186,
+            49.415521
+          ],
+          [
+            8.6921164,
+            49.4155567
+          ],
+          [
+            8.6921071,
+            49.4156632
+          ],
+          [
+            8.6920878,
+            49.4159012
+          ]
+        ]
+      },
+      "id": "way/319620061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376865251",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Bergheimer Straße",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "slight_left|through",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6753151,
+            49.4079416
+          ],
+          [
+            8.6749261,
+            49.4079365
+          ]
+        ]
+      },
+      "id": "way/376865251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391627678",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Max-Joseph-Straße",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6782007,
+            49.3783038
+          ],
+          [
+            8.6781442,
+            49.3783055
+          ],
+          [
+            8.6780622,
+            49.3783142
+          ],
+          [
+            8.677972,
+            49.3783353
+          ]
+        ]
+      },
+      "id": "way/391627678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407505924",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Brückenstraße",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6920878,
+            49.4159012
+          ],
+          [
+            8.6920386,
+            49.4165887
+          ],
+          [
+            8.6920325,
+            49.4166742
+          ]
+        ]
+      },
+      "id": "way/407505924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/417789760",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Handschuhsheimer Landstraße",
+        "overtaking:forward": "no",
+        "ref": "B 3",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "DE:urban",
+        "zone:traffic": "DE:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6914276,
+            49.4177259
+          ],
+          [
+            8.6910726,
+            49.4180512
+          ]
+        ]
+      },
+      "id": "way/417789760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/429024483",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Mönchhofstraße",
+        "note:de": "Cycleway=lane wird nur für Radfahrstreifen mit durchgezogener Linie verwendet. Dies ist ein Fahrradschutzstreifen, der von Autos überfahren wird. Dieser wird nicht als cycleway=lane bezeichnet.",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6818824,
+            49.4173912
+          ],
+          [
+            8.6816355,
+            49.4173772
+          ],
+          [
+            8.6815188,
+            49.417363
+          ],
+          [
+            8.6801747,
+            49.417199
+          ],
+          [
+            8.6790986,
+            49.4170651
+          ],
+          [
+            8.6780061,
+            49.4169794
+          ]
+        ]
+      },
+      "id": "way/429024483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11249118",
+        "name": "Heidelberg-Schlierbach",
+        "traffic_sign": "city_limit",
+        "traffic_sign:forward": "DE:274[70]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7615994,
+          49.4155555
+        ]
+      },
+      "id": "node/11249118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21698124",
+        "railway": "level_crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6411144,
+          49.40196
+        ]
+      },
+      "id": "node/21698124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25733444",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6907023,
+          49.4002934
+        ]
+      },
+      "id": "node/25733444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25780894",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6867824,
+          49.3839092
+        ]
+      },
+      "id": "node/25780894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25780929",
+        "highway": "mini_roundabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6775813,
+          49.378885
+        ]
+      },
+      "id": "node/25780929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27305258",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6898785,
+          49.3954984
+        ]
+      },
+      "id": "node/27305258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33259298",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767349,
+          49.4079797
+        ]
+      },
+      "id": "node/33259298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33811019",
+        "TMC:cid_58:tabcd_1:Class": "Point",
+        "TMC:cid_58:tabcd_1:Direction": "both",
+        "TMC:cid_58:tabcd_1:LCLversion": "9.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "30725",
+        "TMC:cid_58:tabcd_1:NextLocationCode": "56018",
+        "TMC:cid_58:tabcd_1:PrevLocationCode": "22720",
+        "highway": "traffic_signals",
+        "man_made": "surveillance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692218,
+          49.4138488
+        ]
+      },
+      "id": "node/33811019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33811023",
+        "name": "Brückenstraße",
+        "railway": "tram_stop",
+        "ref:RNV:RBL": "NHBR",
+        "shelter": "yes",
+        "uic_ref": "510808",
+        "wheelchair": "limited",
+        "wheelchair:description": "nur mit Rampe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6921164,
+          49.4155567
+        ]
+      },
+      "id": "node/33811023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/61089766",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6794709,
+          49.3973557
+        ]
+      },
+      "id": "node/61089766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/61171971",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903451,
+          49.3898016
+        ]
+      },
+      "id": "node/61171971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/61172875",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6793278,
+          49.3979333
+        ]
+      },
+      "id": "node/61172875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/88900285",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6904792,
+          49.3868091
+        ]
+      },
+      "id": "node/88900285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/145994144",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "man_made": "surveillance",
+        "surveillance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919751,
+          49.4171391
+        ]
+      },
+      "id": "node/145994144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247269716",
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6927738,
+          49.4062201
+        ]
+      },
+      "id": "node/247269716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266018829",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6878627,
+          49.424341
+        ]
+      },
+      "id": "node/266018829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269902967",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6817002,
+          49.4032777
+        ]
+      },
+      "id": "node/269902967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271725047",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6800866,
+          49.4020537
+        ]
+      },
+      "id": "node/271725047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271725049",
+        "gauge": "1000",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6801962,
+          49.4019818
+        ]
+      },
+      "id": "node/271725049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271725050",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6802712,
+          49.4019325
+        ]
+      },
+      "id": "node/271725050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272401630",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6814458,
+          49.4033559
+        ]
+      },
+      "id": "node/272401630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/274348372",
+        "gauge": "1000",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6815919,
+          49.403311
+        ]
+      },
+      "id": "node/274348372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292244706",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6902349,
+          49.3919856
+        ]
+      },
+      "id": "node/292244706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294853823",
+        "name": "Bergfriedhof",
+        "railway": "tram_stop",
+        "ref:RNV:RBL": "SSBF",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6898484,
+          49.3957295
+        ]
+      },
+      "id": "node/294853823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300155469",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6921424,
+          49.403876
+        ]
+      },
+      "id": "node/300155469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303041700",
+        "name": "Eichendorffplatz",
+        "railway": "tram_stop",
+        "ref:RNV:RBL": "RBEP",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6904169,
+          49.3833292
+        ]
+      },
+      "id": "node/303041700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336261771",
+        "name": "Bethanien-Krankenhaus",
+        "railway": "tram_stop",
+        "ref:RNV:RBL": "SSBK",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6902136,
+          49.3922842
+        ]
+      },
+      "id": "node/336261771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336261774",
+        "name": "Rheinstraße",
+        "railway": "tram_stop",
+        "ref:RNV:RBL": "SSRS",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903364,
+          49.3899803
+        ]
+      },
+      "id": "node/336261774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336261777",
+        "is_in": "Rohrbach",
+        "name": "Markscheide",
+        "railway": "tram_stop",
+        "ref:RNV:RBL": "RBMS",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6904835,
+          49.386566
+        ]
+      },
+      "id": "node/336261777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410654157",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "source:position": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6924784,
+          49.4051101
+        ]
+      },
+      "id": "node/410654157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/483367895",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6810327,
+          49.4051549
+        ]
+      },
+      "id": "node/483367895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/539837542",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6915789,
+          49.4022961
+        ]
+      },
+      "id": "node/539837542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/543403000",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903772,
+          49.3829877
+        ]
+      },
+      "id": "node/543403000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/643067185",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6721474,
+          49.3826609
+        ]
+      },
+      "id": "node/643067185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339993421",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "source:position": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6811958,
+          49.4051922
+        ]
+      },
+      "id": "node/1339993421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341408258",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6766302,
+          49.4081373
+        ]
+      },
+      "id": "node/1341408258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341408259",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "source:position": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675522,
+          49.4079601
+        ]
+      },
+      "id": "node/1341408259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1721141592",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6788022,
+          49.378318
+        ]
+      },
+      "id": "node/1721141592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912123301",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6913713,
+          49.4017656
+        ]
+      },
+      "id": "node/1912123301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1992395994",
+        "crossing": "island",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6850063,
+          49.3653896
+        ]
+      },
+      "id": "node/1992395994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1994996057",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6768503,
+          49.407979
+        ]
+      },
+      "id": "node/1994996057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995271013",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "man_made": "surveillance",
+        "surveillance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6904464,
+          49.4192185
+        ]
+      },
+      "id": "node/1995271013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995316301",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6834974,
+          49.4262435
+        ]
+      },
+      "id": "node/1995316301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995554377",
+        "direction": "clockwise",
+        "highway": "mini_roundabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6343369,
+          49.4007649
+        ]
+      },
+      "id": "node/1995554377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995554459",
+        "railway": "level_crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6411057,
+          49.4019826
+        ]
+      },
+      "id": "node/1995554459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2705618079",
+        "crossing": "traffic_signals",
+        "crossing_ref": "pelican",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6342995,
+          49.4007064
+        ]
+      },
+      "id": "node/2705618079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2705618082",
+        "crossing": "traffic_signals",
+        "crossing_ref": "pelican",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634384,
+          49.4008746
+        ]
+      },
+      "id": "node/2705618082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898846471",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6725255,
+          49.3781839
+        ]
+      },
+      "id": "node/2898846471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2956153839",
+        "bus": "yes",
+        "name": "S-Bahnhof Schlierbach/Ziegelhausen",
+        "public_transport": "stop_position",
+        "uic_ref": "518515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7625598,
+          49.4152731
+        ]
+      },
+      "id": "node/2956153839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3201003656",
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "source:position": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6927599,
+          49.4061769
+        ]
+      },
+      "id": "node/3201003656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265385988",
+        "bus": "yes",
+        "name": "Hans-Böckler-Straße",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6925736,
+          49.405452
+        ]
+      },
+      "id": "node/3265385988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265385989",
+        "bus": "yes",
+        "name": "Hans-Böckler-Straße",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6926049,
+          49.405572
+        ]
+      },
+      "id": "node/3265385989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265385997",
+        "bus": "yes",
+        "name": "St. Vincentius Krankenhaus",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6972211,
+          49.4120108
+        ]
+      },
+      "id": "node/3265385997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265386000",
+        "bus": "yes",
+        "name": "Stadtwerke",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682874,
+          49.4054932
+        ]
+      },
+      "id": "node/3265386000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3310873611",
+        "bus": "yes",
+        "name": "Brückenstraße",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6921071,
+          49.4156632
+        ]
+      },
+      "id": "node/3310873611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3336241056",
+        "bus": "yes",
+        "name": "Wielandtstraße",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6815188,
+          49.417363
+        ]
+      },
+      "id": "node/3336241056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3336241057",
+        "bus": "yes",
+        "name": "Wielandtstraße",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821071,
+          49.4173905
+        ]
+      },
+      "id": "node/3336241057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338557763",
+        "name": "Brückenstraße",
+        "public_transport": "stop_position",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6921186,
+          49.415521
+        ]
+      },
+      "id": "node/3338557763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182721301",
+        "traffic_sign": "DE:276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6914276,
+          49.4177259
+        ]
+      },
+      "id": "node/4182721301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210475345",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "kerb:height": "3cm",
+        "man_made": "surveillance",
+        "surveillance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6921513,
+          49.4146702
+        ]
+      },
+      "id": "node/4210475345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210475348",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "kerb:height": "3 cm",
+        "man_made": "surveillance",
+        "surveillance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6921449,
+          49.4147778
+        ]
+      },
+      "id": "node/4210475348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4744064062",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684003,
+          49.3840107
+        ]
+      },
+      "id": "node/4744064062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5893272905",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6808692,
+          49.378389
+        ]
+      },
+      "id": "node/5893272905"
+    }
+  ]
+}

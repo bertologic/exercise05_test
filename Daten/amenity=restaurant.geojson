@@ -1,0 +1,7277 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-12-11T15:57:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/137863096",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69117",
+        "addr:street": "Marstallhof",
+        "amenity": "restaurant",
+        "drink:club-mate": "served",
+        "name": "Zeughaus-Mensa",
+        "opening_hours": "Mo-Sa 11:30-22:00",
+        "phone": "+49 6221 54 26 44",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.studentenwerk-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7045098,
+          49.4129429
+        ]
+      },
+      "id": "node/137863096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/152339017",
+        "addr:city": "Sandhausen",
+        "addr:country": "DE",
+        "addr:postcode": "69207",
+        "addr:street": "An der A5",
+        "amenity": "restaurant",
+        "name": "Autobahngaststätte Hardtwald Ost",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6325087,
+          49.3504244
+        ]
+      },
+      "id": "node/152339017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/164931701",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:postcode": "69124",
+        "addr:street": "Speyerer Straße",
+        "amenity": "restaurant",
+        "name": "Heid´s Grill",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6719507,
+          49.3967232
+        ]
+      },
+      "id": "node/164931701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262794480",
+        "addr:city": "Dossenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69221",
+        "addr:street": "Am Weißen Stein",
+        "amenity": "restaurant",
+        "email": "ZumWeissenStein@aol.com",
+        "fax": "+49 6220 913 211",
+        "name": "Zum Weißen Stein",
+        "operator": "Carmelo Caruso",
+        "outdoor_seating": "yes",
+        "phone": "+49 6220 1787",
+        "website": "http://www.zum-weissen-stein.eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7235012,
+          49.4531888
+        ]
+      },
+      "id": "node/262794480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269384884",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "50",
+        "addr:postcode": "69115",
+        "addr:street": "Alte Eppelheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Carosello",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.carosellofood.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6755796,
+          49.4066074
+        ]
+      },
+      "id": "node/269384884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269790792",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Taj Mahal",
+        "phone": "+49-6221-166461",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://www.tajmahal-heidelberg.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6735594,
+          49.4081527
+        ]
+      },
+      "id": "node/269790792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/273444240",
+        "amenity": "restaurant",
+        "name": "Ristorante Pizzeria Roma",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7972645,
+          49.3949192
+        ]
+      },
+      "id": "node/273444240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278843004",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "69151",
+        "addr:street": "Bergstraße",
+        "amenity": "restaurant",
+        "name": "Gasthaus Krone",
+        "tourism": "hotel",
+        "website": "http://krone-neckargemuend.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7979015,
+          49.3978879
+        ]
+      },
+      "id": "node/278843004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283617961",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "69151",
+        "addr:street": "Schiffgasse",
+        "amenity": "restaurant",
+        "name": "Zum Schiff",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7968778,
+          49.3952245
+        ]
+      },
+      "id": "node/283617961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283617962",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69151",
+        "addr:street": "Schiffgasse",
+        "amenity": "restaurant",
+        "name": "Alte Scheune",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7969437,
+          49.395372
+        ]
+      },
+      "id": "node/283617962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283618003",
+        "amenity": "restaurant",
+        "name": "Zum Stadttor",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.801244,
+          49.3917422
+        ]
+      },
+      "id": "node/283618003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283708574",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "9",
+        "addr:postcode": "69120",
+        "addr:street": "Tiergartenstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Roseto",
+        "website": "http://ristorante-roseto.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6587165,
+          49.4176165
+        ]
+      },
+      "id": "node/283708574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/284233335",
+        "amenity": "restaurant",
+        "name": "Zur blauen Quetsch",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6594547,
+          49.4165055
+        ]
+      },
+      "id": "node/284233335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/284233349",
+        "amenity": "restaurant",
+        "name": "Zoo-Café",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6632915,
+          49.4146254
+        ]
+      },
+      "id": "node/284233349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289745790",
+        "addr:housenumber": "14",
+        "addr:street": "Schulstraße",
+        "amenity": "restaurant",
+        "name": "Zur Krone",
+        "opening_hours": "Mo,Th,Fr 17:00+; Sa,Su 11:30-14:00,17:30-21:00",
+        "outdoor_seating": "yes",
+        "website": "http://www.krone-waldhilsbach.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7716255,
+          49.3744556
+        ]
+      },
+      "id": "node/289745790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296943517",
+        "addr:housenumber": "2",
+        "addr:street": "Steinbachweg",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Capri",
+        "opening_hours": "Mo-Su 11:00-14:30, 17:30-23:00; We off",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756361,
+          49.4185953
+        ]
+      },
+      "id": "node/296943517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297229070",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Caminus",
+        "opening_hours": "09:00-24:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7572019,
+          49.4180224
+        ]
+      },
+      "id": "node/297229070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301365953",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "regional",
+        "name": "Thanner",
+        "opening_hours": "Su-Th 09:00-02:00, Fr-Sa 09:00-03:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 25234",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "website": "http://www.thanner.net/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6859184,
+          49.4078682
+        ]
+      },
+      "id": "node/301365953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304872132",
+        "amenity": "restaurant",
+        "name": "Bosporus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6873427,
+          49.3512862
+        ]
+      },
+      "id": "node/304872132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306004574",
+        "amenity": "restaurant",
+        "email": "info@schauenburg-dossenheim.de",
+        "name": "Gasthaus Zur Schauenburg",
+        "opening_hours": "Tu-Fr 17:00-22:00;Sa,Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 866794",
+        "website": "http://www.schauenburg-dossenheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6776472,
+          49.4520488
+        ]
+      },
+      "id": "node/306004574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306004577",
+        "amenity": "restaurant",
+        "email": "info@loewe-dossenheim.de",
+        "fax": "+49 6221 862041",
+        "name": "Zum Löwen",
+        "opening_hours": "We-Sa 17:00-24:00;Su 11:00-14:30,17:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 866139",
+        "website": "http://www.loewe-dossenheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6770741,
+          49.4519292
+        ]
+      },
+      "id": "node/306004577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307009338",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "69",
+        "addr:postcode": "69123",
+        "addr:street": "Eppelheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Sorbas",
+        "phone": "+49 6221 775402",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6499732,
+          49.404523
+        ]
+      },
+      "id": "node/307009338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307029854",
+        "alt_name": "Zum Kosta",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 763025",
+        "cuisine": "greek",
+        "name": "Zum Pflug",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6282311,
+          49.4017293
+        ]
+      },
+      "id": "node/307029854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308240950",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "69123",
+        "addr:street": "Kranichweg",
+        "amenity": "restaurant",
+        "name": "Brunnenstube",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.restaurant-brunnenstube.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6416909,
+          49.4005255
+        ]
+      },
+      "id": "node/308240950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308265156",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Bay Jok",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6770507,
+          49.4077166
+        ]
+      },
+      "id": "node/308265156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308353926",
+        "amenity": "restaurant",
+        "email": "info@zum-neuen-schwanen.com",
+        "level": "0",
+        "name": "Zum Neuen Schwanen",
+        "opening_hours": "Mo-Sa 12:00-14:00, 17:00+; Su 12:00+",
+        "operator": "Andreas Apfel",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 869686",
+        "website": "http://www.zum-neuen-schwanen.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6720956,
+          49.4501835
+        ]
+      },
+      "id": "node/308353926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308471548",
+        "amenity": "restaurant",
+        "contact:email": "soledoroeppelheim@web.de",
+        "cuisine": "italian",
+        "name": "Sole D'oro",
+        "opening_hours": "Tu-Sa 17:30-23:45; Su 11:30-14:30,17:30-23:45",
+        "phone": "+49 6221 7564222",
+        "website": "http://www.soledoro-eppelheim.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6308735,
+          49.4055845
+        ]
+      },
+      "id": "node/308471548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308471550",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "8",
+        "addr:postcode": "69214",
+        "addr:street": "Rudolf-Wild-Straße",
+        "amenity": "restaurant",
+        "name": "Adler",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6298144,
+          49.3993213
+        ]
+      },
+      "id": "node/308471550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309419595",
+        "amenity": "restaurant",
+        "name": "Gallo Nero",
+        "opening_hours": "Mo-Su 11:00-15:00,17:00-23:00",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.gallonero-heidelberg.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6828376,
+          49.4076815
+        ]
+      },
+      "id": "node/309419595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309421877",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "59",
+        "addr:postcode": "69115",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Knossos",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 184812",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6874539,
+          49.4076775
+        ]
+      },
+      "id": "node/309421877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309437260",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Goldenes Dreieck",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6916832,
+          49.4060867
+        ]
+      },
+      "id": "node/309437260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309437263",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Thanaphon",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6902904,
+          49.4058795
+        ]
+      },
+      "id": "node/309437263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309437268",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "12",
+        "addr:postcode": "69115",
+        "addr:street": "Kleinschmidtstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Krokodil",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su,PH 10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7392977",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6869052,
+          49.404528
+        ]
+      },
+      "id": "node/309437268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309439736",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "34",
+        "addr:postcode": "69115",
+        "addr:street": "Römerstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Schwarzer Peter",
+        "smoking": "separated",
+        "smoking:outside": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6845637,
+          49.4032452
+        ]
+      },
+      "id": "node/309439736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312896467",
+        "amenity": "restaurant",
+        "name": "Gasthaus zum goldenen Löwen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8092082,
+          49.3599192
+        ]
+      },
+      "id": "node/312896467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313564400",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "69126",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "email": "post@traube-heidelberg.de",
+        "name": "Traube",
+        "opening_hours": "Mo-Sa 18:00-24:00; Su 12:00-14:00,18:00-24:00",
+        "phone": "+49 6221 6737222",
+        "website": "https://traube-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6932651,
+          49.3783659
+        ]
+      },
+      "id": "node/313564400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315512900",
+        "addr:city": "Dossenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69221",
+        "addr:street": "Ringstraße",
+        "amenity": "restaurant",
+        "name": "Roccocò",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6744656,
+          49.4459065
+        ]
+      },
+      "id": "node/315512900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315512902",
+        "addr:city": "Dossenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "69221",
+        "addr:street": "Ringstraße",
+        "amenity": "restaurant",
+        "name": "American Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674724,
+          49.4457373
+        ]
+      },
+      "id": "node/315512902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315512903",
+        "addr:city": "Dossenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "69221",
+        "addr:street": "Ringstraße",
+        "amenity": "restaurant",
+        "contact:email": "info@restaurant-petrus.de",
+        "contact:phone": "+49 6221 861718",
+        "name": "Restaurant Iran-Petrus",
+        "opening_hours": "Su-Fr 11:45-14:00, 17:45-22:00",
+        "website": "http://www.restaurant-petrus.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6749889,
+          49.4456252
+        ]
+      },
+      "id": "node/315512903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316457355",
+        "amenity": "restaurant",
+        "name": "Schützenhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7875642,
+          49.39127
+        ]
+      },
+      "id": "node/316457355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317575969",
+        "addr:housenumber": "17",
+        "addr:postcode": "69120",
+        "addr:street": "Brückenstraße",
+        "amenity": "restaurant",
+        "cuisine": "german;french",
+        "name": "Le Coq",
+        "opening_hours": "Mo-Su 10:00-1:00",
+        "phone": "+49 6221 6736791",
+        "website": "http://www.lecoq-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6920401,
+          49.4144409
+        ]
+      },
+      "id": "node/317575969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322158684",
+        "amenity": "restaurant",
+        "contact:facebook": "https://facebook.com/pages/Pizzeria-Maranello-Neckarsteinach/132269566859988",
+        "contact:fax": "+49 6229 933850",
+        "contact:phone": "+49 6229 933357",
+        "contact:website": "https://pizzeria-gelateria-maranello.de",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Pizzeria Maranello",
+        "opening_hours": "Tu-Su 11:00-23:00",
+        "operator": "Franco D'Accione",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8370432,
+          49.4077631
+        ]
+      },
+      "id": "node/322158684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324116582",
+        "amenity": "restaurant",
+        "name": "Bürgerstube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8392413,
+          49.4074033
+        ]
+      },
+      "id": "node/324116582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324680324",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "69117",
+        "addr:street": "Obere Neckarstraße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "min_age": "18",
+        "name": "Zum Brückenaff",
+        "smoking": "only",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7101075,
+          49.4131784
+        ]
+      },
+      "id": "node/324680324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331296280",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "83",
+        "addr:postcode": "69214",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Burger Bar",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6286454,
+          49.4015435
+        ]
+      },
+      "id": "node/331296280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332487175",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/PizzeriaLaTorreEppelheimHeidelberg",
+        "cuisine": "pizza",
+        "name": "Pizzeria La Torre",
+        "opening_hours": "Mo 11:00-14:30, 16:00-23:00; Su 11:00-14:30, 16:00-23:00",
+        "phone": "+49 6221 7379397",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6296133,
+          49.4020653
+        ]
+      },
+      "id": "node/332487175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332582911",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "name": "RED",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.red-diegruenekueche.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6879253,
+          49.4074762
+        ]
+      },
+      "id": "node/332582911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332582912",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "9",
+        "addr:postcode": "69115",
+        "addr:street": "Alte Glockengießerei",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Tiger & Dragon's",
+        "toilets:wheelchair": "no",
+        "website": "http://tigeranddragons.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6853549,
+          49.4066844
+        ]
+      },
+      "id": "node/332582912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/334639086",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Chinh Phat",
+        "note": "Eingang stufenlos, WC unbekannt",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 5772042",
+        "website": "http://www.chinh-phat.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5833673,
+          49.3696314
+        ]
+      },
+      "id": "node/334639086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353270277",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Vite Osteria e Pizzeria",
+        "old_name": "Zum Steinbrecher",
+        "opening_hours": "Tu-Su 15:00-23:00",
+        "outdoor_seating": "yes",
+        "website": "http://lavite-dossenheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6780503,
+          49.4518111
+        ]
+      },
+      "id": "node/353270277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353270382",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "MeKong",
+        "opening_hours": "Tu,Fr 11:00-15:00,17:00-22:00;Sa,Su 12:00-22:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6725637,
+          49.4506505
+        ]
+      },
+      "id": "node/353270382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364059054",
+        "amenity": "restaurant",
+        "name": "Ristorante zum Schützenhaus",
+        "opening_hours": "Th-Tu 11:30-14:30, 17:30-24:00",
+        "operator": "Raffaela GRILLO",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 8736642",
+        "website": "http://www.schuetzenverein-dossenheim.de/gaststatte/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6685786,
+          49.4429378
+        ]
+      },
+      "id": "node/364059054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364491154",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "69123",
+        "addr:street": "Wieblinger Weg",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Heinstein's",
+        "website": "http://www.heinsteins.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6592347,
+          49.4091366
+        ]
+      },
+      "id": "node/364491154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364735185",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69117",
+        "addr:street": "Elisabethenweg",
+        "alt_name": "Schießhaus",
+        "amenity": "restaurant",
+        "name": "'S' Kastanie",
+        "website": "http://www.restaurant-s-kastanie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7239221,
+          49.4129225
+        ]
+      },
+      "id": "node/364735185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364775613",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1/2",
+        "addr:postcode": "69120",
+        "addr:street": "Brückenkopfstraße",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Moghul Tandoori Restaurant",
+        "toilets:wheelchair": "no",
+        "website": "http://www.moghul-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6927118,
+          49.4136373
+        ]
+      },
+      "id": "node/364775613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364775649",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "69117",
+        "addr:street": "Zwingerstraße",
+        "amenity": "restaurant",
+        "name": "Schlossberg-Keller",
+        "opening_hours": "Tu-Fr 17:00-22:00; Sa,PH 11:30-22:00; Su 11:30-20:00",
+        "toilets:wheelchair": "no",
+        "website": "http://schlossbergkeller-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7119671,
+          49.4113083
+        ]
+      },
+      "id": "node/364775649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364775655",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "description": "mainmenu:9.50, water:0.54",
+        "internet_access": "no",
+        "lastcheck": "2017-08-08",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Essighaus",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Su 11:30-0:30",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 22496",
+        "smoking": "yes",
+        "website": "http://essighaus.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7037209,
+          49.4095441
+        ]
+      },
+      "id": "node/364775655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370001584",
+        "abandoned:website": "http://www.schuetzenhaus-ladenburg.de",
+        "addr:city": "Ladenburg",
+        "addr:housenumber": "8",
+        "addr:postcode": "68526",
+        "addr:street": "Neuweg",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Forschner's im Schützenhaus",
+        "old_name": "Schützenhaus Ladenburg",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "operator": "Melanie Forschner & Karl Forschner",
+        "phone": "+49 6203 402850",
+        "toilets:wheelchair": "no",
+        "website": "http://forschner-schuetzenhaus.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6300123,
+          49.4594924
+        ]
+      },
+      "id": "node/370001584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380794122",
+        "amenity": "restaurant",
+        "name": "Ambiente",
+        "website": "http://www.ambiente-dossenheim.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6682704,
+          49.4419775
+        ]
+      },
+      "id": "node/380794122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412516692",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69120",
+        "addr:street": "Mönchhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "email": "info@alter-moenchhof.de",
+        "internet_access": "wlan",
+        "name": "Alter Mönchhof",
+        "phone": "+49 6221 9850921",
+        "source": "local_knowledge",
+        "website": "http://www.alter-moenchhof.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6911794,
+          49.4170834
+        ]
+      },
+      "id": "node/412516692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412696432",
+        "addr:housenumber": "5",
+        "addr:street": "Obere Neckarstraße",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Cocodec",
+        "outdoor_seating": "yes",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.710581,
+          49.4133905
+        ]
+      },
+      "id": "node/412696432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418947690",
+        "amenity": "restaurant",
+        "name": "Zum Bären Garni",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6625092,
+          49.4415607
+        ]
+      },
+      "id": "node/418947690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429557226",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Zum Kleintierzuchtverein Goggelrobber",
+        "opening_hours": "Mo, We-Su 10:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 13589",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5894134,
+          49.4008805
+        ]
+      },
+      "id": "node/429557226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429557232",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/Restaurant-Dionysos-Zur-Gartenlaube-321043927997459/",
+        "cuisine": "greek",
+        "name": "Restaurant Dionysos - \"Zur Gartenlaube\"",
+        "opening_hours": "Tu-Sa 17:00-00:00; Su 11:00-14:00, 17:00-00:00",
+        "phone": "+49 6202 1281350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5885086,
+          49.398721
+        ]
+      },
+      "id": "node/429557232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429810459",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Il Sogno",
+        "website": "http://www.ilsogno-hd.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773841,
+          49.4146001
+        ]
+      },
+      "id": "node/429810459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440169445",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "69118",
+        "addr:street": "Wilhelmsfelder Straße",
+        "amenity": "restaurant",
+        "name": "Grüner Baum",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7518747,
+          49.4376003
+        ]
+      },
+      "id": "node/440169445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526137",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "217",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "name": "Zum Roten Ochsen",
+        "website": "http://www.roterochsen.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7133593,
+          49.4127909
+        ]
+      },
+      "id": "node/444526137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526143",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "69117",
+        "addr:street": "Neckarmünzgasse",
+        "amenity": "restaurant",
+        "name": "Heidelberger Schnitzelhaus",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7142038,
+          49.4135426
+        ]
+      },
+      "id": "node/444526143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448136117",
+        "amenity": "restaurant",
+        "name": "Dorfschänke",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6902743,
+          49.4142986
+        ]
+      },
+      "id": "node/448136117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/458401295",
+        "alt_name": "Gaststätte Zum Vogelpark",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "fax": "+49 6202 7609220",
+        "name": "Pizzeria zum Vogelpark",
+        "opening_hours": "Mo-Su 11:30-14:30,17:30-22:30;Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 7609221",
+        "website": "http://www.pizzeria-zum-vogelpark.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5874333,
+          49.3969722
+        ]
+      },
+      "id": "node/458401295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463173522",
+        "amenity": "restaurant",
+        "name": "Makedonia",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6645282,
+          49.3876769
+        ]
+      },
+      "id": "node/463173522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472955320",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69126",
+        "addr:street": "Schrebergartenweg",
+        "amenity": "restaurant",
+        "name": "Kirchheimer Loch",
+        "outdoor_seating": "yes",
+        "website": "https://de-de.facebook.com/pages/Kirchheimer-Loch/391815684235005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6790012,
+          49.391544
+        ]
+      },
+      "id": "node/472955320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495341371",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Restaurant Dufke",
+        "opening_hours": "Mo-Su 17:30-24:00; Mo 11:30-14:00; We 11:30-14:00; Th 11:30-14:00; Fr 11:30-14:00; Su 11:30-14:00; Tu off",
+        "website": "http://www.restaurant-dufke.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6733019,
+          49.3792802
+        ]
+      },
+      "id": "node/495341371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/539586950",
+        "amenity": "restaurant",
+        "description": "Vereinsgaststätte des Heidelberger Ruderklub 1872 e.V.",
+        "name": "Zum Achter",
+        "website": "http://www.zum-achter.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6943202,
+          49.4136357
+        ]
+      },
+      "id": "node/539586950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/552083904",
+        "addr:housenumber": "3",
+        "addr:postcode": "68535",
+        "addr:street": "Drechslerstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "no",
+        "email": "info@toni-edingen.de",
+        "lunch_specials": "yes",
+        "name": "bei Toni",
+        "opening_hours": "Tu-Su 11:00-14:30,17:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 82 550",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "http://www.toni-edingen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5955545,
+          49.454629
+        ]
+      },
+      "id": "node/552083904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/552601632",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "fax": "06229 933816",
+        "name": "Zum Ambtmann",
+        "opening_hours": "We-Sa 18:00+; Su 12:00-14:00,18:00+",
+        "outdoor_seating": "yes",
+        "phone": "06229 2115",
+        "website": "http://zum-ambtman.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8374686,
+          49.4075479
+        ]
+      },
+      "id": "node/552601632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567441919",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "26",
+        "addr:postcode": "69115",
+        "addr:street": "Römerstraße",
+        "amenity": "restaurant",
+        "name": "SameSame",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behindertentoilette vorhanden, ebenerdig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6845834,
+          49.4040861
+        ]
+      },
+      "id": "node/567441919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574120016",
+        "addr:housenumber": "15",
+        "addr:street": "Heidelberger Straße",
+        "amenity": "restaurant",
+        "name": "Zum Rössl",
+        "opening_hours": "We-Sa 12:00-14:00,17:30-21:00; Su,PH 11:30-14:30,17:00-21:00",
+        "phone": "+49 6223 - 2665",
+        "tourism": "guest_house",
+        "website": "https://www.roessl-waldhilsbach.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7701896,
+          49.3729629
+        ]
+      },
+      "id": "node/574120016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/580871156",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "email": "hendsemer-loeb@t-online.de",
+        "name": "Zum Hendsemer Löb",
+        "operator": "Edwin Gutfleisch",
+        "phone": "+49 6221 6547776",
+        "website": "http://www.hendsemer-löb.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6617121,
+          49.4258813
+        ]
+      },
+      "id": "node/580871156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/610482814",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:postcode": "68535",
+        "addr:suburb": "Edingen",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Bei Pepi",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6069663,
+          49.4513272
+        ]
+      },
+      "id": "node/610482814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639642935",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "28-30",
+        "addr:postcode": "69115",
+        "addr:street": "Schillerstraße",
+        "amenity": "restaurant",
+        "cuisine": "japanese;sushi",
+        "email": "info@josef-biffar.de",
+        "name": "fumi",
+        "opening_hours": "Tu-Th 18:00-22:00; Fr,Sa 11:30-13:30,18:00-22:00",
+        "operator": "Weingut Josef Biffar",
+        "payment:cash": "yes",
+        "phone": "+49 6221 67326 30",
+        "smoking": "no",
+        "website": "https://www.josef-biffar.de/de/page/179/fumi-heidelberg.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6878667,
+          49.3995283
+        ]
+      },
+      "id": "node/639642935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660106656",
+        "addr:housenumber": "5",
+        "addr:postcode": "69120",
+        "addr:street": "Brückenstraße",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Chinatown",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6920559,
+          49.4139051
+        ]
+      },
+      "id": "node/660106656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660580381",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "69120",
+        "addr:street": "Brückenstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Salerno il Calabrese",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6922037,
+          49.4162757
+        ]
+      },
+      "id": "node/660580381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667929782",
+        "amenity": "restaurant",
+        "name": "Weinstube",
+        "operator": "Heidelberger SchlossRestaurants & Events GmbH & Co. KG",
+        "outdoor_seating": "yes",
+        "phone": "+4962218727000",
+        "website": "http://www.heidelberger-schloss-gastronomie.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7158634,
+          49.4104204
+        ]
+      },
+      "id": "node/667929782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/711951350",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "davinci",
+        "toilets:wheelchair": "no",
+        "website": "http://davinci-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6889278,
+          49.4055996
+        ]
+      },
+      "id": "node/711951350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/711960019",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Gogi Matcha",
+        "old_name": "Brass Monkey",
+        "toilets:wheelchair": "no",
+        "website": "http://gogi-matcha.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7088991,
+          49.4131044
+        ]
+      },
+      "id": "node/711960019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763262335",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "69151",
+        "addr:street": "Neckargemünder Straße",
+        "addr:suburb": "Dilsberg",
+        "amenity": "restaurant",
+        "name": "Linde",
+        "website": "http://www.gasthaus-linde-dilsberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8407791,
+          49.3922126
+        ]
+      },
+      "id": "node/763262335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/767280961",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "74",
+        "addr:postcode": "69126",
+        "addr:street": "Karlsruher Straße",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Indian Palace",
+        "phone": "+49 6221 600710",
+        "website": "http://www.indian-palace-heidelberg.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6894351,
+          49.3813154
+        ]
+      },
+      "id": "node/767280961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772747881",
+        "addr:city": "Wiesenbach",
+        "addr:housenumber": "91",
+        "addr:postcode": "69257",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6223 5896",
+        "contact:website": "http://www.pizzeria-palermo-wiesenbach.de/",
+        "cuisine": "italian",
+        "name": "Palermo",
+        "opening_hours": "Mo off; Tu-Fr 11:00-14:00,17:00-23:00; Sa 17:00-22:30; Su,PH 11:00-22:30",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8135323,
+          49.3597137
+        ]
+      },
+      "id": "node/772747881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775872612",
+        "amenity": "restaurant",
+        "old_name": "Dorade Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6696286,
+          49.3864285
+        ]
+      },
+      "id": "node/775872612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775872627",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:postcode": "69124",
+        "addr:street": "Hegenichstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Europa",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:00-23:30; Sa,Su 11:30-23:30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6667238,
+          49.3773672
+        ]
+      },
+      "id": "node/775872627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/776424356",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "95",
+        "addr:postcode": "69124",
+        "addr:street": "Pleikartsförster Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Vecchia Bari",
+        "opening_hours": "Mo-Su 10:30-14:00,17:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 6557969",
+        "toilets:wheelchair": "no",
+        "website": "http://www.trattoriavb.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Eine zweigeteilte Rampe steht auf Anfrage zur Verfügung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6624254,
+          49.3834553
+        ]
+      },
+      "id": "node/776424356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/792984533",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Hellas Restaurant (DJK)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6577657,
+          49.4257744
+        ]
+      },
+      "id": "node/792984533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811505976",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "69123",
+        "addr:street": "Im Buschgewann",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Taormina",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6480834,
+          49.3974421
+        ]
+      },
+      "id": "node/811505976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919676887",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69120",
+        "addr:street": "Bergstraße",
+        "amenity": "restaurant",
+        "name": "Bar d'Aix en Provence",
+        "smoking": "outside",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6932058,
+          49.4139993
+        ]
+      },
+      "id": "node/919676887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513809",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "greek",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Goldener Stern",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Su 17:00-24:00",
+        "outdoor": "unknown",
+        "phone": "+49 6221 23937",
+        "smoking": "no",
+        "website": "http://www.stern-hd.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7072377,
+          49.4131782
+        ]
+      },
+      "id": "node/1029513809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513822",
+        "addr:postcode": "69117",
+        "amenity": "restaurant",
+        "cuisine": "eritrean",
+        "internet_access": "no",
+        "menu": "no",
+        "menu_languages": "english, german",
+        "name": "Kilimanjaro",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Tu-Su 17:00-24:00",
+        "outdoor": "unknown",
+        "smoking": "unkown",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707588,
+          49.4129985
+        ]
+      },
+      "id": "node/1029513822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513830",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Schnookeloch",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Su 11:30-24:00",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://www.schnookeloch-heidelberg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7089355,
+          49.4129241
+        ]
+      },
+      "id": "node/1029513830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513867",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "yes",
+        "menu": "no",
+        "menu_languages": "german",
+        "name": "Osteria Alfredo",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Sa 12:00-22:00; Su off",
+        "outdoor": "yes",
+        "phone": "+49 6221 6551999",
+        "smoking": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "zwei hohe Stufen am Eingang, bei schönem Wetter kann man draußen sitzen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708027,
+          49.4121386
+        ]
+      },
+      "id": "node/1029513867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513871",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "menu": "no",
+        "menu_languages": "english, german, italian",
+        "name": "Mercato",
+        "number_of_menulanguages": "3",
+        "opening_hours": "Th-Fr 11:00-14:40; Sa-Su 11:30-23:30",
+        "outdoor": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7095125,
+          49.4123763
+        ]
+      },
+      "id": "node/1029513871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513885",
+        "addr:housenumber": "5",
+        "addr:street": "Haspelgasse",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "internet_access": "no",
+        "name": "Oskar",
+        "number_of_menulanguages": "unknown",
+        "opening_hours": "Mo-Sa 18:00+",
+        "outdoor": "no",
+        "phone": "+4962214319034",
+        "website": "http://www.oskar-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7091657,
+          49.4126984
+        ]
+      },
+      "id": "node/1029513885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513917",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Reichskrone",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Fr 17:00-01:00, Sa-Su 11:30-01:00",
+        "outdoor": "yes",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7078103,
+          49.4132139
+        ]
+      },
+      "id": "node/1029513917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029535795",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69117",
+        "addr:street": "Friedrich-Ebert-Anlage",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "internet_access": "unknown",
+        "menu": "yes",
+        "menu_languages": "english, french, german",
+        "name": "Die Kurfürstenstube",
+        "number_of_menulanguages": "3",
+        "opening_hours": "Mo-Su 12:00-14:30,18:30-22:30",
+        "outdoor": "no",
+        "phone": "+49 6221 515506",
+        "price_mainmenu_€": "27,00",
+        "smoking": "unknown",
+        "website": "http://www.kurfuerstenstube.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6956416,
+          49.4079479
+        ]
+      },
+      "id": "node/1029535795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029572792",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "chinese, english, german, japanese",
+        "name": "Konomi",
+        "number_of_menulanguages": "4",
+        "opening_hours": "Tu-Sa 12:00-14:30, 18:00-23:00; Su 18:00-23:00; Mo off",
+        "outdoor": "no",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://konomi.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7014037,
+          49.4121887
+        ]
+      },
+      "id": "node/1029572792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029572841",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "unknown",
+        "menu": "no",
+        "menu_languages": "unknown",
+        "name": "Vinothek Goldener Anker",
+        "note": "main=13,35",
+        "number_of_menulanguages": "unknown",
+        "opening_hours": "unknown",
+        "outdoor": "no",
+        "smoking": "dedicated",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7001009,
+          49.4119737
+        ]
+      },
+      "id": "node/1029572841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040998783",
+        "addr:housenumber": "66",
+        "addr:street": "Neckarstaden",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "menu_languages": "unknown",
+        "name": "Wirtshaus zum Spreisel",
+        "number_of_menulanguages": "unknown",
+        "opening_hours": "Mo-Fr 17:00-24:00; Sa,Su 12:00-24:00",
+        "outdoor": "yes",
+        "smoking": "no",
+        "website": "http://www.wirtshaus-zum-spreisel.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7091392,
+          49.4130878
+        ]
+      },
+      "id": "node/1040998783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040998800",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "internet_access": "no",
+        "menu_languages": "chinese, german, english, japanese",
+        "name": "China Restaurant Asia",
+        "name:zh": "亚洲餐厅",
+        "opening_hours": "Mo-Su 9:00-24:00",
+        "outdoor": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7088836,
+          49.4132204
+        ]
+      },
+      "id": "node/1040998800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1080601013",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "151",
+        "addr:postcode": "69115",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "restaurant",
+        "name": "Tati",
+        "smoking": "no",
+        "website": "http://restaurant-tati.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675119,
+          49.4076691
+        ]
+      },
+      "id": "node/1080601013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197223",
+        "addr:housenumber": "83",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Poseidon",
+        "opening_hours": "Mo-Su 11:30-14:30,17:30-24:00; Tu off",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6911143,
+          49.4008854
+        ]
+      },
+      "id": "node/1097197223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197367",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Hugo",
+        "opening_hours": "Mo-Fr 11:00-01:00; Sa-Su,PH 00:00-01:00,17:00-01:00",
+        "phone": "+49 6221 5860120",
+        "website": "http://hugo-hd.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692209,
+          49.4036249
+        ]
+      },
+      "id": "node/1097197367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197440",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Hot Pot House",
+        "opening_hours": "Su-Th 11:00-14:30,17:30-22:30; Fr,Sa 11:00-14:30,17:30-23:00",
+        "phone": "+49 6221 5881466",
+        "website": "https://sites.google.com/site/hotpothousehd/home",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6925341,
+          49.4058494
+        ]
+      },
+      "id": "node/1097197440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197514",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "level": "1",
+        "name": "Da Mario",
+        "smoking": "no",
+        "website": "http://da-mario.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6927648,
+          49.4083996
+        ]
+      },
+      "id": "node/1097197514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197518",
+        "amenity": "restaurant",
+        "cuisine": "persian",
+        "name": "Darwisch",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6924048,
+          49.4055314
+        ]
+      },
+      "id": "node/1097197518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197521",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69115",
+        "addr:street": "Zähringerstraße",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Meson Madrid",
+        "opening_hours": "Mo,We-Sa 17:30-00:00; Su 12:00-14:00,17:30-00:00",
+        "phone": "+49622126397",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6916944,
+          49.401447
+        ]
+      },
+      "id": "node/1097197521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101923490",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "german",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Palmbräu Gasse",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Th 11:30-01:00, Fr-Sa 11:30-03:00, Su 11:30-03:00",
+        "outdoor": "no",
+        "phone": "+49 6221 28536",
+        "smoking": "no",
+        "website": "http://palmbraeu-gasse.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7087974,
+          49.411875
+        ]
+      },
+      "id": "node/1101923490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101948979",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "97",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Restaurant Kurpfälzisches Museum",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://www.restaurantkurpfaelzischesmuseumheidelberg.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7029371,
+          49.4115665
+        ]
+      },
+      "id": "node/1101948979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101949024",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Zum Güldenen Schaf",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Su 11:00-06:00",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://www.schaf-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70447,
+          49.4115445
+        ]
+      },
+      "id": "node/1101949024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1119484852",
+        "addr:housenumber": "8",
+        "addr:street": "Akademiestraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "lastcheck": "2017-08-08",
+        "menu": "yes",
+        "menu_languages": "german, italian",
+        "name": "Akademie",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo,Fr,Sa 18:00-23:00;Tu,We,Th 11:30-14:30,18:00-23:00;Su off",
+        "outdoor": "no",
+        "phone": "+49 6221 162000",
+        "price_mainmenu_€": "18,55",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "water_price_€": "1,05",
+        "website": "http://www.restaurant-akademie.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69798,
+          49.4091398
+        ]
+      },
+      "id": "node/1119484852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1159383046",
+        "amenity": "restaurant",
+        "name": "cube",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6546204,
+          49.4131305
+        ]
+      },
+      "id": "node/1159383046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1165411608",
+        "amenity": "restaurant",
+        "name": "Friedrichshof",
+        "opening_hours": "Mo,We,Th 11:00-14:00,17:00+;Su 11:00-14:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 85080",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6110219,
+          49.4473467
+        ]
+      },
+      "id": "node/1165411608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1165415859",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68535",
+        "addr:street": "Robert-Walter-Straße",
+        "addr:suburb": "Edingen",
+        "amenity": "restaurant",
+        "name": "Kegelsportgaststätte \"Bei Heidi\"",
+        "phone": "+49 6203 839630",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6073545,
+          49.4443553
+        ]
+      },
+      "id": "node/1165415859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1238189480",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "69120",
+        "addr:street": "Berliner Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Cesarino",
+        "opening_hours": "Mo-Fr 12:00-14:30 18:00-23:30; Sa 18:00-23:30",
+        "phone": "+49 6221 434441",
+        "website": "http://www.enoteca-cesarino.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6766696,
+          49.4178759
+        ]
+      },
+      "id": "node/1238189480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1299324149",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "13/2",
+        "addr:postcode": "69121",
+        "addr:street": "Tiergartenstraße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Valentino",
+        "old_name": "Caramel",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 473636",
+        "website": "http://www.ristorante-pizzeria-valentino.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "Restaurant ebenerdig, Stufe zur Terasse, keine Behindertentoilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6586938,
+          49.4213757
+        ]
+      },
+      "id": "node/1299324149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1305304851",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "69117",
+        "addr:street": "Neue Schlossstraße",
+        "amenity": "restaurant",
+        "name": "Gasthof Burgfreiheit",
+        "outdoor_seating": "yes",
+        "website": "http://www.burgfreiheit.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7140099,
+          49.4091855
+        ]
+      },
+      "id": "node/1305304851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1325686964",
+        "amenity": "restaurant",
+        "name": "Zur Sonne",
+        "website": "http://www.zur-sonne-dilsberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.836147,
+          49.3989434
+        ]
+      },
+      "id": "node/1325686964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329740602",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Altes Haus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.812196,
+          49.4309045
+        ]
+      },
+      "id": "node/1329740602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338917102",
+        "addr:city": "Plankstadt",
+        "addr:housenumber": "29/31",
+        "addr:postcode": "68723",
+        "addr:street": "Schwetzinger Straße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Die Wärtschaft",
+        "opening_hours": "10:00-00:00, Fr-Sa 10:00-01:00",
+        "outdoor_seating": "yes",
+        "website": "http://www.diewaertschaft.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5942608,
+          49.3920411
+        ]
+      },
+      "id": "node/1338917102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1361268168",
+        "amenity": "restaurant",
+        "name": "959",
+        "website": "https://www.959heidelberg.com/restaurant/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6948949,
+          49.4070769
+        ]
+      },
+      "id": "node/1361268168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1383144890",
+        "amenity": "restaurant",
+        "email": "info@ritter-heidelberg.de",
+        "fax": "+49 6221 135230",
+        "lastcheck": "2017-08-08",
+        "name": "Hotel zum Ritter St. Georg",
+        "phone": "+49 6221 1350",
+        "toilets:wheelchair": "no",
+        "website": "http://www.hotel-ritter-heidelberg.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7092584,
+          49.4117795
+        ]
+      },
+      "id": "node/1383144890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1510686557",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Hexestubb",
+        "website": "https://www.facebook.com/hexestubb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7459491,
+          49.3697869
+        ]
+      },
+      "id": "node/1510686557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1532730188",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "14a",
+        "addr:postcode": "69126",
+        "addr:street": "Boxbergring",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Da Rocco",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7031163,
+          49.3742086
+        ]
+      },
+      "id": "node/1532730188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539723720",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69117",
+        "addr:street": "Bauamtsgasse",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Schnitzelbank",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Fr 17:00-01:00, Sa-Su 11:30-01:00",
+        "outdoor": "no",
+        "phone": "+49 6221 21189",
+        "smoking": "no",
+        "website": "http://www.schnitzelbank-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7023168,
+          49.4114714
+        ]
+      },
+      "id": "node/1539723720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539771435",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Kupferkanne",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor": "no",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7051425,
+          49.4116275
+        ]
+      },
+      "id": "node/1539771435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539771456",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "11",
+        "addr:postcode": "69117",
+        "addr:street": "Schiffgasse",
+        "amenity": "restaurant",
+        "contact:email": "schneider@gasthaus-backmulde.de",
+        "contact:fax": "+49 6221 536660",
+        "contact:phone": "+49 6221 53660",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "unknown",
+        "name": "Gasthaus Backmulde",
+        "number_of_menulanguages": "unknown",
+        "opening_hours": "Mo-Sa 18:00-24:00; Su off",
+        "operator": "Zepf und Schneider GmbH",
+        "outdoor": "unknown",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7038095,
+          49.4119604
+        ]
+      },
+      "id": "node/1539771456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539815046",
+        "amenity": "restaurant",
+        "internet_access": "unknown",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Weisser Schwan",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Su 11:00-22:45",
+        "outdoor": "no",
+        "outdoor_seating": "yes",
+        "smoking": "unknown",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7065917,
+          49.4117679
+        ]
+      },
+      "id": "node/1539815046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539815137",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "int_name": "MoschMosch",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "MoschMosch",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Sa 11:00-23:00; Su,Ph 12:00-22:00",
+        "outdoor": "yes",
+        "phone": "+4962216509077",
+        "smoking": "no",
+        "start_date": "2016-08",
+        "toilets:wheelchair": "no",
+        "website": "http://www.moschmosch.com/restaurants-heidelberg.php",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7066124,
+          49.4116479
+        ]
+      },
+      "id": "node/1539815137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539815170",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Zum Franziskaner",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Su 11:00-23:30",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7067036,
+          49.4117707
+        ]
+      },
+      "id": "node/1539815170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539815200",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "lastcheck": "2017-08-14",
+        "name": "Die Kuh die lacht",
+        "opening_hours": "Mo-Sa 11:00-23:00; Su,PH 12:00-22:00",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7058568,
+          49.411725
+        ]
+      },
+      "id": "node/1539815200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539830324",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "internet_access": "no",
+        "lastcheck": "2017-08-08",
+        "menu": "no",
+        "name": "Pop",
+        "opening_hours": "Mo-Th 18:00-24:00;Fr,Sa 18:00-03:00",
+        "phone": "+49622125559",
+        "smoking": "no",
+        "website": "http://pop-restaurant.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7075562,
+          49.4122322
+        ]
+      },
+      "id": "node/1539830324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539856602",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Saigon Sonne",
+        "website": "http://www.saigon-heidelberg.de",
+        "wheelchair": "no",
+        "wheelchair:description": "Eine Stufe zum Eingang (Höhe 16cm)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7087365,
+          49.411759
+        ]
+      },
+      "id": "node/1539856602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539856632",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "internet_access": "yes",
+        "lastcheck": "2017-08-21",
+        "menu": "unkown",
+        "menu_languages": "german",
+        "name": "Weisser Bock",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Fr 17:00+;Sa 11:30+;Su off",
+        "outdoor": "yes",
+        "phone": "+49 6221 90000",
+        "smoking": "no",
+        "website": "http://www.weisserbock.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7060231,
+          49.4123197
+        ]
+      },
+      "id": "node/1539856632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1540089349",
+        "amenity": "restaurant",
+        "brewery": "Henninger",
+        "cuisine": "turkish",
+        "lastcheck": "2017-08-14",
+        "name": "Alte Gundtei",
+        "opening_hours": "Mo-Sa 17:00-1:00; Su 16:00+",
+        "phone": "+49622129395",
+        "smoking": "no",
+        "website": "http://alte-gundtei.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7108767,
+          49.4110277
+        ]
+      },
+      "id": "node/1540089349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1540126124",
+        "amenity": "restaurant",
+        "business": "conference rooms",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Kulturbrauerei Heidelberg",
+        "parking": "yes",
+        "phone": "+496221502980",
+        "restaurant": "yes",
+        "rooms": "43",
+        "stars": "3",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "http://www.heidelberger-kulturbrauerei.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Auf Nachfrage beim Personal gibt es keine Behindertentoilette, extra ebenerdiger Eingang der aufgeschlossen werden kann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7133745,
+          49.4131432
+        ]
+      },
+      "id": "node/1540126124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1597769078",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "4",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "email": "info@mr-wu-restaurant.de",
+        "fax": "+49 6221 6594688",
+        "name": "Mr. Wu",
+        "name:zh": "吴家菜",
+        "opening_hours": "Mo-Sa 11:30-15:00, 17:30-23:00; Su 11:30-23:00",
+        "phone": "+49 6221 9852018",
+        "toilets:wheelchair": "no",
+        "website": "http://www.mr-wu-restaurant.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6906512,
+          49.4062164
+        ]
+      },
+      "id": "node/1597769078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612834283",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "24-26",
+        "addr:postcode": "69115",
+        "addr:street": "Römerstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "DaBaggio",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "phone": "+49 6221 4341686",
+        "smoking": "no",
+        "website": "http://dabaggio.de",
+        "wheelchair": "no",
+        "wheelchair:description": "Eine Stufe am Eingang, Toiletten zu schmal für Rollstuhl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6845556,
+          49.4042691
+        ]
+      },
+      "id": "node/1612834283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612834297",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Santa Lucia",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6915874,
+          49.4060715
+        ]
+      },
+      "id": "node/1612834297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619582840",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "25",
+        "addr:postcode": "69117",
+        "addr:street": "Neckarstaden",
+        "amenity": "restaurant",
+        "name": "Pier 4",
+        "phone": "+49 6221 9852797",
+        "toilets:wheelchair": "yes",
+        "website": "http://pier4-heidelberg.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "Zugang über Kopfsteinpflaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7014032,
+          49.4129103
+        ]
+      },
+      "id": "node/1619582840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657964080",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "14",
+        "addr:postcode": "69117",
+        "addr:street": "Grabengasse",
+        "amenity": "restaurant",
+        "name": "Triplex-Mensa",
+        "phone": "+49 6221 54 26 44",
+        "source": "wheelmap",
+        "website": "http://www.studentenwerk-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7058334,
+          49.410693
+        ]
+      },
+      "id": "node/1657964080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676237820",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "69115",
+        "addr:street": "Willy-Brandt-Platz",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Metropolis",
+        "opening_hours": "Su-Th 09:00-24:00, Fr-Sa 09:00-01:00",
+        "toilets:wheelchair": "no",
+        "website": "http://metropolis-heidelberg-hbf.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6762894,
+          49.4038715
+        ]
+      },
+      "id": "node/1676237820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682568614",
+        "addr:city": "Bammental",
+        "addr:country": "DE",
+        "addr:housenumber": "53",
+        "addr:postcode": "69245",
+        "addr:street": "Oberdorfstraße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Korfu",
+        "opening_hours": "Tu-Fr 17:00-23:00; Su,PH 11:30-14:00,17:00-22:30",
+        "website": "http://www.korfu-beialex.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7799127,
+          49.3611414
+        ]
+      },
+      "id": "node/1682568614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1691301406",
+        "addr:city": "Bammental",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69245",
+        "addr:street": "Wiesenbacher Straße",
+        "amenity": "restaurant",
+        "name": "Alte Schmiede",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7827652,
+          49.3579375
+        ]
+      },
+      "id": "node/1691301406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1691301454",
+        "addr:city": "Bammental",
+        "addr:housenumber": "8",
+        "addr:postcode": "69245",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "last_check": "2018-05",
+        "name": "Pizzeria Ristorante Pavarotti",
+        "opening_hours": "11:00-14:30,17:00-23:00;We off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6223 48081",
+        "website": "http://www.pizzeria-eiscafe-pavarotti.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7813495,
+          49.3581874
+        ]
+      },
+      "id": "node/1691301454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692216595",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "93",
+        "addr:postcode": "69115",
+        "addr:street": "Gaisbergstraße",
+        "amenity": "restaurant",
+        "name": "Hutzelwald",
+        "phone": "+49 6221 23558",
+        "website": "http://www.hutzelwald.de/",
+        "wheelchair": "no",
+        "wheelchair:description": "hohe Stufen am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6920257,
+          49.400385
+        ]
+      },
+      "id": "node/1692216595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1727214043",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:postcode": "69115",
+        "addr:street": "Kurfürsten-Anlage",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Asia Bistro",
+        "opening_hours": "Su-Fr 11:00-22:00",
+        "website": "http://asia-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6752473,
+          49.4054553
+        ]
+      },
+      "id": "node/1727214043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832829574",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "69121",
+        "addr:street": "Rottmannstraße",
+        "amenity": "restaurant",
+        "email": "antonio@ai-portici.de",
+        "name": "Ristorante Ai Portici",
+        "opening_hours": "We-Su,Mo 12:00-15:00,18:00-24:00; Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 472817",
+        "smoking:outside": "yes",
+        "website": "http://www.ai-portici.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6874951,
+          49.4247718
+        ]
+      },
+      "id": "node/1832829574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1845034271",
+        "amenity": "restaurant",
+        "name": "Winzli",
+        "opening_hours": "Mo-Sa 17:00-23:00",
+        "operator": "Roberto Barrial Garcia",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 9568823",
+        "website": "http://troendle-sportcenter.de/kueche/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5981499,
+          49.4526935
+        ]
+      },
+      "id": "node/1845034271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1910204253",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "28",
+        "addr:postcode": "69121",
+        "addr:street": "Wiesenweg",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Zum Kroddeweiher",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6752346,
+          49.4373792
+        ]
+      },
+      "id": "node/1910204253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1975523420",
+        "amenity": "restaurant",
+        "name": "Der kleine Pfaffe",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7253535",
+        "website": "http://www.derkleinepfaffe.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.652267,
+          49.397512
+        ]
+      },
+      "id": "node/1975523420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985016800",
+        "amenity": "restaurant",
+        "contact:email": "info@jabers.de",
+        "contact:phone": "+49 6229 9339455",
+        "contact:website": "http://jabers.de",
+        "name": "Jaber's Garden",
+        "opening_hours": "Tu-Sa 11:00-22:00;Su,Ph 11:00-21:00",
+        "operator": "Haissam Jaber",
+        "outdoor_seating": "yes",
+        "website": "http://jabers.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8366432,
+          49.4073979
+        ]
+      },
+      "id": "node/1985016800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985022040",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Armonia Italiana",
+        "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:00; Su 11:00-14:00,17:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6223 488389",
+        "website": "http://armonia-italiana.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.779354,
+          49.3523259
+        ]
+      },
+      "id": "node/1985022040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988976944",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Rossini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6667914,
+          49.3479094
+        ]
+      },
+      "id": "node/1988976944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017958525",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "69117",
+        "addr:street": "Klingenteichstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Piccolo Mondo",
+        "opening_hours": "Tu-Su 12:00-15:00,18:00-24:00",
+        "source": "survey;image",
+        "website": "http://www.piccolomondo-hd.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7054045,
+          49.4087049
+        ]
+      },
+      "id": "node/2017958525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022154307",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "email": "info@goldenerloewe-eppelheim.de",
+        "fax": "+49 6221 73692240",
+        "name": "Zum Goldenen Löwen",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+49 6221 736920",
+        "website": "https://goldenerloewe-eppelheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6271797,
+          49.399035
+        ]
+      },
+      "id": "node/2022154307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030657127",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "5",
+        "addr:postcode": "69120",
+        "addr:street": "Neuenheimer Landstraße",
+        "amenity": "restaurant",
+        "capacity": "110",
+        "cuisine": "italian",
+        "name": "Rossini",
+        "opening_hours": "11:00-15:00,17:30-24:00",
+        "phone": "+49 6221 9148710",
+        "smoking": "isolated",
+        "website": "http://www.rossini-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6936066,
+          49.4136428
+        ]
+      },
+      "id": "node/2030657127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2042256261",
+        "amenity": "restaurant",
+        "name": "Weingut Seeger Weinstube",
+        "opening_hours": "Tu-Fr 18:00-23:00",
+        "phone": "+49 6224 77207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6890463,
+          49.3586064
+        ]
+      },
+      "id": "node/2042256261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2053330787",
+        "amenity": "restaurant",
+        "name": "\"Classic Arena\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6346633,
+          49.3936534
+        ]
+      },
+      "id": "node/2053330787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2074239626",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69117",
+        "addr:street": "Steingasse",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Thai Restaurant Phuket",
+        "website": "http://www.thairestaurant-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7096746,
+          49.4130496
+        ]
+      },
+      "id": "node/2074239626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2101594022",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Grill-Restaurant AKIS \"Zum Schützenhaus\"",
+        "opening_hours": "Mo off;Tu-Sa 11:30-14:00,17:00-23:00;Su,Ph 11:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7575705",
+        "website": "http://www.grill-restaurant-akis.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633682,
+          49.3886168
+        ]
+      },
+      "id": "node/2101594022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2116111891",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "6",
+        "addr:postcode": "69214",
+        "addr:street": "Birkighöfe",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Stephan's Restaurant",
+        "website": "http://www.birkenhof-eppelheim.de/restaurant.htm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6153153,
+          49.392174
+        ]
+      },
+      "id": "node/2116111891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2125263400",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "50",
+        "addr:postcode": "69214",
+        "addr:street": "Peter-Böhm-Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Campo Sportivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6353292,
+          49.3968006
+        ]
+      },
+      "id": "node/2125263400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2125454625",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "lastcheck": "2017-08-14",
+        "name": "iKOI",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "website": "http://www.ikoisushi.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7034106,
+          49.4114228
+        ]
+      },
+      "id": "node/2125454625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2130997012",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Zafferano",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6896463,
+          49.4079098
+        ]
+      },
+      "id": "node/2130997012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140514458",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "23",
+        "addr:postcode": "69214",
+        "addr:street": "Wieblinger Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Nico",
+        "phone": "+49 6221 761020",
+        "website": "http://www.danico-ristorante.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632904,
+          49.4027703
+        ]
+      },
+      "id": "node/2140514458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140514459",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "fax": "+49 6221 765390",
+        "name": "Eppel's Eichbaum Theke",
+        "opening_hours": "Mo-Su 16:00+",
+        "phone": "+49 6221 765390",
+        "website": "http://www.hauhecke.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6305168,
+          49.4001069
+        ]
+      },
+      "id": "node/2140514459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2147041780",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "name": "dean&david",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 11:00-20:00",
+        "website": "http://deananddavid.de/locations/alle-locations/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6917604,
+          49.4082939
+        ]
+      },
+      "id": "node/2147041780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2181394267",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "69115",
+        "addr:street": "Vangerowstraße",
+        "amenity": "restaurant",
+        "cuisine": "african",
+        "name": "Zum Blauen Nil",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6746131,
+          49.4084511
+        ]
+      },
+      "id": "node/2181394267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2181398848",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "69115",
+        "addr:street": "Alte Eppelheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Don Robert",
+        "website": "http://www.don-robert.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6789422,
+          49.4061961
+        ]
+      },
+      "id": "node/2181398848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2184900957",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Schwarzes Lamm",
+        "opening_hours": "Tu-Sa 11:30-14:15,17:30-23:00; Su 11:30-22:00",
+        "website": "http://www.gasthaus-lamm-ziegelhausen.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7611063,
+          49.4179298
+        ]
+      },
+      "id": "node/2184900957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2189170850",
+        "amenity": "restaurant",
+        "name": "Seeblick",
+        "note": "Betreiberwechsel Neueröffnung April 2016",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7657248,
+          49.3471304
+        ]
+      },
+      "id": "node/2189170850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2190567475",
+        "addr:city": "Gaiberg",
+        "addr:country": "DE",
+        "addr:place": "In den Weinäckern",
+        "addr:postcode": "69251",
+        "addr:street": "In den Weinäckern",
+        "amenity": "restaurant",
+        "name": "Berghof Weinäcker",
+        "opening_hours": "We-Sa 15:00+; Su, PH 11:00+",
+        "outdoor_seating": "yes",
+        "phone": "+49 6223 46009",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.berghof-gaiberg.de",
+        "wheelchair": "yes",
+        "wheelchair:description": "Öffnungszeiten Mo-Di Ruhetag Mi-Sa Ab 15:00 So Ab 11:00 Feiertage ab 11 Uhr. Durchgehend warme Küche bis 21 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7450924,
+          49.3619083
+        ]
+      },
+      "id": "node/2190567475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297243425",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Zum Petros",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6252267,
+          49.40625
+        ]
+      },
+      "id": "node/2297243425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308727767",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Wasana's Original Thai Kitchen",
+        "website": "http://www.wasanasthaikitchen.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8368444,
+          49.4077879
+        ]
+      },
+      "id": "node/2308727767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334288057",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "69151",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Limoncello",
+        "old_name": "Mio Limoncello",
+        "opening_hours": "We-Su 18:00-24:00",
+        "website": "http://www.limoncello-neckargemuend.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8000014,
+          49.39287
+        ]
+      },
+      "id": "node/2334288057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334333281",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69151",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "name": "Cin Cin",
+        "outdoor_seating": "yes",
+        "website": "http://cincin-ristorante.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7994081,
+          49.3935926
+        ]
+      },
+      "id": "node/2334333281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344694330",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69117",
+        "addr:street": "Obere Neckarstraße",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "email": "info@lateliercuisine.de",
+        "name": "L'Atelier Indochine Cuisine de Rue",
+        "outdoor_seating": "terrace",
+        "phone": "+49 6221 6731300",
+        "smoking": "outside",
+        "website": "http://lateliercuisine.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7097572,
+          49.4132974
+        ]
+      },
+      "id": "node/2344694330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2349764573",
+        "addr:city": "Bammental",
+        "addr:housenumber": "30",
+        "addr:postcode": "69245",
+        "addr:street": "Wiesenbacher Landstraße",
+        "amenity": "restaurant",
+        "name": "Rastecke B 45",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-15:00; Su,PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7967513,
+          49.3588496
+        ]
+      },
+      "id": "node/2349764573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2355957234",
+        "addr:city": "Bammental",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "69245",
+        "addr:street": "Reilsheimer Straße",
+        "amenity": "restaurant",
+        "fax": "+49 321 21021131",
+        "name": "Alte Tapetenfabrik",
+        "opening_hours": "We-Th 17:30-22:00;Fr 11:30-14:00,17:30-23:00;Sa 17:30-23:00;Su 11:30-14:30,17:30-22:00",
+        "phone": "+49 6223 866076",
+        "website": "http://www.alte-tapetenfabrik.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7760388,
+          49.3512309
+        ]
+      },
+      "id": "node/2355957234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2355957265",
+        "addr:city": "Bammental",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "69245",
+        "addr:street": "Fabrikstraße",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "name": "Landcafé zur Sonne",
+        "opening_hours": "We-Su 10:00-18:00",
+        "website": "https://de-de.facebook.com/LandcafeZurSonne",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7763175,
+          49.350036
+        ]
+      },
+      "id": "node/2355957265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2357546378",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69117",
+        "addr:street": "Heiliggeiststraße",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Korea",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+496221 22062",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71101,
+          49.4125123
+        ]
+      },
+      "id": "node/2357546378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2360609497",
+        "amenity": "restaurant",
+        "name": "Vierburgeneck",
+        "opening_hours": "17:30-20:00;Mo,Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6229 542",
+        "website": "https://www.vierburgeneck.de/herzlich-willkommen-im-neckartal-hotel-und-cafe-neckarsteinach/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8250575,
+          49.4037912
+        ]
+      },
+      "id": "node/2360609497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2392487913",
+        "amenity": "restaurant",
+        "name": "Gaststätte Hundesportverein",
+        "opening_hours": "We,Th,Sa 17:00+; Fr,Su 11:00+",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 14351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.589133,
+          49.3979431
+        ]
+      },
+      "id": "node/2392487913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2392488042",
+        "amenity": "restaurant",
+        "name": "TSG Eintracht Clubhaus Bei Helga",
+        "opening_hours": "Tu-Fr 17:00-24:00; Sa-Su 10:00-24:00",
+        "operator": "Helga & Gerhard Weber",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 25966",
+        "website": "http://www.tsg-eintracht-plankstadt.de/inhalt.php?id=6178&menu_level=2&id_mnu=7760&id_kunden=454",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5907869,
+          49.3960504
+        ]
+      },
+      "id": "node/2392488042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2392488048",
+        "amenity": "restaurant",
+        "fax": "+49 6202 6651179",
+        "name": "TSG Eintracht Vereinshaus Bei Theo",
+        "opening_hours": "Mo-Fr 17:00-24:00; Sa-Su 10:00-24:00",
+        "operator": "Nedeljko Todoric",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 6651178",
+        "website": "http://www.tsg-eintracht-plankstadt.de/inhalt.php?id=6177&menu_level=2&id_mnu=7760&id_kunden=454",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5899811,
+          49.3963501
+        ]
+      },
+      "id": "node/2392488048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2392663434",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Trappas",
+        "opening_hours": "Tu-Su 18:00-23:00",
+        "operator": "Karsten Trapp",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 5772885",
+        "website": "https://www.facebook.com/RestaurantTrappas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5836496,
+          49.3921265
+        ]
+      },
+      "id": "node/2392663434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421123511",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "11/1",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "VINCIdue",
+        "opening_hours": "Mo-Sa 11:00-24:00",
+        "toilets:wheelchair": "yes",
+        "website": "http://vinci-due.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6893369,
+          49.4071802
+        ]
+      },
+      "id": "node/2421123511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2438568237",
+        "amenity": "restaurant",
+        "cuisine": "german; greek",
+        "diet:vegetarian": "no",
+        "name": "Knossos",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669404,
+          49.4425096
+        ]
+      },
+      "id": "node/2438568237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446192891",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+49 6221 7099530",
+        "name": "Ristorante Il Pescatore",
+        "opening_hours": "Th-Tu 11:30-14:00, 17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7503991",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6462916,
+          49.4278664
+        ]
+      },
+      "id": "node/2446192891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2477672153",
+        "amenity": "restaurant",
+        "name": "Küchenmichel",
+        "opening_hours": "Mo-Su 12:00+",
+        "outdoor_seating": "yes",
+        "phone": "+49(0)6224/7664466",
+        "website": "https://landgut-lingental.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7236173,
+          49.353744
+        ]
+      },
+      "id": "node/2477672153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2477672154",
+        "amenity": "restaurant",
+        "name": "Sushi & Wine",
+        "old_name": "oben",
+        "opening_hours": "We-Sa 18:00+;Su 16:00+",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7235953,
+          49.3536708
+        ]
+      },
+      "id": "node/2477672154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2515193522",
+        "addr:city": "Leimen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69181",
+        "addr:street": "Nußlocher Straße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "name": "Brauerei-Ausschank",
+        "phone": "+49 6224 72519",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6924854,
+          49.3485498
+        ]
+      },
+      "id": "node/2515193522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536312290",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "29",
+        "addr:postcode": "69214",
+        "addr:street": "Friedrich-Ebert-Straße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Zum Lausbub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6291968,
+          49.399313
+        ]
+      },
+      "id": "node/2536312290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558344892",
+        "amenity": "restaurant",
+        "name": "Rosenkeller",
+        "opening_hours": "Mo-Th 19:00-24:00, Fr-Sa 19:00-01:00, Su 19:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7566116,
+          49.4181047
+        ]
+      },
+      "id": "node/2558344892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2588002432",
+        "amenity": "restaurant",
+        "capacity": "27",
+        "cuisine": "sushi",
+        "name": "Same Same",
+        "opening_hours": "Su-Th 12:00-22:00; Fr, Sa 12:00-23:00",
+        "phone": "+49 6221 7291737",
+        "smoking": "outside",
+        "source": "local knowledge",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.sushiheidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70967,
+          49.4129138
+        ]
+      },
+      "id": "node/2588002432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2599659587",
+        "amenity": "restaurant",
+        "name": "Backstube",
+        "operator": "Heidelberger SchlossRestaurants & Events GmbH & Co. KG",
+        "outdoor_seating": "yes",
+        "phone": "+4962218727000",
+        "website": "http://www.heidelberger-schloss-gastronomie.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7157086,
+          49.4104061
+        ]
+      },
+      "id": "node/2599659587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2599659588",
+        "amenity": "restaurant",
+        "description": "Kaffee & Snackbar im Fasskeller",
+        "name": "Fasskeller",
+        "operator": "Heidelberger SchlossRestaurants & Events GmbH & Co. KG",
+        "phone": "+4962218727000",
+        "website": "http://www.heidelberger-schloss-gastronomie.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7149178,
+          49.4108151
+        ]
+      },
+      "id": "node/2599659588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2631802752",
+        "addr:housenumber": "35",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "cuisine": "african",
+        "name": "Die Maske Afrikas",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://restaurants-diemaskeafrikas.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6910683,
+          49.3793251
+        ]
+      },
+      "id": "node/2631802752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640446005",
+        "addr:housenumber": "45",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 4307857",
+        "contact:website": "http://www.il-gambero-rosso.de/",
+        "cuisine": "italian",
+        "lastcheck": "2016-02-07",
+        "name": "Il Gambero Rosso",
+        "opening_hours": "Mo-Fr 17:30-22:45; Su 12:00-22:45",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919226,
+          49.3790377
+        ]
+      },
+      "id": "node/2640446005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722680377",
+        "amenity": "restaurant",
+        "name": "Pfälzer Hof",
+        "tourism": "hotel",
+        "website": "http://www.pfaelzerhof.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8084665,
+          49.4340183
+        ]
+      },
+      "id": "node/2722680377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781494800",
+        "addr:city": "Leimen",
+        "addr:postcode": "69181",
+        "addr:street": "Hessengasse",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Dioni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6894752,
+          49.3490464
+        ]
+      },
+      "id": "node/2781494800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786359051",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 302196",
+        "cuisine": "thai",
+        "name": "Baan Thai",
+        "opening_hours": "Tu-Sa 17:30-23:00; Su 11:30-14:00,17:30-23:00",
+        "toilets:wheelchair": "no",
+        "website": "http://www.baanthai-heidelberg.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6868257,
+          49.3786163
+        ]
+      },
+      "id": "node/2786359051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786359060",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "82",
+        "addr:postcode": "69126",
+        "addr:street": "Karlsruher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Italia",
+        "toilets:wheelchair": "no",
+        "website": "http://www.italia-heidelberg.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6888988,
+          49.3810339
+        ]
+      },
+      "id": "node/2786359060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807789707",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "4",
+        "addr:postcode": "69126",
+        "addr:street": "Buchwaldweg",
+        "amenity": "restaurant",
+        "name": "Bei Micha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7034774,
+          49.3727648
+        ]
+      },
+      "id": "node/2807789707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807789708",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "51",
+        "addr:postcode": "69126",
+        "addr:street": "Boxbergring",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Delphi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7047986,
+          49.3744103
+        ]
+      },
+      "id": "node/2807789708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2905271101",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "202",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "drive_in": "no",
+        "internet_access:fee": "no",
+        "microbrewery": "no",
+        "name": "Papi",
+        "organic": "no",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://papi-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7106965,
+          49.411882
+        ]
+      },
+      "id": "node/2905271101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2925986625",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Piccolo Cin Cin",
+        "wheelchair": "no",
+        "wheelchair:description": "Eingang 6 Stufen. Im Sommer könnte man vielleicht draußen sitzen. Kopfsteinpflaster."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6916012,
+          49.4135324
+        ]
+      },
+      "id": "node/2925986625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934630705",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "42",
+        "addr:postcode": "69124",
+        "addr:street": "Bruchhäuser Weg",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Sirtaki",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.654227,
+          49.369925
+        ]
+      },
+      "id": "node/2934630705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2943198586",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "255",
+        "addr:postcode": "69123",
+        "addr:street": "Mannheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Gaststätte zur Krone",
+        "opening_hours": "Tu-Fr 11:00-14:30, 17:00-24:00; Sa 17:00-24:00; Su 11:00-14:30, 17:00-22:00",
+        "operator": "Andreas Kyriakidis",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 836324",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6480351,
+          49.4252823
+        ]
+      },
+      "id": "node/2943198586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2945418400",
+        "addr:postcode": "69123",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Olympia",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6518895,
+          49.4190959
+        ]
+      },
+      "id": "node/2945418400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2946085078",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "lastcheck": "2017-08-14",
+        "name": "La Vite",
+        "opening_hours": "12:00-15:00,18:00-24:00",
+        "phone": "+49 6221 21413",
+        "website": "http://www.la-vite-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6900358,
+          49.4085554
+        ]
+      },
+      "id": "node/2946085078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2947213344",
+        "amenity": "restaurant",
+        "cuisine": "Flammkuchen",
+        "email": "reservierung@flammkuchenhof.de",
+        "name": "Flammkuchenhof",
+        "opening_hours": "Mo-Sa 17:00-00:00;Su 12:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7263018",
+        "toilets:wheelchair": "no",
+        "website": "http://www.flammkuchenhof.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6425471,
+          49.4177824
+        ]
+      },
+      "id": "node/2947213344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2956195060",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "2",
+        "addr:postcode": "69214",
+        "addr:street": "Hermann-Wittmann-Straße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "ASV Clubhaus Zum Kosta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6285023,
+          49.3903675
+        ]
+      },
+      "id": "node/2956195060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2978594555",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizzeria Aquila",
+        "opening_hours": "We off; Th-Tu 09:30-01:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5831332,
+          49.3699452
+        ]
+      },
+      "id": "node/2978594555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014814256",
+        "addr:city": "Schwetzingen",
+        "addr:housenumber": "1",
+        "addr:postcode": "68723",
+        "addr:street": "Carl-Benz-Straße",
+        "amenity": "restaurant",
+        "cuisine": "chinese;asian",
+        "name": "China Restaurant Holiday",
+        "smoking": "outside",
+        "website": "http://www.holiday-restaurant.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5841693,
+          49.3775162
+        ]
+      },
+      "id": "node/3014814256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3039850391",
+        "addr:city": "Oftersheim",
+        "addr:housenumber": "9",
+        "addr:postcode": "68723",
+        "addr:street": "Jahnstraße",
+        "amenity": "restaurant",
+        "capacity": "150",
+        "contact:phone": "+49.6202.51973",
+        "cuisine": "croatian;german",
+        "delivery": "no",
+        "name": "TSV Clubhaus",
+        "opening_hours": "Mo off; Tu-Fr 17:00-23:00; Sa-Su 11:00-14:30,17:00-23:00; PH 11:00-14:30",
+        "operator": "TSV 1895 Oftersheim e.V.",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 51973",
+        "takeaway": "yes",
+        "website": "https://www.tsv-oftersheim.de/clubhaus",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.583688,
+          49.3587893
+        ]
+      },
+      "id": "node/3039850391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280870477",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "36/5",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "name": "Urban Kitchen",
+        "outdoor_seating": "yes",
+        "website": "http://urban-kitchen-heidelberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6883819,
+          49.4077588
+        ]
+      },
+      "id": "node/3280870477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3281017917",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Pronta",
+        "phone": "+49 6221 302003;+49 6221 302004",
+        "website": "http://www.pizzapronta.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6875397,
+          49.3788201
+        ]
+      },
+      "id": "node/3281017917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286104535",
+        "amenity": "restaurant",
+        "cuisine": "italian, ice_cream",
+        "level": "0",
+        "name": "Amalfi",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6855701,
+          49.3670568
+        ]
+      },
+      "id": "node/3286104535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3374430471",
+        "amenity": "restaurant",
+        "capacity": "140",
+        "cuisine": "spanish",
+        "name": "Carlos",
+        "smoking": "outside",
+        "takeaway": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6865429,
+          49.3507879
+        ]
+      },
+      "id": "node/3374430471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470532349",
+        "addr:housenumber": "6",
+        "addr:street": "Klosterstraße",
+        "amenity": "restaurant",
+        "name": "Café Baden",
+        "website": "http://www.cafebaden.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8096483,
+          49.4354326
+        ]
+      },
+      "id": "node/3470532349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3490540850",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "15",
+        "addr:postcode": "69118",
+        "addr:street": "Wolfsbrunnensteige",
+        "amenity": "restaurant",
+        "name": "Wolfsbrunnen",
+        "toilets:wheelchair": "yes",
+        "website": "http://restaurant-wolfsbrunnen.de",
+        "wheelchair": "yes",
+        "wheelchair:description": "Rollstuhltoilette geradeaus an Toilettenpfeil vorbei - Stufen nur zu Tagungsräumen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7459022,
+          49.411345
+        ]
+      },
+      "id": "node/3490540850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3548403599",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "20",
+        "addr:postcode": "69126",
+        "addr:street": "Felix-Wankel-Straße",
+        "amenity": "restaurant",
+        "capacity": "30",
+        "contact:email": "heidelberg@oh-angie.de",
+        "cuisine": "italian",
+        "name": "Oh Angie",
+        "opening_hours": "Mo-Sa 07:30-24:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://oh-angie.de/heidelberg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6786192,
+          49.383586
+        ]
+      },
+      "id": "node/3548403599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3613411402",
+        "addr:city": "Heidelberg-Neuenheim",
+        "addr:housenumber": "38",
+        "addr:postcode": "69120",
+        "addr:street": "Ladenburger Straße",
+        "amenity": "restaurant",
+        "capacity": "100",
+        "cuisine": "german",
+        "lastcheck": "2016-03-05",
+        "name": "Gasthaus Kyffhäuser",
+        "phone": "+496221409886",
+        "smoking": "no",
+        "takeaway": "no",
+        "website": "http://www.kyffhaeuser-dasgasthaus.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6882102,
+          49.4143434
+        ]
+      },
+      "id": "node/3613411402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3657257202",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "EMBL canteen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7090625,
+          49.3845905
+        ]
+      },
+      "id": "node/3657257202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3676253199",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "7",
+        "addr:postcode": "69117",
+        "addr:street": "Steingasse",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Hackteufel",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7096857,
+          49.4127988
+        ]
+      },
+      "id": "node/3676253199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3696546505",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@etna-ristorante.de",
+        "lunch_specials": "yes",
+        "name": "Ristorante Etna im Pfälzer hof",
+        "opening_hours": "Su, Mo, We, Th, Fr 11:30-14:30, 17:30-23:30; Sa 17:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 81179",
+        "source": "Bing",
+        "website": "http://www.etna-ristorante.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6092526,
+          49.450532
+        ]
+      },
+      "id": "node/3696546505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3696546506",
+        "amenity": "restaurant",
+        "lunch_specials": "yes",
+        "name": "Zur Glucke",
+        "opening_hours": "Tu-Sa 11:30-14:30, 17:30-23:00; Su 11:30-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 955790",
+        "website": "http://www.zur-glucke.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.606093,
+          49.4544635
+        ]
+      },
+      "id": "node/3696546506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3773428902",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "36",
+        "addr:postcode": "69121",
+        "addr:street": "Klausenpfad",
+        "amenity": "restaurant",
+        "name": "Olive",
+        "website": "http://olive-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6725966,
+          49.4225893
+        ]
+      },
+      "id": "node/3773428902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3808463897",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "221-223",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "email": "info@sudpfanne-heidelberg.de",
+        "name": "Hotel & Restaurant Sudpfanne",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 163636",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "http://www.sudpfanne-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7138084,
+          49.4129263
+        ]
+      },
+      "id": "node/3808463897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814130630",
+        "amenity": "restaurant",
+        "contact:facebook": "https://facebook.com/Café-am-GeoPark-721782504547680",
+        "contact:phone": "+49 6229 708914",
+        "name": "Cafe am Geopark",
+        "opening_hours": "11:00-18:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8373266,
+          49.4073289
+        ]
+      },
+      "id": "node/3814130630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3816676573",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "heiliggeistkirche@hansimglueck-burgergrill.de",
+        "last_check": "2016-07-07",
+        "lastcheck": "2017-08-08",
+        "name": "Hans im Glück",
+        "opening_hours": "Su-Th 11:30-24:00,Fr Sa 11:30-01:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://heiliggeistkirche.hansimglueck-burgergrill.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Zwei Stufen am Eingang.Toilette im Keller. Zugang nur durch Treppen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7091095,
+          49.4118928
+        ]
+      },
+      "id": "node/3816676573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822783658",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "lastcheck": "2017-08-14",
+        "name": "Adelitas",
+        "opening_hours": "Su-We 12:00-23:00;Th-Sa 12:00-24:00",
+        "phone": "+49 6221 6505611",
+        "toilets:wheelchair": "no",
+        "website": "http://www.adelitas-restaurant.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7083228,
+          49.4117406
+        ]
+      },
+      "id": "node/3822783658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830797687",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "210",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "alt_name": "Weißes Rössel",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@weissesroessel.de",
+        "name": "Cavallino Bianco",
+        "operator": "Alfonso Coppola",
+        "phone": "+49 6221 432300",
+        "toilets:wheelchair": "no",
+        "website": "http://cavallinobianco.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7119807,
+          49.4121545
+        ]
+      },
+      "id": "node/3830797687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830812882",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69117",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Toscana",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7097666,
+          49.4123338
+        ]
+      },
+      "id": "node/3830812882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3854023178",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "224",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "name": "Weinstube Witter",
+        "old_name": "Rouge",
+        "opening_hours": "Mo-Sa 18:00+",
+        "toilets:wheelchair": "no",
+        "website": "https://www.weinstube-witter.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7139647,
+          49.4128323
+        ]
+      },
+      "id": "node/3854023178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3899648799",
+        "amenity": "restaurant",
+        "lastcheck": "2017-08-14",
+        "name": "Stuzzico",
+        "opening_hours": "Mo,Sa 18:00-24:00, Tu-Th 18:00-04:00, Fr 18:00-06:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7198974",
+        "toilets:wheelchair": "yes",
+        "website": "https://de-de.facebook.com/pizzastuzzico",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7086746,
+          49.4115709
+        ]
+      },
+      "id": "node/3899648799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3948699908",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "69126",
+        "addr:street": "Bierhelderweg",
+        "amenity": "restaurant",
+        "lastcheck": "2016-02-19",
+        "name": "Die Linde",
+        "opening_hours": "We-Sa 18:00-24:00",
+        "website": "https://die-linde.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6930402,
+          49.3778965
+        ]
+      },
+      "id": "node/3948699908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3948699909",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "55",
+        "addr:postcode": "69126",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 393134",
+        "contact:website": "http://roterochsen-heidelberg.de/",
+        "lastcheck": "2016-02-19",
+        "name": "Gasthaus Roter Ochsen",
+        "opening_hours": "Tu-Th 11:00-14:00,17:30-23:00; Fr,Sa 17:30-23:00; Su 11:00-14:00,17:00-21:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6924433,
+          49.3787764
+        ]
+      },
+      "id": "node/3948699909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019455193",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "69151",
+        "addr:street": "Neckarstraße",
+        "amenity": "restaurant",
+        "name": "Christians Restaurant",
+        "website": "http://www.restaurant-christian.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7985411,
+          49.395047
+        ]
+      },
+      "id": "node/4019455193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030895280",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "name": "Goldene Rose",
+        "opening_hours": "Mo-Sa 11:00-14:30,17:30-23:00;Su 11:30-22:00",
+        "outdoor_seating": "yes",
+        "parking": "yes",
+        "phone": "+49622178 20 58",
+        "restaurant": "yes",
+        "rooms": "9",
+        "source": "HiRes aerial imagery",
+        "tourism": "hotel",
+        "website": "http://www.goldenerose-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6672057,
+          49.3773802
+        ]
+      },
+      "id": "node/4030895280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032413818",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Ristorante Pizzeria Sardegna",
+        "opening_hours": "Mo-Sa 17:30-00:00;Su 11:30-14:30,17:30-00:00",
+        "phone": "+49 6221 781395",
+        "website": "http://www.ristorante-pizzeria-sardegna.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6713573,
+          49.3812027
+        ]
+      },
+      "id": "node/4032413818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4089675866",
+        "amenity": "restaurant",
+        "name": "NEO",
+        "opening_hours": "Tu-Th 17:00-24:00;Fr 17:00+;Sa 12:00+;Su 12:00-22:00;Mo off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 6525870",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.neo-heidelberg.de",
+        "wheelchair": "yes",
+        "wheelchair:description": "Treppenlift an der Seite des Gebäudes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6721635,
+          49.4017954
+        ]
+      },
+      "id": "node/4089675866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4180478221",
+        "amenity": "restaurant",
+        "name": "Das Bootshaus",
+        "opening_hours": "Su-Fr 11:30+;Sa 17:00+",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 25396",
+        "website": "http://www.dasbootshaus.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6809727,
+          49.4094984
+        ]
+      },
+      "id": "node/4180478221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242166165",
+        "amenity": "restaurant",
+        "name": "Simplicissimus",
+        "website": "http://www.simplicissimus-restaurant.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7096827,
+          49.4112334
+        ]
+      },
+      "id": "node/4242166165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278308467",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "contact:email": "info@lalocanda26.de",
+        "contact:fax": "+49 6221 7268923",
+        "contact:phone": "+49 6221 7268922",
+        "contact:website": "http://lalocanda26.de",
+        "cuisine": "italian",
+        "name": "La Locanda 26",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6884965,
+          49.4235657
+        ]
+      },
+      "id": "node/4278308467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278308588",
+        "addr:street": "Handschuhsheimer Landstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 47262",
+        "cuisine": "italian",
+        "name": "Römer Pils Stube",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6891268,
+          49.4254664
+        ]
+      },
+      "id": "node/4278308588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278308589",
+        "amenity": "restaurant",
+        "beer_garden": "yes",
+        "email": "info@weisserstein.net",
+        "name": "Weißer Stein",
+        "opening_hours": "Mo-Su 17:00+",
+        "phone": "+49 6221 6597366",
+        "smoking:outside": "yes",
+        "website": "weisserstein.net",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6890968,
+          49.4255906
+        ]
+      },
+      "id": "node/4278308589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4290023111",
+        "amenity": "restaurant",
+        "lastcheck": "2017-08-14",
+        "name": "Safari Restaurant",
+        "phone": "+49 06221 6595853",
+        "website": "http://www.safari-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7068119,
+          49.4117717
+        ]
+      },
+      "id": "node/4290023111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343080253",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "58",
+        "addr:postcode": "69126",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian;eis;cafe",
+        "delivery": "no",
+        "level": "0",
+        "name": "La Vesbar/Illegally Tasty",
+        "opening_hours": "We-Su 10:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+4915229555779",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6918551,
+          49.3788195
+        ]
+      },
+      "id": "node/4343080253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4352858592",
+        "amenity": "restaurant",
+        "name": "Georgius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6898679,
+          49.3494689
+        ]
+      },
+      "id": "node/4352858592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4355169867",
+        "amenity": "restaurant",
+        "name": "Zum Hirsch",
+        "opening_hours": "Tu-Sa 17:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 (0)6221/840963",
+        "website": "http://www.kneipen-restaurant.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6466848,
+          49.4233992
+        ]
+      },
+      "id": "node/4355169867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365886272",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Athen",
+        "opening_hours": "Tu-Fr 17:00-24:00; Sa,Su 11:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+496221776516",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659007,
+          49.3892598
+        ]
+      },
+      "id": "node/4365886272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367363371",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Zum goldenen Hirsch",
+        "opening_hours": "Tu-Sa 17:00-23:00;Su 11:00+",
+        "phone": "+49 6221 4308161",
+        "website": "http://www.zum-goldenen-hirsch-heidelberg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6667154,
+          49.3779958
+        ]
+      },
+      "id": "node/4367363371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367386039",
+        "amenity": "restaurant",
+        "name": "Winzerstube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6705005,
+          49.3791624
+        ]
+      },
+      "id": "node/4367386039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398533294",
+        "addr:housenumber": "24",
+        "addr:street": "Ortsstraße",
+        "amenity": "restaurant",
+        "name": "Zum Anker",
+        "opening_hours": "Tu-Fr 12:00+; Sa, Su 11:00+",
+        "operator": "Werner Bühler",
+        "phone": "+49 6221 8677180",
+        "toilets:wheelchair": "no",
+        "website": "http://www.anker-dossenheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6267064,
+          49.444152
+        ]
+      },
+      "id": "node/4398533294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413370241",
+        "addr:city": "Schwetzingen",
+        "addr:housenumber": "2",
+        "addr:postcode": "68723",
+        "addr:street": "Odenwaldring",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@mamma-rosa-schwetzingen.de",
+        "name": "Mamma Rosa",
+        "opening_hours": "We-Mo 11:30-14:00,17:30-23:30",
+        "phone": "+49 6202 4535",
+        "website": "http://www.mamma-rosa-schwetzingen.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5870511,
+          49.380322
+        ]
+      },
+      "id": "node/4413370241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442162479",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "41",
+        "addr:postcode": "69120",
+        "addr:street": "Berliner Straße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Bräustadel",
+        "opening_hours": "Mo-Sa 09:00-01:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://bräustadel.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6754018,
+          49.4182799
+        ]
+      },
+      "id": "node/4442162479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451624306",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1b",
+        "addr:postcode": "69123",
+        "addr:street": "Schützenstraße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Gaststätte zum Diebsweg",
+        "opening_hours": "Mo-Sa 11:30-14:00,17:00-22:00; Su 11:30-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6526412,
+          49.4003933
+        ]
+      },
+      "id": "node/4451624306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4512679491",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "27",
+        "addr:postcode": "69121",
+        "addr:street": "Friedensstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional;seafood",
+        "email": "info@ritter.handschuhsheim.com",
+        "fax": "+49 6221 8733398",
+        "level": "0",
+        "name": "Zum Ritter",
+        "opening_hours": "Mo-Th 17:00-24:00; Fr-Sa 17:00-01:00, Su 12:00-23:00",
+        "operator": "Gabriele Simioni und Dimitar Todorov",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 8733399",
+        "smoking:outside": "yes",
+        "website": "http://www.ritter-handschuhsheim.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6853629,
+          49.4298069
+        ]
+      },
+      "id": "node/4512679491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593696382",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "52",
+        "addr:postcode": "69117",
+        "addr:street": "Neckarstaden",
+        "amenity": "restaurant",
+        "name": "Chambino",
+        "old_name": "Curry & Wine",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7074988,
+          49.4133135
+        ]
+      },
+      "id": "node/4593696382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613801143",
+        "addr:city": "Leimen",
+        "addr:housenumber": "6",
+        "addr:postcode": "69181",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "german;regional",
+        "email": "info@leimener-brauhaus.com",
+        "name": "Leimener Brauhaus",
+        "opening_hours": "Mo-Th 11:00-00:00, Fr-Sa 11:00-02:00, Su 10:00-00:00",
+        "phone": "+49 6224 598738",
+        "website": "http://www.leimener-brauhaus.com",
+        "wheelchair": "limited",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6890387,
+          49.3497159
+        ]
+      },
+      "id": "node/4613801143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4622056017",
+        "addr:housenumber": "5",
+        "addr:street": "Im Breitspiel",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Gourmet City",
+        "website": "http://www.gourmet-city.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6871802,
+          49.3649962
+        ]
+      },
+      "id": "node/4622056017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4717363793",
+        "addr:housenumber": "73",
+        "addr:street": "Plöck",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Bruschetta 2",
+        "website": "https://www.facebook.com/LaBruschettaDaPasquale/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7008048,
+          49.4094641
+        ]
+      },
+      "id": "node/4717363793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4728941632",
+        "addr:housenumber": "16",
+        "addr:street": "Vangerowstraße",
+        "amenity": "restaurant",
+        "name": "Grill 16",
+        "outdoor_seating": "yes",
+        "website": "http://grill16.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6726605,
+          49.4093771
+        ]
+      },
+      "id": "node/4728941632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736065523",
+        "addr:city": "Neckargemünd",
+        "addr:housenumber": "2",
+        "addr:postcode": "69151",
+        "addr:street": "Odenwaldstraße",
+        "addr:suburb": "Kleingemünd",
+        "amenity": "restaurant",
+        "name": "Nina's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8044727,
+          49.3981885
+        ]
+      },
+      "id": "node/4736065523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753338846",
+        "addr:housenumber": "56",
+        "addr:street": "Plöck",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "lastcheck": "2017-08-08",
+        "name": "La Bruschetta",
+        "phone": "+49 6221 189909",
+        "website": "https://www.facebook.com/LaBruschettaDaPasquale/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7037117,
+          49.4094186
+        ]
+      },
+      "id": "node/4753338846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798554858",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "6",
+        "addr:postcode": "69115",
+        "addr:street": "Zollhofgarten",
+        "amenity": "restaurant",
+        "capacity": "60",
+        "name": "Lass uns Freunde bleiben Bistro",
+        "opening_hours": "Su-Th 12:00-22:00;Fr-Sa 12:00-24:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://bahnstadt-bistro.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6702285,
+          49.4016245
+        ]
+      },
+      "id": "node/4798554858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857226924",
+        "amenity": "restaurant",
+        "name": "Istanbul Pizza",
+        "name:de": "Istanbul Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6891519,
+          49.4084053
+        ]
+      },
+      "id": "node/4857226924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4920025647",
+        "amenity": "restaurant",
+        "name": "Elea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.582869,
+          49.3727917
+        ]
+      },
+      "id": "node/4920025647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4929298093",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Amici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767745,
+          49.3759029
+        ]
+      },
+      "id": "node/4929298093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4954732154",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "69117",
+        "addr:street": "Märzgasse",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Franz Soupmarine",
+        "opening_hours": "Mo-Fr 11:00-20:00; Sa 11:00-19:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6997045,
+          49.4103941
+        ]
+      },
+      "id": "node/4954732154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956460840",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69117",
+        "addr:street": "Obere Neckarstraße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Wirtshaus zum Nepomuk",
+        "opening_hours": "Mo-Fr 17:30-24:00, Sa-Su 11:00-24:00",
+        "operator": "Reiner Gelhar;Alexander Beck",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "http://www.hotel-zur-alten-bruecke.de/geschichte/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7098944,
+          49.4131445
+        ]
+      },
+      "id": "node/4956460840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5020169795",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69120",
+        "addr:street": "Bergstraße",
+        "amenity": "restaurant",
+        "name": "River Café",
+        "opening_hours": "Mo-Su 09:00-01:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "http://www.river-cafe-hd.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6937053,
+          49.4139555
+        ]
+      },
+      "id": "node/5020169795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023594992",
+        "addr:city": "Heidelberg",
+        "addr:postcode": "69117",
+        "addr:street": "Zwingerstraße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "korean",
+        "name": "Soban",
+        "opening_hours": "Tu-Fr 12:00-15:00,18:00-22:00; Sa 12:00-22:00; Su 17:00-22:00",
+        "phone": "+49 6221 6521752",
+        "wheelchair": "no",
+        "wheelchair:description": "Stufen, schmale Tür 75cm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7117688,
+          49.4114389
+        ]
+      },
+      "id": "node/5023594992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5029238093",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "8",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "Arabisch;Orientalisch;Vegetarisch",
+        "level": "0",
+        "name": "Almaz Tasty",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "source": "https://www.facebook.com/pg/Almaztasty/about/?ref=page_internal",
+        "start_date": "08.2017",
+        "website": "http://www.almaztasty.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692037,
+          49.4077825
+        ]
+      },
+      "id": "node/5029238093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043748666",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Winterkönig",
+        "operator": "Peter Würsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6771524,
+          49.4514872
+        ]
+      },
+      "id": "node/5043748666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5085134986",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Cavos El Greco",
+        "old_name": "Fährhaus am Krottenneckar",
+        "opening_hours": "Mo-Su 11:30-0:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 8407436",
+        "website": "https://cavos-elgreco.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6189228,
+          49.4443405
+        ]
+      },
+      "id": "node/5085134986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5154041809",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "level": "0",
+        "microbrewery": "no",
+        "name": "Gasthaus Krone",
+        "opening_hours": "Th-Tu 11:30-14:00,17:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6224 9021141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6918257,
+          49.3487136
+        ]
+      },
+      "id": "node/5154041809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5159315223",
+        "amenity": "restaurant",
+        "level": "5",
+        "name": "Dinea",
+        "outdoor_seating": "no",
+        "website": "https://www.dinea.de/heidelberg-bismarckplatz/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6931781,
+          49.4090127
+        ]
+      },
+      "id": "node/5159315223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5174459509",
+        "addr:housenumber": "7",
+        "addr:street": "Grabengasse",
+        "amenity": "restaurant",
+        "name": "Romer",
+        "website": "http://www.arthotel.de/restaurants/romer-restaurant/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7066213,
+          49.4096304
+        ]
+      },
+      "id": "node/5174459509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5203799496",
+        "amenity": "restaurant",
+        "cuisine": "persian",
+        "layer": "1",
+        "level": "1",
+        "name": "Khayam",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688654,
+          49.40816
+        ]
+      },
+      "id": "node/5203799496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204806419",
+        "amenity": "restaurant",
+        "name": "Weinstube St. Florian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708961,
+          49.4114199
+        ]
+      },
+      "id": "node/5204806419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5227118043",
+        "addr:housenumber": "8",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Domino's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6883764,
+          49.3798513
+        ]
+      },
+      "id": "node/5227118043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5249529665",
+        "amenity": "restaurant",
+        "lastcheck": "2017-12-27",
+        "name": "Metropolis",
+        "opening_hours": "Su,Mo,Tu,We,Th,PH 09:00-24:00; Fr,Sa 09:00-02:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6668765,
+          49.405628
+        ]
+      },
+      "id": "node/5249529665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5294713431",
+        "addr:housenumber": "10",
+        "addr:street": "Englerstraße",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Shangrila",
+        "website": "https://www.restaurant-shangrila-heidelberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6811545,
+          49.3672175
+        ]
+      },
+      "id": "node/5294713431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306197849",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Da Rocco Corona",
+        "opening_hours": "We-Mo 11:00-23:00; Tu off \"Ruhetag\"",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 410801",
+        "smoking:outside": "yes",
+        "website": "http://www.pizzeria-corona.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6827505,
+          49.4317297
+        ]
+      },
+      "id": "node/5306197849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5316446068",
+        "addr:housenumber": "8",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "level": "0",
+        "name": "Pizzeria im Carré"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919457,
+          49.4074946
+        ]
+      },
+      "id": "node/5316446068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320309286",
+        "addr:housenumber": "147",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "restaurant",
+        "name": "Cottage",
+        "outdoor_seating": "yes",
+        "website": "http://cottage-hd.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6765435,
+          49.4068359
+        ]
+      },
+      "id": "node/5320309286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5395572524",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "La Taperia Olé Olé",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6849767,
+          49.399516
+        ]
+      },
+      "id": "node/5395572524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5396539310",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Löwenkeller",
+        "website": "https://de-de.facebook.com/LowenkellerHeidelberg",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.690323,
+          49.3997473
+        ]
+      },
+      "id": "node/5396539310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5397731471",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Giardino",
+        "website": "http://www.ristorante-giardino.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6900769,
+          49.389644
+        ]
+      },
+      "id": "node/5397731471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5415949038",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "email": "kontakt@zur-turmstube.de",
+        "fax": "+49 6221 868738",
+        "name": "Zur Turmstube",
+        "opening_hours": "Tu-Fr 10:30-14:00,16:30-01:00, Sa-Su 10:30-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 864922",
+        "tourism": "motel",
+        "website": "http://www.zur-turmstube.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.663895,
+          49.4550436
+        ]
+      },
+      "id": "node/5415949038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442414135",
+        "amenity": "restaurant",
+        "name": "Bistrorante Pama's",
+        "phone": "+49 6224 147873",
+        "source": "wheelmap",
+        "toilets:wheelchair": "no",
+        "website": "http://www.bistrorante-pamas.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "keine barrierefreie Toilette, ansonsten alles barrierefrei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6898487,
+          49.3475104
+        ]
+      },
+      "id": "node/5442414135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442414156",
+        "amenity": "restaurant",
+        "cuisine": "german;regional",
+        "fax": "+49 6224 148923",
+        "name": "Stather's",
+        "opening_hours": "Mo-Sa 11:00-13:30, Tu-Su 17:00-22:00",
+        "operator": "Stather",
+        "phone": "+49 6224 71222",
+        "smoking": "yes",
+        "takeaway": "yes",
+        "website": "http://metzgerei-stather.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6925522,
+          49.3479719
+        ]
+      },
+      "id": "node/5442414156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456539829",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Arizona 50s Diner",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6392826,
+          49.407989
+        ]
+      },
+      "id": "node/5456539829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5502112021",
+        "amenity": "restaurant",
+        "name": "Cafeteria",
+        "opening_hours": "Mo-Su 07:30-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6911464,
+          49.391685
+        ]
+      },
+      "id": "node/5502112021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5531558807",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "710",
+        "addr:postcode": "69120",
+        "addr:street": "Im Neuenheimer Feld",
+        "amenity": "restaurant",
+        "capacity": "100",
+        "cuisine": "regional;international",
+        "delivery": "no",
+        "description": "Kantine/Restaurant im Olympiastützpunkt Rhein-Neckar. Hier gibt es einen reichhaltigen Mittagstisch. Nach Wahl vegetarisch oder mit tierischen Zutaten.",
+        "email": "cantina@gvo-ck.de",
+        "level": "-1",
+        "name": "Cantina",
+        "opening_hours": "Mo-Fr 08:20-21:00",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "phone": "+49 6221 4185569",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://gvo-cateringkultur.de/locations/cantina/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6600399,
+          49.4234326
+        ]
+      },
+      "id": "node/5531558807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5591621986",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Restaurant Kreta",
+        "opening_hours": "11:30-14:00,17:30-23:00 Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6223 9720280",
+        "website": "http://kreta-wiesenbach.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8081276,
+          49.3596966
+        ]
+      },
+      "id": "node/5591621986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5595187251",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "42",
+        "addr:postcode": "69115",
+        "addr:street": "Langer Anger",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "delivery": "yes",
+        "name": "KAORU",
+        "opening_hours": "Mo-Fr 12:00-14:00,17:30-21:30; Sa 16:00-22:00; PH,Su 16:00-21:30",
+        "takeaway": "only",
+        "website": "http://sushikaoru.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6692515,
+          49.4008752
+        ]
+      },
+      "id": "node/5595187251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5629491744",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69126",
+        "addr:street": "Franz-Kruckenberg-Straße",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "name": "Mediterran",
+        "opening_hours": "Mo 11:30-15:00;Tu-Su 11:30-17:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 3390132",
+        "website": "http://mediterran-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6810794,
+          49.3801901
+        ]
+      },
+      "id": "node/5629491744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636629013",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Restaurant Sokrates",
+        "opening_hours": "Tu-Sa 17:00-23:30; Su 11:00-14:30,17:00-22:00",
+        "phone": "+49 6229 671",
+        "website": "http://www.restaurant-sokrates.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8391798,
+          49.4075561
+        ]
+      },
+      "id": "node/5636629013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5662972414",
+        "amenity": "restaurant",
+        "contact:email": "info@zum-schiff.de",
+        "contact:phone": "+49 6229 324",
+        "contact:website": "http://zum-schiff.de",
+        "name": "Zum Schiff",
+        "opening_hours": "11:30-14:00,17:30-21:00; We,Th off",
+        "operator": "Christian Zantopp",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8351214,
+          49.4081076
+        ]
+      },
+      "id": "node/5662972414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5888509192",
+        "amenity": "restaurant",
+        "name": "Biergarten Klosterhof",
+        "opening_hours": "We-Su 11:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7395407,
+          49.4203853
+        ]
+      },
+      "id": "node/5888509192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5906757669",
+        "addr:housenumber": "1",
+        "addr:street": "Steingasse",
+        "amenity": "restaurant",
+        "description": "Thai",
+        "name": "Phuket",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "+4962216524003",
+        "website": "http://phuket.cafelists.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7096903,
+          49.41307
+        ]
+      },
+      "id": "node/5906757669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939497466",
+        "addr:housenumber": "190",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "name": "Vapiano",
+        "opening_hours": "Mo-Th 11:00-23:30; Fr,Sa 11:00-00:30; Su 11:00-23:30",
+        "takeaway": "yes",
+        "website": "https://de.vapiano.com/de/nc/restaurants/detail/restaurant-details/-b476200a94/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7099339,
+          49.4118158
+        ]
+      },
+      "id": "node/5939497466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981045366",
+        "amenity": "restaurant",
+        "name": "Palmyra",
+        "outdoor_seating": "yes",
+        "website": "http://palmyra-heidelberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6822957,
+          49.4048116
+        ]
+      },
+      "id": "node/5981045366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6021376354",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@trattoria37.de",
+        "name": "Trentasette",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "operator": "Mattia Giannone",
+        "phone": "+49 6221 673 4302",
+        "smoking": "outside",
+        "website": "https://www.trattoria37.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6924614,
+          49.4043622
+        ]
+      },
+      "id": "node/6021376354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6023478528",
+        "amenity": "restaurant",
+        "name": "Zum Bootche",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8372853,
+          49.4074191
+        ]
+      },
+      "id": "node/6023478528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6044388302",
+        "addr:housenumber": "11",
+        "addr:street": "Brückenstr",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian, vegan",
+        "description": "Vegetarian lunch bar",
+        "name": "Fein Food",
+        "opening_hours": "Mo-Th 10:00-19:30; Fr 09:30-18:00; Sa 09:30-16:30",
+        "organic": "yes",
+        "website": "feinfood.business.site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6920309,
+          49.4141841
+        ]
+      },
+      "id": "node/6044388302"
+    }
+  ]
+}

@@ -1,0 +1,3998 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-12-11T16:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16463584",
+        "addr:city": "Weinheim",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "69469",
+        "addr:street": "Grundelbachstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.673156,
+          49.5492702
+        ]
+      },
+      "id": "node/16463584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30561986",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "130",
+        "addr:postcode": "68305",
+        "addr:street": "Karlsternstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "no",
+        "internet_access": "no",
+        "level": "0",
+        "microbrewery": "no",
+        "name": "La Locanda",
+        "opening_hours": "11:30-23:00",
+        "operator": "Paolo Truncale",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 7178097",
+        "takeaway": "no",
+        "website": "http://www.locanda-mannheim.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5122193,
+          49.5379798
+        ]
+      },
+      "id": "node/30561986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269384884",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "50",
+        "addr:postcode": "69115",
+        "addr:street": "Alte Eppelheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Carosello",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.carosellofood.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6755796,
+          49.4066074
+        ]
+      },
+      "id": "node/269384884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283708574",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "9",
+        "addr:postcode": "69120",
+        "addr:street": "Tiergartenstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Roseto",
+        "website": "http://ristorante-roseto.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6587165,
+          49.4176165
+        ]
+      },
+      "id": "node/283708574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294846455",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "name": "Eiscafe Bertolini",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "shop": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6666909,
+          49.5542457
+        ]
+      },
+      "id": "node/294846455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294846470",
+        "addr:city": "Weinheim",
+        "addr:housenumber": "2/2",
+        "addr:postcode": "69469",
+        "addr:street": "Friedrichstraße",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Pizzaria Bella Napoli",
+        "note": "Pizza und Pasta",
+        "opening_hours": "Mo-Fr 11:00-21:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6724895,
+          49.551681
+        ]
+      },
+      "id": "node/294846470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294846482",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Da Toni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6752679,
+          49.5547934
+        ]
+      },
+      "id": "node/294846482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296943517",
+        "addr:housenumber": "2",
+        "addr:street": "Steinbachweg",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Capri",
+        "opening_hours": "Mo-Su 11:00-14:30, 17:30-23:00; We off",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756361,
+          49.4185953
+        ]
+      },
+      "id": "node/296943517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308471548",
+        "amenity": "restaurant",
+        "contact:email": "soledoroeppelheim@web.de",
+        "cuisine": "italian",
+        "name": "Sole D'oro",
+        "opening_hours": "Tu-Sa 17:30-23:45; Su 11:30-14:30,17:30-23:45",
+        "phone": "+49 6221 7564222",
+        "website": "http://www.soledoro-eppelheim.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6308735,
+          49.4055845
+        ]
+      },
+      "id": "node/308471548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313714751",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6203 660120",
+        "cuisine": "italian",
+        "name": "La Pineta",
+        "website": "http://www.tc-schriesheim.de/clubrestaurant/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508332,
+          49.4739435
+        ]
+      },
+      "id": "node/313714751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329393899",
+        "addr:city": "Schwetzingen",
+        "addr:housenumber": "7",
+        "addr:postcode": "68723",
+        "addr:street": "Schlossplatz",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "schwetzingen@besitos.de",
+        "fax": "+49 6202 1260403",
+        "name": "Aposto",
+        "opening_hours": "Mo-We 18:00-24:00, Th 18:00-01:00, Fr 18:00-02:00, Sa 11:30-02:00, Su 10:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 1260404",
+        "website": "http://www.aposto.eu/schwetzingen",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5733429,
+          49.383987
+        ]
+      },
+      "id": "node/329393899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353270277",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Vite Osteria e Pizzeria",
+        "old_name": "Zum Steinbrecher",
+        "opening_hours": "Tu-Su 15:00-23:00",
+        "outdoor_seating": "yes",
+        "website": "http://lavite-dossenheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6780503,
+          49.4518111
+        ]
+      },
+      "id": "node/353270277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365565769",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Toscana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6742265,
+          49.5502407
+        ]
+      },
+      "id": "node/365565769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/420356821",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Dolce Vita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6933792,
+          49.4753646
+        ]
+      },
+      "id": "node/420356821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429810459",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Il Sogno",
+        "website": "http://www.ilsogno-hd.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773841,
+          49.4146001
+        ]
+      },
+      "id": "node/429810459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443614095",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Franco",
+        "opening_hours": "Tu-Su 11:30-14:30,17:30-23:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5796299,
+          49.5380514
+        ]
+      },
+      "id": "node/443614095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/510114668",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Pizzeria Neuer Lindenhof",
+        "opening_hours": "Mo-Tu,Th-Su 11:30-14:30,17:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 8720110",
+        "takeaway": "yes",
+        "website": "http://www.neuer-lindenhof.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4666549,
+          49.4758609
+        ]
+      },
+      "id": "node/510114668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/552083904",
+        "addr:housenumber": "3",
+        "addr:postcode": "68535",
+        "addr:street": "Drechslerstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "no",
+        "email": "info@toni-edingen.de",
+        "lunch_specials": "yes",
+        "name": "bei Toni",
+        "opening_hours": "Tu-Su 11:00-14:30,17:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 82 550",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "http://www.toni-edingen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5955545,
+          49.454629
+        ]
+      },
+      "id": "node/552083904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/553324199",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Toskana",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5094707,
+          49.465723
+        ]
+      },
+      "id": "node/553324199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660580381",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "69120",
+        "addr:street": "Brückenstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Salerno il Calabrese",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6922037,
+          49.4162757
+        ]
+      },
+      "id": "node/660580381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/689928445",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "gianlucascurti@ristorante-augusta.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Augusta_Giovanni_Mannheim_Augusta_Anlage.jpg",
+        "name": "Augusta Giovanni",
+        "opening_hours": "Mo-Fr 12:00-14:00,18:00-23:00;Su 12:00-14:00,18:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 449872",
+        "website": "http://ristorante-augusta.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4851565,
+          49.4799853
+        ]
+      },
+      "id": "node/689928445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/711951350",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "davinci",
+        "toilets:wheelchair": "no",
+        "website": "http://davinci-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6889278,
+          49.4055996
+        ]
+      },
+      "id": "node/711951350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772747881",
+        "addr:city": "Wiesenbach",
+        "addr:housenumber": "91",
+        "addr:postcode": "69257",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6223 5896",
+        "contact:website": "http://www.pizzeria-palermo-wiesenbach.de/",
+        "cuisine": "italian",
+        "name": "Palermo",
+        "opening_hours": "Mo off; Tu-Fr 11:00-14:00,17:00-23:00; Sa 17:00-22:30; Su,PH 11:00-22:30",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8135323,
+          49.3597137
+        ]
+      },
+      "id": "node/772747881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775872627",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:postcode": "69124",
+        "addr:street": "Hegenichstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Europa",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:00-23:30; Sa,Su 11:30-23:30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6667238,
+          49.3773672
+        ]
+      },
+      "id": "node/775872627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/776424356",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "95",
+        "addr:postcode": "69124",
+        "addr:street": "Pleikartsförster Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Vecchia Bari",
+        "opening_hours": "Mo-Su 10:30-14:00,17:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 6557969",
+        "toilets:wheelchair": "no",
+        "website": "http://www.trattoriavb.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Eine zweigeteilte Rampe steht auf Anfrage zur Verfügung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6624254,
+          49.3834553
+        ]
+      },
+      "id": "node/776424356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/790034456",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@ristoranteladolcevita.de",
+        "name": "Ristorante La Dolce Vita",
+        "opening_hours": "Tu-Su 12:00-15:00,18:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 5779370",
+        "website": "http://www.ristoranteladolcevita.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5776288,
+          49.3832009
+        ]
+      },
+      "id": "node/790034456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811505976",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "69123",
+        "addr:street": "Im Buschgewann",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Taormina",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6480834,
+          49.3974421
+        ]
+      },
+      "id": "node/811505976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823456483",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "no",
+        "email": "salerno-mannheim@hotmail.de",
+        "fax": "+49 621 1788600",
+        "image": "https://commons.wikimedia.org/wiki/File:Pizzeria_Salerno.jpg",
+        "int_name": "Pizzeria Salerno",
+        "last_check": "2018-05",
+        "name": "Pizzeria Salerno",
+        "opening_hours": "Mo-Sa 12:00-24:00; Su 17:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 1788600",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.best-of-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4641104,
+          49.4905459
+        ]
+      },
+      "id": "node/823456483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/833190280",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "68542",
+        "addr:street": "Schaafeckstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6203 925778",
+        "contact:website": "http://www.pizza-toni-heddesheim.de",
+        "cuisine": "italian",
+        "delivery_service": "yes",
+        "name": "Toni's Pizzeria",
+        "opening_hours": "Mo-Sa 16:00-22:45; Su 12:00-22:45",
+        "operator": "Sarjiwan Schubert",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6014061,
+          49.5032008
+        ]
+      },
+      "id": "node/833190280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/879390113",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Azzurra",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4702599,
+          49.5062334
+        ]
+      },
+      "id": "node/879390113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919773689",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Vino_%26_Pizzateca_Mannheim_L4.jpg",
+        "name": "Vino & Pizzateca",
+        "opening_hours": "Mo-Fr 11:30-15:00, 18:00-22:30",
+        "phone": "+49 621 152779",
+        "website": "https://www.facebook.com/pages/Vino-Pizzateca-Mannheim/353065176619",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4669409,
+          49.4839371
+        ]
+      },
+      "id": "node/919773689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/958685113",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Pizzeria Imbiss Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5360182,
+          49.3741988
+        ]
+      },
+      "id": "node/958685113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513867",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "yes",
+        "menu": "no",
+        "menu_languages": "german",
+        "name": "Osteria Alfredo",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Sa 12:00-22:00; Su off",
+        "outdoor": "yes",
+        "phone": "+49 6221 6551999",
+        "smoking": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "zwei hohe Stufen am Eingang, bei schönem Wetter kann man draußen sitzen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708027,
+          49.4121386
+        ]
+      },
+      "id": "node/1029513867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513871",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "menu": "no",
+        "menu_languages": "english, german, italian",
+        "name": "Mercato",
+        "number_of_menulanguages": "3",
+        "opening_hours": "Th-Fr 11:00-14:40; Sa-Su 11:30-23:30",
+        "outdoor": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7095125,
+          49.4123763
+        ]
+      },
+      "id": "node/1029513871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029572817",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "fax": "+49 6221 6508210",
+        "lastcheck": "2017-08-08",
+        "name": "Pasta Bar",
+        "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 11:00-20:00",
+        "telephone": "+49 6221 3543150",
+        "website": "http://www.pastabar-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6956546,
+          49.4089488
+        ]
+      },
+      "id": "node/1029572817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1089629194",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68199",
+        "addr:street": "Strandbadweg",
+        "alt_name": "Strandbad Mannheim-Neckarau",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Purino",
+        "opening_hours": "Mo-Sa 09:00-23:00; Su 10:00-23:00",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.purino.de/restaurants/mannheim.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4511897,
+          49.4465365
+        ]
+      },
+      "id": "node/1089629194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197514",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "level": "1",
+        "name": "Da Mario",
+        "smoking": "no",
+        "website": "http://da-mario.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6927648,
+          49.4083996
+        ]
+      },
+      "id": "node/1097197514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101948979",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "97",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Restaurant Kurpfälzisches Museum",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://www.restaurantkurpfaelzischesmuseumheidelberg.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7029371,
+          49.4115665
+        ]
+      },
+      "id": "node/1101948979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1119484852",
+        "addr:housenumber": "8",
+        "addr:street": "Akademiestraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "lastcheck": "2017-08-08",
+        "menu": "yes",
+        "menu_languages": "german, italian",
+        "name": "Akademie",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo,Fr,Sa 18:00-23:00;Tu,We,Th 11:30-14:30,18:00-23:00;Su off",
+        "outdoor": "no",
+        "phone": "+49 6221 162000",
+        "price_mainmenu_€": "18,55",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "water_price_€": "1,05",
+        "website": "http://www.restaurant-akademie.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69798,
+          49.4091398
+        ]
+      },
+      "id": "node/1119484852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1162094919",
+        "addr:city": "Viernheim",
+        "addr:postcode": "68519",
+        "addr:street": "Robert-Schuman-Straße",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Emilia",
+        "phone": "+49 6204 701054",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5647258,
+          49.5267068
+        ]
+      },
+      "id": "node/1162094919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1162094978",
+        "addr:street": "Robert-Schuman-Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+49 6204 930323",
+        "name": "Al Forno",
+        "phone": "+49 6204 986649",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5652347,
+          49.5268529
+        ]
+      },
+      "id": "node/1162094978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1232922551",
+        "addr:city": "Weinheim",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "69469",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+49 6201 184277",
+        "level": "0",
+        "name": "La Cantina",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "operator": "Gastronomiebetriebe Gebrüder Ferrarese GmbH, Weinheim",
+        "outdoor_seating": "yes",
+        "phone": "+49 6201 62434",
+        "website": "http://wp1059666.server-he.de/ferrarese/pages/willkommen-bei-ferrarese-gmbh/willkommen.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6718848,
+          49.5465169
+        ]
+      },
+      "id": "node/1232922551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1238189480",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "69120",
+        "addr:street": "Berliner Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Cesarino",
+        "opening_hours": "Mo-Fr 12:00-14:30 18:00-23:30; Sa 18:00-23:30",
+        "phone": "+49 6221 434441",
+        "website": "http://www.enoteca-cesarino.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6766696,
+          49.4178759
+        ]
+      },
+      "id": "node/1238189480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269166216",
+        "addr:housenumber": "7",
+        "addr:street": "Kreuzgasse",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria bei Toni",
+        "operator": "Antonino Bufano",
+        "phone": "+49-6201-494729",
+        "website": "www.bei-toni-birkenau.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7058566,
+          49.560916
+        ]
+      },
+      "id": "node/1269166216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1316106879",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "19",
+        "addr:postcode": "68161",
+        "addr:street": "U6",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "ristorante@kleiner-rosengarten.com",
+        "level": "0",
+        "name": "Kleiner Rosengarten",
+        "opening_hours": "11:00-15:00,17:00-24:00",
+        "operator": "Roland Oparaku",
+        "phone": "+49 621 17887574",
+        "website": "http://www.kleiner-rosengarten.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4755294,
+          49.4892061
+        ]
+      },
+      "id": "node/1316106879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1316107268",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:DaVino_Mannheim_S6.jpg",
+        "name": "Ristorante daVino",
+        "opening_hours": "Tu-Sa 12:00-14:30,18:00-24:00; Su-Mo 18:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 22522",
+        "website": "http://www.davino-mannheim.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4756935,
+          49.4878431
+        ]
+      },
+      "id": "node/1316107268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1337156308",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "266",
+        "addr:postcode": "68307",
+        "addr:street": "Sandhofer Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Angelo e Salvatore",
+        "phone": "+49 621 785171",
+        "website": "http://www.ristorantedaangeloesalvatore.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Eingang ebenerdig. Öffentliche Rollstuhlfahrer-Toilette hinter dem Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4487698,
+          49.5424171
+        ]
+      },
+      "id": "node/1337156308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355011902",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "last_check": "2018-4",
+        "name": "Pizzeria Da Linda",
+        "opening_hours": "10:00-22:00",
+        "phone": "+49 621 10 30 45",
+        "website": "http://www.pizzeria-dalinda.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4687551,
+          49.4916351
+        ]
+      },
+      "id": "node/1355011902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1408780282",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "68309",
+        "addr:street": "Freiberger Ring",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "Mo-Su 11:00-23:00",
+        "level": "0",
+        "name": "Römischer Garten",
+        "opening_hours": "11:00-23:00",
+        "operator": "Rosa Giro",
+        "phone": "+49 621 708445",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.pizzeria-roemischergarten.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.539442,
+          49.5104072
+        ]
+      },
+      "id": "node/1408780282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1450992654",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Die Spaghetti Oper",
+        "opening_hours": "Su-Th 18:00-01:00, Fr,Sa 18:00-05:00",
+        "website": "http://spaghetti-oper.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4680869,
+          49.492098
+        ]
+      },
+      "id": "node/1450992654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1511322975",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Sarracena",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4600953,
+          49.4699274
+        ]
+      },
+      "id": "node/1511322975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1532730188",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "14a",
+        "addr:postcode": "69126",
+        "addr:street": "Boxbergring",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Da Rocco",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7031163,
+          49.3742086
+        ]
+      },
+      "id": "node/1532730188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1553594944",
+        "addr:housenumber": "18",
+        "addr:place": "Q7",
+        "alt_name": "Frenks Ristorante",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@frenks.de",
+        "fax": "+49 621 1563736",
+        "lastcheck": "2018-4",
+        "level": "0",
+        "name": "Frenk's",
+        "opening_hours": "Mo-Su 11:00-05:00",
+        "operator": "Frenk's Restaurantbetriebsgesellschaft mbH",
+        "phone": "+49 621 104222",
+        "website": "http://www.frenks.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4744927,
+          49.4855592
+        ]
+      },
+      "id": "node/1553594944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1559600767",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@roma-lindenhof.de",
+        "name": "Ristorante Roma",
+        "opening_hours": "Tu-Su,PH 11:30-14:30,17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 823504",
+        "website": "http://www.roma-lindenhof.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4676683,
+          49.4756186
+        ]
+      },
+      "id": "node/1559600767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585976926",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ratskeller Ristorante Trattoria Modena",
+        "opening_hours": "We, Th 11:30-14:30; Th-Sa 17:30-23:00; Su 11:30-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 8450124",
+        "website": "http://www.trattoriamodena.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6033223,
+          49.5065073
+        ]
+      },
+      "id": "node/1585976926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612834283",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "24-26",
+        "addr:postcode": "69115",
+        "addr:street": "Römerstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "DaBaggio",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "phone": "+49 6221 4341686",
+        "smoking": "no",
+        "website": "http://dabaggio.de",
+        "wheelchair": "no",
+        "wheelchair:description": "Eine Stufe am Eingang, Toiletten zu schmal für Rollstuhl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6845556,
+          49.4042691
+        ]
+      },
+      "id": "node/1612834283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612834297",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Santa Lucia",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6915874,
+          49.4060715
+        ]
+      },
+      "id": "node/1612834297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1635533110",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "name": "Casa del Caffè",
+        "opening_hours": "Mo-Th 07:00-01:00, Fr-Sa 07:00-03:00, Su 08:00-01:00",
+        "operator": "Rudolf Miltner",
+        "phone": "+49622129969",
+        "smoking": "no",
+        "website": "http://casa-del-caffe.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7095244,
+          49.4128402
+        ]
+      },
+      "id": "node/1635533110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1639791551",
+        "addr:housenumber": "19",
+        "addr:street": "Moltkestraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Baristo.jpg",
+        "name": "Baristo",
+        "opening_hours": "Mo-Sa 18:00-23:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4776603,
+          49.4811359
+        ]
+      },
+      "id": "node/1639791551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651983252",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@ristorantedaraffaele.de",
+        "name": "Pizzeria da Raffaele",
+        "opening_hours": "Mo-Su 11:30-14:30, 18:00-24:00",
+        "operator": "Raffaele D’Angella",
+        "phone": "+49 621 3393530",
+        "website": "http://ristorantedaraffaele.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.472165,
+          49.4970973
+        ]
+      },
+      "id": "node/1651983252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1691301454",
+        "addr:city": "Bammental",
+        "addr:housenumber": "8",
+        "addr:postcode": "69245",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "last_check": "2018-05",
+        "name": "Pizzeria Ristorante Pavarotti",
+        "opening_hours": "11:00-14:30,17:00-23:00;We off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6223 48081",
+        "website": "http://www.pizzeria-eiscafe-pavarotti.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7813495,
+          49.3581874
+        ]
+      },
+      "id": "node/1691301454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783242596",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante della Bona",
+        "opening_hours": "Tu-Su 11:45-14:30,17:45-22:00",
+        "phone": "+49 621 5669808",
+        "website": "http://www.ristorante-dellabona.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4582144,
+          49.4761779
+        ]
+      },
+      "id": "node/1783242596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1785736298",
+        "amenity": "cafe",
+        "bar": "yes",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "name": "La Bohème",
+        "opening_hours": "Mo-Fr 08:00-01:00, Sa 10:00-03:00, Su 10:00-01:00",
+        "phone": "+49 6221 7252168",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7097331,
+          49.412528
+        ]
+      },
+      "id": "node/1785736298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832340076",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante il Vulcano",
+        "opening_hours": "Mo-Sa 17:00-24:00; Su 11:30-14:30, 17:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5922651,
+          49.4725911
+        ]
+      },
+      "id": "node/1832340076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839762492",
+        "addr:city": "Heddesheim",
+        "addr:housenumber": "7",
+        "addr:postcode": "68542",
+        "addr:street": "Triebstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Lillo",
+        "opening_hours": "Mo-Su 11:00-14:30,17:00-24:00; Tu off",
+        "phone": "+49 6203 4032856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60567,
+          49.5080861
+        ]
+      },
+      "id": "node/1839762492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855043081",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "68167",
+        "addr:street": "Schimperstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Osteria Limoni",
+        "website": "http://www.osteria-limoni.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4733419,
+          49.4981213
+        ]
+      },
+      "id": "node/1855043081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913708291",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@abottega-ladenburg.de",
+        "fax": "+49 6203 9562591",
+        "name": "La Bottega | Bistoria Vinothek Feinkost",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 2626",
+        "shop": "deli",
+        "toilets:wheelchair": "no",
+        "website": "http://www.labottega-ladenburg.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6051339,
+          49.475475
+        ]
+      },
+      "id": "node/1913708291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1924059795",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Aida",
+        "old_name": "Monopoly",
+        "opening_hours": "Mo-Sa 12:00-14:30,18:00-24:00",
+        "phone": "+49 621 7185068",
+        "wheelchair": "limited",
+        "wheelchair:description": "haupteingang mit Stufen, es soll aber ein stufenfreier Nebeneingang durch das Hotel existieren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4824474,
+          49.4816683
+        ]
+      },
+      "id": "node/1924059795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985022040",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Armonia Italiana",
+        "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:00; Su 11:00-14:00,17:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6223 488389",
+        "website": "http://armonia-italiana.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.779354,
+          49.3523259
+        ]
+      },
+      "id": "node/1985022040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988976927",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Pizza-Blitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6670596,
+          49.3478713
+        ]
+      },
+      "id": "node/1988976927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988976944",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Rossini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6667914,
+          49.3479094
+        ]
+      },
+      "id": "node/1988976944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012618807",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Venezia",
+        "opening_hours": "Mo-Fr 11:30-14:30,18:00-0:00;Sa 18:00+;We off",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5819,
+          49.5374871
+        ]
+      },
+      "id": "node/2012618807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017958525",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "69117",
+        "addr:street": "Klingenteichstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Piccolo Mondo",
+        "opening_hours": "Tu-Su 12:00-15:00,18:00-24:00",
+        "source": "survey;image",
+        "website": "http://www.piccolomondo-hd.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7054045,
+          49.4087049
+        ]
+      },
+      "id": "node/2017958525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2018174147",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria \"Vereinshaus\" Da Gianni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6984474,
+          49.5620384
+        ]
+      },
+      "id": "node/2018174147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030657127",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "5",
+        "addr:postcode": "69120",
+        "addr:street": "Neuenheimer Landstraße",
+        "amenity": "restaurant",
+        "capacity": "110",
+        "cuisine": "italian",
+        "name": "Rossini",
+        "opening_hours": "11:00-15:00,17:30-24:00",
+        "phone": "+49 6221 9148710",
+        "smoking": "isolated",
+        "website": "http://www.rossini-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6936066,
+          49.4136428
+        ]
+      },
+      "id": "node/2030657127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030959116",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "19",
+        "addr:postcode": "68259",
+        "addr:street": "Mosbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "La Maremma",
+        "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa 18:00-23:00; Su 11:30-14:00,18:00-23:00",
+        "removed:name": "La Stella",
+        "start_date": "2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5494439,
+          49.4963323
+        ]
+      },
+      "id": "node/2030959116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052498768",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/Casa-della-Pasta-367124490481/",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Casa_della_Pasta_Mannheim_R7.jpg",
+        "last_check": "2016-06-03",
+        "name": "Casa della Pasta",
+        "opening_hours": "Mo-We 12:00-15:00; Th-Fr 12:00-15:00,18:00-21:00; Sa 12:00-15:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 1566691",
+        "shop": "deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4755132,
+          49.4866992
+        ]
+      },
+      "id": "node/2052498768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052498915",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "last_check": "2016-06-03",
+        "name": "Ristorante Lameygarten Da Mauro",
+        "opening_hours": "Mo-Sa 11:30-15:00, 17:30-23:00",
+        "operator": "Mauro Battaglia",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4751737,
+          49.4870239
+        ]
+      },
+      "id": "node/2052498915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052498916",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@milano-mannheim.de",
+        "fax": "+49 621 27 47 2",
+        "image": "https://commons.wikimedia.org/wiki/File:Ristorante_Milano_Mannheim_R7.jpg",
+        "last_check": "2016-06-03",
+        "name": "Ristorante Milano",
+        "opening_hours": "Mo-Su 11:30-15:30,17:00-24:00",
+        "operator": "Lorenzo Peduto",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 10 66 25",
+        "website": "http://www.milano-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4754851,
+          49.486599
+        ]
+      },
+      "id": "node/2052498916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2064211813",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "L´Osteria Vineria",
+        "opening_hours": "Mo 12:00-14:00; Tu-Sa 12:00-14:00,18:30-23:00",
+        "operator": "Franco Pizzarelli",
+        "phone": "+49 621 1819335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4742417,
+          49.4863482
+        ]
+      },
+      "id": "node/2064211813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2125263400",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "50",
+        "addr:postcode": "69214",
+        "addr:street": "Peter-Böhm-Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Campo Sportivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6353292,
+          49.3968006
+        ]
+      },
+      "id": "node/2125263400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2126473801",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68165",
+        "addr:street": "Friedrichsplatz",
+        "amenity": "restaurant",
+        "contact:email": "mannheim1@vapiano.de",
+        "contact:fax": "+49 621 1259 779",
+        "contact:phone": "+49 621 1259777",
+        "contact:website": "http://www.vapiano.de/newsroom/?store=29",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Vapiano_Mannheim_Friedrichsplatz.jpg",
+        "last_check": "2016-06-03",
+        "man_made": "surveillance",
+        "name": "Vapiano",
+        "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-01:00",
+        "operator": "Vapiano",
+        "outdoor_seating": "yes",
+        "ref:vatin": "DE261056580",
+        "surveillance": "indoor",
+        "wheelchair": "yes",
+        "wheelchair:description": "Stufe am Eingang 19 cm hoch, jedoch möglicher zugang über den Biergarten, WC vorhanden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4756351,
+          49.4851173
+        ]
+      },
+      "id": "node/2126473801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2130997012",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Zafferano",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6896463,
+          49.4079098
+        ]
+      },
+      "id": "node/2130997012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140514458",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "23",
+        "addr:postcode": "69214",
+        "addr:street": "Wieblinger Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Nico",
+        "phone": "+49 6221 761020",
+        "website": "http://www.danico-ristorante.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632904,
+          49.4027703
+        ]
+      },
+      "id": "node/2140514458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201373771",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:La_Cittadella_Mannheim-Neckarstadt.jpg",
+        "name": "Ristorante La Cittadella",
+        "opening_hours": "Mo,We,Th,Fr,Su 11:30-14:30;17:30-23:00;Sa 17:30-23:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4831885,
+          49.4975638
+        ]
+      },
+      "id": "node/2201373771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202049484",
+        "amenity": "restaurant",
+        "contact:phone": "+49 621 43179798",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Piccola_Milano_Mannheim.jpg",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Piccola Milano",
+        "opening_hours": "Mo-Fr 11:00-14:30,17:30-24:00; Sa 11:00-15:00,17:00-24:00; Su 11:00-23:00",
+        "website": "http://www.mannheim-milano.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.472054,
+          49.4794853
+        ]
+      },
+      "id": "node/2202049484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207830943",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+49 621 442574",
+        "last_check": "2016-04-13",
+        "name": "Costa Smeralda",
+        "opening_hours": "Su-Fr 12:00-14:00,18:00-22:00;Sa 18:00-22:00",
+        "phone": "+49 621 443946",
+        "smoking": "no",
+        "website": "http://www.restaurantcostasmeralda.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.477495,
+          49.4786287
+        ]
+      },
+      "id": "node/2207830943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207830965",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "last_check": "2016-04-06",
+        "name": "Ristorante La Piazza",
+        "opening_hours": "Tu-Su 11:30-14:00, 17:30-23:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.476506,
+          49.4804767
+        ]
+      },
+      "id": "node/2207830965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207888864",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "fax": "+49 621 4308240",
+        "last_check": "2016-04-13",
+        "name": "Pizzeria Da Fabio",
+        "opening_hours": "Mo-Fr 11:00-14:00,17:30-21:45;Su 15:00-21:45",
+        "phone": "+49 621 441088",
+        "takeaway": "yes",
+        "website": "http://www.da-fabio-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4749314,
+          49.4803973
+        ]
+      },
+      "id": "node/2207888864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2214904414",
+        "addr:postcode": "68782",
+        "addr:street": "Mannheimer Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Angelo",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5344316,
+          49.3966616
+        ]
+      },
+      "id": "node/2214904414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2216649518",
+        "addr:city": "Brühl",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68782",
+        "addr:state": "Baden-Württemberg",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "contact:fax": "+49 6202 9479591",
+        "contact:phone": "+49 6202 9479590",
+        "contact:website": "https://www.facebook.com/Ratsstubedasalvatore/",
+        "cuisine": "italian",
+        "name": "Ratsstube da Salvatore",
+        "opening_hours": "Mo 11:30-14:30,17:30-24:00; Tu off; We 11:30-14:30,17:30-24:00; Th 11:30-14:30,17:30-24:00; Fr 11:30-14:30,17:30-24:00; Sa 11:30-14:30,17:30-24:00; Su,PH 11:30-14:30,17:30-24:00",
+        "opening_hours:url": "http://www.restaurant-ami.de/r-118870-D/oeffnungszeiten/restaurant-ratsstube-da-salvatore-in-bruehl%2C-baden.htm",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5341304,
+          49.3951506
+        ]
+      },
+      "id": "node/2216649518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2249839931",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "lunch_spezial": "yes",
+        "name": "Bistrorante Azzurro",
+        "opening_hours": "Mo-Su 9:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 180933",
+        "website": "http://www.edingen-neckarhausen.de/2011-FZB-Flyer-Kurzzeit.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.603348,
+          49.4642204
+        ]
+      },
+      "id": "node/2249839931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2257718266",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "lastcheck": "2017-07-31",
+        "name": "Da Vinci",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 9541736",
+        "website": "http://davinci-ladenburg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6113935,
+          49.4724127
+        ]
+      },
+      "id": "node/2257718266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2260546877",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Fellini al Teatro",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4473902,
+          49.4803799
+        ]
+      },
+      "id": "node/2260546877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271995322",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@da-michele.com",
+        "image": "https://commons.wikimedia.org/wiki/File:Ristorante_Da_Michele_Mannheim-Feudenheim.jpg",
+        "name": "Ristorante Da Michele",
+        "opening_hours": "Tu-Fr 11:30-14:00,18:00-22:00; Sa,Su 18:00-22:00",
+        "phone": "+49 621 791077",
+        "website": "http://www.da-michele.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5304946,
+          49.4881271
+        ]
+      },
+      "id": "node/2271995322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286498504",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:LA_Conca_D%27oro_Mannheim-Almenhof.jpg",
+        "name": "Ristorante - Pizzeria LA Conca D'oro",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.483792,
+          49.4622679
+        ]
+      },
+      "id": "node/2286498504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2304706900",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "nfo@bellanapoli-mannheim.de",
+        "fax": "+49 621 4296311",
+        "image": "https://commons.wikimedia.org/wiki/File:Bella_Napoli_Mannheim-Neuostheim.jpg",
+        "name": "Bella Napoli",
+        "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30; Sa,Su 12:00-14:30,18:00-23:30",
+        "operator": "Salvatore Nicotra",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 413165",
+        "website": "http://www.bellanapoli-mannheim.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Eingang stufenfrei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5107081,
+          49.4786812
+        ]
+      },
+      "id": "node/2304706900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308767072",
+        "addr:city": "Hirschhorn (Neckar)",
+        "addr:postcode": "69434",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "italian",
+        "delivery": "no",
+        "name": "bei Peppe",
+        "opening_hours": "We-Mo 11:00-18:00+",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8978418,
+          49.4466267
+        ]
+      },
+      "id": "node/2308767072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321564347",
+        "addr:housenumber": "49",
+        "addr:street": "Feldbergstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:La_Tavernetta_Mannheim-Niederfeld.jpg",
+        "name": "La Tavernetta",
+        "opening_hours": "Tu-Fr, Su 11:00-14:00, 17:30-23:00; Sa 17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 8284291",
+        "website": "http://www.la-tavernetta-mannheim.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "Eingang ok, WC ungeprüft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4735556,
+          49.4589641
+        ]
+      },
+      "id": "node/2321564347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334288057",
+        "addr:city": "Neckargemünd",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "69151",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Limoncello",
+        "old_name": "Mio Limoncello",
+        "opening_hours": "We-Su 18:00-24:00",
+        "website": "http://www.limoncello-neckargemuend.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8000014,
+          49.39287
+        ]
+      },
+      "id": "node/2334288057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2361347982",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Pizzeria_Mamma_Lucia_Feudenheim.jpg",
+        "level": "0",
+        "name": "Pizzeria Mamma Lucia",
+        "opening_hours": "Tu-Su 11:00-14:30,16:00-23:00",
+        "phone": "+49 621 795262",
+        "website": "http://www.mammalucia.de.tl/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5311119,
+          49.4867637
+        ]
+      },
+      "id": "node/2361347982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2374799542",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Ristorante_Da_Toni_Mannheim-Casterfeld.jpg",
+        "name": "Ristorante Da Toni",
+        "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00;Su 11:00-14:00,17:00-24:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5185773,
+          49.4430244
+        ]
+      },
+      "id": "node/2374799542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2376258916",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@dabenito-mannheim.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Ristorante_da_Benito_Mannheim-Neckarau.jpg",
+        "name": "Ristorante da Benito",
+        "opening_hours": "Tu-Su 17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 87524587",
+        "website": "http://www.dabenito-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4833054,
+          49.4540639
+        ]
+      },
+      "id": "node/2376258916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378725900",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@ristorante-claudio.eu",
+        "name": "Ristorante Claudio",
+        "opening_hours": "Mo off;Tu-Fr, Su 12:00-14:30,17:30+;Sa 17:30+",
+        "operator": "Sebastiano Di Maria",
+        "phone": "+49 621 8019381",
+        "website": "https://www.ristorante-olivo.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5216643,
+          49.4352875
+        ]
+      },
+      "id": "node/2378725900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2387199853",
+        "addr:city": "Plankstadt",
+        "addr:housenumber": "28",
+        "addr:postcode": "68723",
+        "addr:street": "Jahnstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "restaurant.wintergarten@gmail.com",
+        "name": "Restaurant „Wintergarten by Roberto Rondinelli“",
+        "operator": "Giovanni Vitali",
+        "outdoor_seating": "yes",
+        "phone": "+49 6202 60 570 41",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5799164,
+          49.3987229
+        ]
+      },
+      "id": "node/2387199853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2419187328",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Enzo",
+        "website": "http://www.ristorante-da-enzo.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6456892,
+          49.5014662
+        ]
+      },
+      "id": "node/2419187328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421123511",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "11/1",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "VINCIdue",
+        "opening_hours": "Mo-Sa 11:00-24:00",
+        "toilets:wheelchair": "yes",
+        "website": "http://vinci-due.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6893369,
+          49.4071802
+        ]
+      },
+      "id": "node/2421123511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446192891",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+49 6221 7099530",
+        "name": "Ristorante Il Pescatore",
+        "opening_hours": "Th-Tu 11:30-14:00, 17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 7503991",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6462916,
+          49.4278664
+        ]
+      },
+      "id": "node/2446192891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446830363",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "email": "info@olive-hd.de",
+        "fax": "+49 6221 7258125",
+        "name": "Die Olive Feinkostgeschäft und Snackbar",
+        "opening_hours": "Mo-Fr 9:00-19:00 ; Sa 9:00-16:00",
+        "phone": "+49 6221 7258124",
+        "shop": "deli",
+        "website": "www.olive-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6468617,
+          49.4269602
+        ]
+      },
+      "id": "node/2446830363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499103157",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "mail@luisella.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Luisella_Mannheim-Neckarstadt.jpg",
+        "level": "0",
+        "name": "Luisella Feinkost Bistorante",
+        "opening_hours": "Mo-Fr 10:30-16:00;Th-Fr 18:00-22:00",
+        "operator": "Luisa Occhionero",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 39747874",
+        "shop": "deli",
+        "website": "http://luisella.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.475933,
+          49.4970267
+        ]
+      },
+      "id": "node/2499103157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510504556",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@ladolcevita-wilhelmsfeld.de",
+        "name": "Ristorante La Dolce Vita",
+        "opening_hours": "Mo-Sa 11:30-14:30,17:30-23:00; Su 11:30-23:00",
+        "phone": "+49 6220 7575",
+        "website": "http://www.ladolcevita-wilhelmsfeld.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.753427,
+          49.4701026
+        ]
+      },
+      "id": "node/2510504556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511484785",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Viva_la_Pasta_Da_Lidia_Mannheim_N3.jpg",
+        "name": "Viva la Pasta Da Lidia",
+        "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-22:00; Sa 10:00-18:00",
+        "phone": "+49 621 1220224",
+        "update": "Nov 2014",
+        "wheelchair": "limited",
+        "wheelchair:description": "Stufe am Eingang 10 cm hoch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4667438,
+          49.4856664
+        ]
+      },
+      "id": "node/2511484785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640446005",
+        "addr:housenumber": "45",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 4307857",
+        "contact:website": "http://www.il-gambero-rosso.de/",
+        "cuisine": "italian",
+        "lastcheck": "2016-02-07",
+        "name": "Il Gambero Rosso",
+        "opening_hours": "Mo-Fr 17:30-22:45; Su 12:00-22:45",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919226,
+          49.3790377
+        ]
+      },
+      "id": "node/2640446005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786359060",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "82",
+        "addr:postcode": "69126",
+        "addr:street": "Karlsruher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Italia",
+        "toilets:wheelchair": "no",
+        "website": "http://www.italia-heidelberg.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6888988,
+          49.3810339
+        ]
+      },
+      "id": "node/2786359060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822241707",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Ristorante_Napoli_Mannheim-Neckarau.jpg",
+        "name": "Ristorante Napoli",
+        "opening_hours": "Tu-Su 12:00-14:30,17:30-23:00",
+        "phone": "+49 621 852364",
+        "website": "http://www.ristorante-napoli-neckarau.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4887736,
+          49.4528379
+        ]
+      },
+      "id": "node/2822241707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822241711",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Plumeau",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4874756,
+          49.4539247
+        ]
+      },
+      "id": "node/2822241711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2852243168",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "La Casetta",
+        "opening_hours": "Mo-Sa 11:30-14:30;17:30-21:00;Tu off;Su 11:30-14:30",
+        "phone": "+49 621 79 55 01",
+        "website": "http://www.ristorante-la-casetta.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5349816,
+          49.4865645
+        ]
+      },
+      "id": "node/2852243168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2862779951",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Ferrarese",
+        "opening_hours": "11:30-14:00,17:30-22:30",
+        "phone": "+49 6201 879558",
+        "website": "http://ristorante-ferrarese.de/pages/hotel-gruener-baum/willkommen-im-hotel-gruener-baum.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6726832,
+          49.5475406
+        ]
+      },
+      "id": "node/2862779951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2905271101",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "202",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "drive_in": "no",
+        "internet_access:fee": "no",
+        "microbrewery": "no",
+        "name": "Papi",
+        "organic": "no",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://papi-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7106965,
+          49.411882
+        ]
+      },
+      "id": "node/2905271101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2925986625",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Piccolo Cin Cin",
+        "wheelchair": "no",
+        "wheelchair:description": "Eingang 6 Stufen. Im Sommer könnte man vielleicht draußen sitzen. Kopfsteinpflaster."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6916012,
+          49.4135324
+        ]
+      },
+      "id": "node/2925986625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934642785",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Fortuna",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5747313,
+          49.4398897
+        ]
+      },
+      "id": "node/2934642785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2946085078",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "lastcheck": "2017-08-14",
+        "name": "La Vite",
+        "opening_hours": "12:00-15:00,18:00-24:00",
+        "phone": "+49 6221 21413",
+        "website": "http://www.la-vite-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6900358,
+          49.4085554
+        ]
+      },
+      "id": "node/2946085078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2978678274",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Rose Da Sergio",
+        "phone": "+49 6202 9479574",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5803575,
+          49.3721366
+        ]
+      },
+      "id": "node/2978678274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2988128963",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Bistro, Cafe Sale & Pepe",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5667534,
+          49.3886633
+        ]
+      },
+      "id": "node/2988128963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2995369262",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6201 52579",
+        "cuisine": "italian",
+        "email": "gasthaus-lamozzarella@web.de",
+        "fax": "+49 6201 959267",
+        "name": "La Mozzarella",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:30-22:30;Sa,Su 11:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6201 52579",
+        "website": "http://www.lamozzarella.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6566043,
+          49.5266926
+        ]
+      },
+      "id": "node/2995369262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3005399359",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "p1piano@live.de",
+        "fax": "+49 6204 911110",
+        "name": "P1 Piano Strandbar & Lounge",
+        "opening_hours": "Tu-Fr 15:00-23:00;Sa 15:00-24:00;Su 10:00-22:00",
+        "phone": "+49 6204 911110",
+        "website": "http://www.p1viernheim.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5611146,
+          49.527255
+        ]
+      },
+      "id": "node/3005399359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014122534",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Artischocke",
+        "opening_hours": "Tu-Sa 17:30-22:00;Su 11:30-14:00;17:30-22:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5778504,
+          49.5365126
+        ]
+      },
+      "id": "node/3014122534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3017425994",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Piscina",
+        "opening_hours": "Tu-Fr 10:00-14:00,17:30-23:00;Sa 17:30-23:00;Su 10:00-14:00,17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6204 76946",
+        "website": "http://www.lapiscina.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5803272,
+          49.537799
+        ]
+      },
+      "id": "node/3017425994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3060436905",
+        "addr:city": "Viernheim",
+        "addr:housenumber": "26",
+        "addr:postcode": "68519",
+        "addr:street": "Kriemhildstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "fragomeno@t-online.de",
+        "fax": "+49 6204 74591",
+        "name": "Mamma Mia",
+        "opening_hours": "Tu-Su 11:30-14:30,17:30-24:00",
+        "phone": "+49 6204 5585",
+        "website": "http://www.mammamia-viernheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5666547,
+          49.5428377
+        ]
+      },
+      "id": "node/3060436905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3070677981",
+        "addr:city": "Viernheim",
+        "addr:housenumber": "18",
+        "addr:postcode": "68519",
+        "addr:street": "Walter-Oehmichen-Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@cavallo-dargento.de",
+        "name": "Cavallo d´ Argento",
+        "opening_hours": "Mo-Su 11:30-14:30,17:30-23:00; Sa 17:30+; We off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6204 9867877",
+        "website": "http://www.cavallo-dargento.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5963717,
+          49.5432002
+        ]
+      },
+      "id": "node/3070677981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3083245137",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@restaurant-neuzenhof.de",
+        "fax": "+49 6204 976935",
+        "name": "Restaurant Gut Neuzenhof",
+        "outdoor_seating": "yes",
+        "phone": "+49 6204 976930",
+        "website": "http://www.restaurant-neuzenhof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5984644,
+          49.5268244
+        ]
+      },
+      "id": "node/3083245137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3090234032",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Restaurant Giardino",
+        "opening_hours": "10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6201 13110",
+        "website": "http://www.tc02weinheim.de/restaurant-giardino",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6452221,
+          49.5427401
+        ]
+      },
+      "id": "node/3090234032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3090254935",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Roni´s Ristorante",
+        "website": "http://www.ronis-ristorante.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6478891,
+          49.5395922
+        ]
+      },
+      "id": "node/3090254935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3208553490",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+49 (0)621 1561492",
+        "image": "https://commons.wikimedia.org/wiki/File:La_Fenice_Mannheim_N3.jpg",
+        "level": "0",
+        "name": "La Fenice",
+        "operator": "Rosario Polizzi",
+        "phone": "+49 621 1561491",
+        "update": "Nov 2014",
+        "website": "http://www.lafenice-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4670017,
+          49.4859536
+        ]
+      },
+      "id": "node/3208553490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3218375980",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Pasta_%26_Panini_Mannheim_L10.jpg",
+        "name": "Pasta & Panini",
+        "wheelchair": "limited",
+        "wheelchair:description": "Stufe am Eingang 11 cm hoch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4696125,
+          49.4826891
+        ]
+      },
+      "id": "node/3218375980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3392886894",
+        "amenity": "ice_cream",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "name": "That's Gelato",
+        "smoking": "outside",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7095422,
+          49.4127679
+        ]
+      },
+      "id": "node/3392886894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3462881293",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Bella Capri",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5239613,
+          49.3640304
+        ]
+      },
+      "id": "node/3462881293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470883487",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Da_Ciro_Mannheim-Seckenheim.jpg",
+        "name": "Da Ciro",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00;Sa,Su 17:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 43752214",
+        "website": "http://www.daciro-mannheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5569052,
+          49.4673611
+        ]
+      },
+      "id": "node/3470883487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485824600",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "image": "https://commons.wikimedia.org/wiki/File:Corona_zur_Scheune-01_Mannheim-K%C3%A4fertal.jpg",
+        "lunch_spezial": "yes",
+        "name": "Corona zur Scheune",
+        "opening_hours": "Tu-Fr 11:00-23:00;Sa 17:00-23:00;Su 12:00-23:00",
+        "phone": "+49 621 72841544",
+        "website": "http://coronazurscheune.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Es gibt zwei Gasträume. Die Scheune hat nur eine kleine Stufe sowie ein ebenerdiges größeres WC. Das Vorderhaus nur über Treppe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5175771,
+          49.5113888
+        ]
+      },
+      "id": "node/3485824600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3548403599",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "20",
+        "addr:postcode": "69126",
+        "addr:street": "Felix-Wankel-Straße",
+        "amenity": "restaurant",
+        "capacity": "30",
+        "contact:email": "heidelberg@oh-angie.de",
+        "cuisine": "italian",
+        "name": "Oh Angie",
+        "opening_hours": "Mo-Sa 07:30-24:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://oh-angie.de/heidelberg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6786192,
+          49.383586
+        ]
+      },
+      "id": "node/3548403599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3618119623",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Pizzeria Al Boschetto",
+        "outdoor_seating": "yes",
+        "website": "https://www.facebook.com/Al-Boschetto-1656090931326700/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5541586,
+          49.5414418
+        ]
+      },
+      "id": "node/3618119623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636385060",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@aldente-viernheim.de",
+        "fax": "+49 6204 9112888",
+        "name": "al dente Ristorante-Pizzeria-Vinoteca",
+        "opening_hours": "Mo-Fr 10:30-14:30, 17:30-23:30; Sa, Su 10:30-23:30",
+        "operator": "al dente GmbH, Mörlenbach",
+        "outdoor_seating": "yes",
+        "phone": "+49 6204 9112888",
+        "toilets:wheelchair": "no",
+        "website": "http://aldente-viernheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5553763,
+          49.5275905
+        ]
+      },
+      "id": "node/3636385060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673197233",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Sicilia",
+        "opening_hours": "Mo-Fr 11:00-13:30,17:00-21:30; Su 13:30-21:30; PH 17:00-21:30",
+        "source": "survey",
+        "website": "http://pizzeria-sicilia-mannheim.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4805961,
+          49.5256235
+        ]
+      },
+      "id": "node/3673197233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3696546505",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@etna-ristorante.de",
+        "lunch_specials": "yes",
+        "name": "Ristorante Etna im Pfälzer hof",
+        "opening_hours": "Su, Mo, We, Th, Fr 11:30-14:30, 17:30-23:30; Sa 17:30-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6203 81179",
+        "source": "Bing",
+        "website": "http://www.etna-ristorante.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6092526,
+          49.450532
+        ]
+      },
+      "id": "node/3696546505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770940606",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "6",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "Carosello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692123,
+          49.4078778
+        ]
+      },
+      "id": "node/3770940606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830797687",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "210",
+        "addr:postcode": "69117",
+        "addr:street": "Hauptstraße",
+        "alt_name": "Weißes Rössel",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@weissesroessel.de",
+        "name": "Cavallino Bianco",
+        "operator": "Alfonso Coppola",
+        "phone": "+49 6221 432300",
+        "toilets:wheelchair": "no",
+        "website": "http://cavallinobianco.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7119807,
+          49.4121545
+        ]
+      },
+      "id": "node/3830797687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830812882",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69117",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Toscana",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7097666,
+          49.4123338
+        ]
+      },
+      "id": "node/3830812882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3837482349",
+        "addr:city": "Schwetzingen",
+        "addr:housenumber": "6",
+        "addr:postcode": "68723",
+        "addr:street": "Schlossplatz",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "ice_cream": "yes",
+        "name": "Caffé Napoli",
+        "opening_hours:signed": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5735387,
+          49.3840136
+        ]
+      },
+      "id": "node/3837482349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874929157",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante da Lulu e Angelo",
+        "opening_hours": "Mo 11:30-14:00; Mo 17:30-23:00; We-Fr 11:30-14:00; We-Fr 17:30-23:00; Sa 17:30-23:00; Su,PH 11:30-14:00; Su,PH 17:30-23:00",
+        "phone": "+49 621 83254563",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4694064,
+          49.4749371
+        ]
+      },
+      "id": "node/3874929157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4000745450",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "1",
+        "addr:postcode": "67061",
+        "addr:street": "Rheinallee",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "PANEO",
+        "opening_hours": "Mo-Sa 11:00-22:00, Su 11:00-19:00",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4534004,
+          49.4717506
+        ]
+      },
+      "id": "node/4000745450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030895280",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "name": "Goldene Rose",
+        "opening_hours": "Mo-Sa 11:00-14:30,17:30-23:00;Su 11:30-22:00",
+        "outdoor_seating": "yes",
+        "parking": "yes",
+        "phone": "+49622178 20 58",
+        "restaurant": "yes",
+        "rooms": "9",
+        "source": "HiRes aerial imagery",
+        "tourism": "hotel",
+        "website": "http://www.goldenerose-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6672057,
+          49.3773802
+        ]
+      },
+      "id": "node/4030895280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4081187323",
+        "addr:city": "Leimen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69181",
+        "addr:street": "Ernst-Naujoks-Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Il Caminetto",
+        "opening_hours": "Mo-Su 11:30-14:00,17:30-23:00",
+        "operator": "Fam. Falcone",
+        "phone": "+49622477171",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6796512,
+          49.3451432
+        ]
+      },
+      "id": "node/4081187323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278308467",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "contact:email": "info@lalocanda26.de",
+        "contact:fax": "+49 6221 7268923",
+        "contact:phone": "+49 6221 7268922",
+        "contact:website": "http://lalocanda26.de",
+        "cuisine": "italian",
+        "name": "La Locanda 26",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6884965,
+          49.4235657
+        ]
+      },
+      "id": "node/4278308467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278308588",
+        "addr:street": "Handschuhsheimer Landstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6221 47262",
+        "cuisine": "italian",
+        "name": "Römer Pils Stube",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6891268,
+          49.4254664
+        ]
+      },
+      "id": "node/4278308588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4330469557",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/ristorantelacucinaitaliana/",
+        "cuisine": "italian",
+        "name": "La Cucina Italiana",
+        "opening_hours": "Tu-Su 11:30-14:00,17:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6201 4990055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6682078,
+          49.5183432
+        ]
+      },
+      "id": "node/4330469557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394675423",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Pino",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6588943,
+          49.3435342
+        ]
+      },
+      "id": "node/4394675423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406847514",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "68161",
+        "addr:street": "Q6",
+        "amenity": "restaurant",
+        "contact:phone": "+49 621 18166999",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "OhJulia",
+        "opening_hours": "Mo-Th 10:30-23:00; Fr 10:30-24:00; Sa 00:00-01:00,10:30-24:00; Su 00:00-01:00,11:30-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "http://ohjulia.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4722751,
+          49.487101
+        ]
+      },
+      "id": "node/4406847514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413370241",
+        "addr:city": "Schwetzingen",
+        "addr:housenumber": "2",
+        "addr:postcode": "68723",
+        "addr:street": "Odenwaldring",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@mamma-rosa-schwetzingen.de",
+        "name": "Mamma Rosa",
+        "opening_hours": "We-Mo 11:30-14:00,17:30-23:30",
+        "phone": "+49 6202 4535",
+        "website": "http://www.mamma-rosa-schwetzingen.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5870511,
+          49.380322
+        ]
+      },
+      "id": "node/4413370241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463603108",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "\"Zum Eckfähnel\"",
+        "opening_hours": "Tu-Fr 11:30-14:00,17:30-23:00,Sa,Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6236 51385",
+        "website": "http://eckfaehnel.de/asv-gaststaette/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4516675,
+          49.3980561
+        ]
+      },
+      "id": "node/4463603108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4717363793",
+        "addr:housenumber": "73",
+        "addr:street": "Plöck",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Bruschetta 2",
+        "website": "https://www.facebook.com/LaBruschettaDaPasquale/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7008048,
+          49.4094641
+        ]
+      },
+      "id": "node/4717363793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753338846",
+        "addr:housenumber": "56",
+        "addr:street": "Plöck",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "lastcheck": "2017-08-08",
+        "name": "La Bruschetta",
+        "phone": "+49 6221 189909",
+        "website": "https://www.facebook.com/LaBruschettaDaPasquale/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7037117,
+          49.4094186
+        ]
+      },
+      "id": "node/4753338846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905624462",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pasta Emilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4589702,
+          49.4936647
+        ]
+      },
+      "id": "node/4905624462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052752723",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "San Remo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5060435,
+          49.5098999
+        ]
+      },
+      "id": "node/5052752723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306197849",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Da Rocco Corona",
+        "opening_hours": "We-Mo 11:00-23:00; Tu off \"Ruhetag\"",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 410801",
+        "smoking:outside": "yes",
+        "website": "http://www.pizzeria-corona.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6827505,
+          49.4317297
+        ]
+      },
+      "id": "node/5306197849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5350953523",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "L'Osteria",
+        "opening_hours": "Mo-Sa 11:00-24:00; Su 12:00-24:00; PH 12:00-24:00",
+        "phone": "+49 621 43178790",
+        "website": "http://losteria.de/restaurant/mannheim/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4772967,
+          49.4826248
+        ]
+      },
+      "id": "node/5350953523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5397731471",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Giardino",
+        "website": "http://www.ristorante-giardino.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6900769,
+          49.389644
+        ]
+      },
+      "id": "node/5397731471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5514428811",
+        "addr:city": "Otterstadt",
+        "addr:housenumber": "22",
+        "addr:postcode": "67166",
+        "addr:street": "Speyerer Straße",
+        "amenity": "restaurant",
+        "capacity": "90",
+        "cuisine": "italian",
+        "name": "Ristorante Vivere",
+        "opening_hours": "Do - Di 11.30-14.00 und 17.30-23.00 Mi Ruhetag",
+        "outdoor_seating": "yes",
+        "phone": "+49 6232 43747",
+        "takeaway": "yes",
+        "website": "http://www.vivere-otterstadt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4548167,
+          49.3722135
+        ]
+      },
+      "id": "node/5514428811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5613984876",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "level": "0",
+        "microbrewery": "no",
+        "name": "Riviera",
+        "operator": "Fabian Liberto",
+        "phone": "+49 621 87998716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52661,
+          49.4339958
+        ]
+      },
+      "id": "node/5613984876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5829751184",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizzeria Italia",
+        "website": "http://www.tc-eberbach.de/index.php?id=55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9766858,
+          49.4617707
+        ]
+      },
+      "id": "node/5829751184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842445875",
+        "addr:city": "Weinheim",
+        "addr:housenumber": "47/1",
+        "addr:postcode": "69469",
+        "addr:street": "Viernheimer Straße",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "italian",
+        "name": "Danilo's",
+        "opening_hours": "Tu-Fr 11:30-14:00 18:00-23:00, Sa 18:00-23:00, Su 17:00-22:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6569056,
+          49.5557467
+        ]
+      },
+      "id": "node/5842445875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939497466",
+        "addr:housenumber": "190",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "name": "Vapiano",
+        "opening_hours": "Mo-Th 11:00-23:30; Fr,Sa 11:00-00:30; Su 11:00-23:30",
+        "takeaway": "yes",
+        "website": "https://de.vapiano.com/de/nc/restaurants/detail/restaurant-details/-b476200a94/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7099339,
+          49.4118158
+        ]
+      },
+      "id": "node/5939497466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6021376354",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@trattoria37.de",
+        "name": "Trentasette",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "operator": "Mattia Giannone",
+        "phone": "+49 6221 673 4302",
+        "smoking": "outside",
+        "website": "https://www.trattoria37.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6924614,
+          49.4043622
+        ]
+      },
+      "id": "node/6021376354"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-12-11T16:07:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332487175",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/PizzeriaLaTorreEppelheimHeidelberg",
+        "cuisine": "pizza",
+        "name": "Pizzeria La Torre",
+        "opening_hours": "Mo 11:00-14:30, 16:00-23:00; Su 11:00-14:30, 16:00-23:00",
+        "phone": "+49 6221 7379397",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6296133,
+          49.4020653
+        ]
+      },
+      "id": "node/332487175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526139",
+        "addr:housenumber": "211",
+        "addr:street": "Hauptstraße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Paniz",
+        "website": "http://www.pizza-paniz.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7130359,
+          49.4126517
+        ]
+      },
+      "id": "node/444526139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/888563634",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Apple Pizza",
+        "toilets:wheelchair": "no",
+        "website": "http://myapplepizza.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903682,
+          49.3797606
+        ]
+      },
+      "id": "node/888563634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1299324149",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "13/2",
+        "addr:postcode": "69121",
+        "addr:street": "Tiergartenstraße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Valentino",
+        "old_name": "Caramel",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 473636",
+        "website": "http://www.ristorante-pizzeria-valentino.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "Restaurant ebenerdig, Stufe zur Terasse, keine Behindertentoilette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6586938,
+          49.4213757
+        ]
+      },
+      "id": "node/1299324149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329741050",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69115",
+        "addr:street": "Hebelstraße",
+        "amenity": "fast_food",
+        "brand": "Pizza Hut",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6828185,
+          49.3971048
+        ]
+      },
+      "id": "node/1329741050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539732295",
+        "addr:city": "Heidelberg",
+        "amenity": "fast_food",
+        "brand": "Pizza Hut",
+        "brand:website": "http://www.pizzahut.de",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "de:Pizza Hut",
+        "cuisine": "pizza",
+        "internet_access": "unknown",
+        "lastcheck": "2017-08-14",
+        "name": "Pizza Hut",
+        "opening_hours": "Mo-Th 11:00-23:00, Fr 11:00-24:00, Sa 11:00-01:00, Su 12:00-23:00",
+        "outdoor": "no",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7037794,
+          49.4114791
+        ]
+      },
+      "id": "node/1539732295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798863253",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69118",
+        "addr:street": "Jägerpfad",
+        "addr:suburb": "Schlierbach",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "fax": "+49 6221 804970",
+        "name": "Pizza Toscana",
+        "opening_hours": "Mo,We-Sa 16:00-23:00; Su,PH 12:00-23:00; Tu off",
+        "operator": "Rehman & Tahir GbR",
+        "phone": "+49 6221 801062",
+        "website": "http://toscana-hd.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7477829,
+          49.4146829
+        ]
+      },
+      "id": "node/1798863253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1910204253",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "28",
+        "addr:postcode": "69121",
+        "addr:street": "Wiesenweg",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Zum Kroddeweiher",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6752346,
+          49.4373792
+        ]
+      },
+      "id": "node/1910204253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2191422597",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "33",
+        "addr:postcode": "69214",
+        "addr:street": "Friedrich-Ebert-Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Piccobello",
+        "website": "http://www.pizzeria-piccobello-eppelheim.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6286429,
+          49.399174
+        ]
+      },
+      "id": "node/2191422597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2191422599",
+        "addr:city": "Eppelheim",
+        "addr:housenumber": "6",
+        "addr:postcode": "69214",
+        "addr:street": "Blumenstraße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Rapido",
+        "opening_hours": "Mo-Fr 11:00-22:30;Sa 15:00-22:30;Su 14:00-21:30",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.pizzarapido.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6289044,
+          49.3998207
+        ]
+      },
+      "id": "node/2191422599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731031706",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Hell",
+        "phone": "+49 6221 9985610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6656925,
+          49.3769666
+        ]
+      },
+      "id": "node/2731031706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3281017917",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Pronta",
+        "phone": "+49 6221 302003;+49 6221 302004",
+        "website": "http://www.pizzapronta.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6875397,
+          49.3788201
+        ]
+      },
+      "id": "node/3281017917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3425320344",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "14",
+        "addr:postcode": "69118",
+        "addr:street": "Peterstaler Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Pizza Flora",
+        "opening_hours": "Mo-Th 16:30-23:00; Fr-Sa 16:30-24:00; Su,PH 12:00-23:00",
+        "opening_hours:delivery": "Mo-Th 16:30-22:30; Fr-Sa 16:30-23:30; Su,PH 12:00-22:30",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7569997,
+          49.4191242
+        ]
+      },
+      "id": "node/3425320344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962608831",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "6",
+        "addr:postcode": "69115",
+        "addr:street": "Pfaffengrunder Terrasse",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Star Pizza",
+        "opening_hours": "Tu-Fr 17:00-23:45; Sa,Su 11:00-23:45",
+        "takeaway": "yes",
+        "website": "http://www.starpizzaheidelberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6648699,
+          49.402057
+        ]
+      },
+      "id": "node/3962608831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032413818",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Ristorante Pizzeria Sardegna",
+        "opening_hours": "Mo-Sa 17:30-00:00;Su 11:30-14:30,17:30-00:00",
+        "phone": "+49 6221 781395",
+        "website": "http://www.ristorante-pizzeria-sardegna.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6713573,
+          49.3812027
+        ]
+      },
+      "id": "node/4032413818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367363295",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Mr. Pepperoni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6680085,
+          49.3784037
+        ]
+      },
+      "id": "node/4367363295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4724675059",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69115",
+        "addr:street": "Theodor-Körner-Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "La Fayette Pizza-Heim-Service",
+        "opening_hours": "Mo off, Tu-Fr 11:00-13:50,17:00-23:50; Sa 16:00-23:45; Su 12:00-23:45",
+        "opening_hours:url": "https://www.lafayetteheidelberg.de/uber-uns",
+        "takeaway": "only",
+        "website": "https://www.lafayetteheidelberg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6714868,
+          49.4077295
+        ]
+      },
+      "id": "node/4724675059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4929298093",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Amici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767745,
+          49.3759029
+        ]
+      },
+      "id": "node/4929298093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5227118043",
+        "addr:housenumber": "8",
+        "addr:street": "Rathausstraße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Domino's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6883764,
+          49.3798513
+        ]
+      },
+      "id": "node/5227118043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5316446068",
+        "addr:housenumber": "8",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "level": "0",
+        "name": "Pizzeria im Carré"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919457,
+          49.4074946
+        ]
+      },
+      "id": "node/5316446068"
+    }
+  ]
+}

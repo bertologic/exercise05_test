@@ -1,0 +1,1861 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-12-11T15:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303195887",
+        "access": "no",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "304",
+        "addr:postcode": "69120",
+        "addr:street": "Im Neuenheimer Feld",
+        "amenity": "fast_food",
+        "delivery": "no",
+        "drink:club-mate": "retail",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Café Botanik",
+        "opening_hours": "Mo-Th 08:00-24:00; Fr 08:00-23:00",
+        "phone": "+49 6221 54 26 44",
+        "smoking": "no",
+        "website": "http://www.studentenwerk-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6703781,
+          49.4153134
+        ]
+      },
+      "id": "node/303195887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305251983",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "69115",
+        "addr:street": "Willy-Brandt-Platz",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "cuisine": "burger",
+        "fax": "+49 6221 6501378",
+        "level": "0",
+        "name": "Burger King",
+        "opening_hours": "Mo-Th 09:00-24:00, Fr 09:00-03:00, Sa 09:00-03:00, Su 09:00-24:00, PH 09:00-24:00",
+        "opening_hours:lastcheck": "2016-04-17",
+        "phone": "+49 6221 6501376",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://www.burgerking.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6755501,
+          49.4045387
+        ]
+      },
+      "id": "node/305251983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305963225",
+        "amenity": "fast_food",
+        "name": "Kardo Express",
+        "phone": "+49 6221 439165",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6762931,
+          49.4128517
+        ]
+      },
+      "id": "node/305963225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307005755",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "304",
+        "addr:postcode": "69120",
+        "addr:street": "Im Neuenheimer Feld",
+        "amenity": "fast_food",
+        "name": "Chez Pierre",
+        "opening_hours": "Mo-Fr 11:30-14:30",
+        "phone": "+49 6221 54 26 44",
+        "smoking": "yes",
+        "website": "http://www.studentenwerk-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6710423,
+          49.4155076
+        ]
+      },
+      "id": "node/307005755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312753871",
+        "amenity": "fast_food",
+        "name": "Umurs Döner Haus",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671018,
+          49.4499703
+        ]
+      },
+      "id": "node/312753871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331296269",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "name": "City Pizza & Kebap",
+        "opening_hours": "11:00-23:00",
+        "phone": "+49 6221 3386684",
+        "website": "http://www.eppelheim-city-pizza-kebap.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6308759,
+          49.4011967
+        ]
+      },
+      "id": "node/331296269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364775656",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "no",
+        "lastcheck": "2017-08-08",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Raja Rani",
+        "number_of_menulanguages": "1",
+        "opening_hours": "11:00-23:00",
+        "outdoor": "no",
+        "phone": "+49 6221 6530893",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.rajaraniheidelberg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7032173,
+          49.4095279
+        ]
+      },
+      "id": "node/364775656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526125",
+        "amenity": "fast_food",
+        "cuisine": "arab",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Mahmoud's",
+        "number_of_menulanguages": "1",
+        "old_name": "Falafel",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "outdoor": "no",
+        "smoking": "no",
+        "website": "http://mahmouds.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7078168,
+          49.4113938
+        ]
+      },
+      "id": "node/444526125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526129",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "4",
+        "addr:postcode": "69117",
+        "addr:street": "Marktplatz",
+        "amenity": "fast_food",
+        "cuisine": "german",
+        "name": "Marktstube",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7101696,
+          49.4123636
+        ]
+      },
+      "id": "node/444526129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526139",
+        "addr:housenumber": "211",
+        "addr:street": "Hauptstraße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Paniz",
+        "website": "http://www.pizza-paniz.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7130359,
+          49.4126517
+        ]
+      },
+      "id": "node/444526139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444526157",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "lastcheck": "2017-08-08",
+        "name": "Raja Rani",
+        "opening_hours": "11:00-23:00",
+        "outdoor_seating": "yes",
+        "website": "http://www.rajaraniheidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7106922,
+          49.4114345
+        ]
+      },
+      "id": "node/444526157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/744767063",
+        "amenity": "fast_food",
+        "name": "Dolce Vita",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6412876,
+          49.4018144
+        ]
+      },
+      "id": "node/744767063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/942793880",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "lastcheck": "2017-08-08",
+        "name": "Arbil Restaurant",
+        "opening_hours": "Mo-Th 10:00-01:00, Fr-Sa 10:00-05:00",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6922677,
+          49.4086793
+        ]
+      },
+      "id": "node/942793880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/942793881",
+        "addr:city": "Heidelberg",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "name": "Dynastie",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6920687,
+          49.4088859
+        ]
+      },
+      "id": "node/942793881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029513921",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "69117",
+        "addr:street": "Ziegelgasse",
+        "amenity": "fast_food",
+        "cuisine": "mediterranean",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "La Couscousserie",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo 12:00-15:00; Tu-Th 12:00-20:00; Fr-Sa 12:00-21:00; Su 12:00-19:00; PH off",
+        "outdoor": "no",
+        "smoking": "no",
+        "website": "http://www.lacouscousserie.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699541,
+          49.4111236
+        ]
+      },
+      "id": "node/1029513921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029572781",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "lastcheck": "2017-08-08",
+        "menu": "yes",
+        "name": "Istanbul",
+        "opening_hours": "Mo-Th 11:00-23:00, Fr-Sa 11:00-03:00, Su 11:00-23:00",
+        "outdoor": "no",
+        "phone": "+49 6221 6557999",
+        "smoking": "no",
+        "website": "https://de-de.facebook.com/IstanbulHD/",
+        "wheelchair": "no",
+        "wheelchair:description": "Drei Stufen zum Eingang (Höhe je Stufe 17cm)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7030396,
+          49.4095156
+        ]
+      },
+      "id": "node/1029572781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029572817",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "fax": "+49 6221 6508210",
+        "lastcheck": "2017-08-08",
+        "name": "Pasta Bar",
+        "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 11:00-20:00",
+        "telephone": "+49 6221 3543150",
+        "website": "http://www.pastabar-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6956546,
+          49.4089488
+        ]
+      },
+      "id": "node/1029572817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197310",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Bagis",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6917804,
+          49.4023297
+        ]
+      },
+      "id": "node/1097197310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197422",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "level": "0",
+        "name": "Mai - Wok & Grill",
+        "old_name": "Tiger and Dragon's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692063,
+          49.4080816
+        ]
+      },
+      "id": "node/1097197422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197447",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 00:00-01:00,07:00-24:00; Fr 00:00-02:00,07:00-24:00; Sa 00:00-05:00,07:00-24:00; Su 00:00-05:00,09:00-24:00",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://www.mcdonalds.de",
+        "wheelchair": "yes",
+        "wheelchair:description": "Toiletten im Untergeschoss, Zugang nur durch Treppen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692787,
+          49.408317
+        ]
+      },
+      "id": "node/1097197447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097197487",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "delivery": "yes",
+        "name": "Kaschmir-Tandoori",
+        "opening_hours": "11:30-23:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.kaschmirtandoori.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919803,
+          49.4028742
+        ]
+      },
+      "id": "node/1097197487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101923509",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "american;sandwich",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Subway",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-03:00, Su 09:00-20:00",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 6515654",
+        "smoking": "no",
+        "website": "http://www.subway-sandwiches.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "höhere Stufe am Eingang, ansonsten ebenerdig und großzügige Gänge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7087145,
+          49.4118703
+        ]
+      },
+      "id": "node/1101923509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1102069024",
+        "amenity": "fast_food",
+        "lastcheck": "2017-08-14",
+        "name": "My Currywurst",
+        "website": "https://de-de.facebook.com/MyCurrywurst.Heidelberg/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7084936,
+          49.4117437
+        ]
+      },
+      "id": "node/1102069024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1102069081",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Kebap Haus",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Th 11:00-02:00, Fr-Sa 11:00-03:00, Su 11:00-02:00",
+        "outdoor": "yes",
+        "price_mainmenu_€": "4,75",
+        "smoking": "no",
+        "water_price_€": "0,50",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708268,
+          49.4118448
+        ]
+      },
+      "id": "node/1102069081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103687978",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "90",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Anatolien",
+        "opening_hours": "Mo-Th 11:00-24:00; Su,PH 12:00-24:00, Fr-Sa 11:00-01:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903187,
+          49.3998385
+        ]
+      },
+      "id": "node/1103687978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1416343862",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "13",
+        "addr:postcode": "69121",
+        "addr:street": "Furtwänglerstraße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "internet_access": "no",
+        "name": "Buffet & Bistro",
+        "opening_hours": "Mo-Sa 12:00-22:00; Su 12:00-20:00",
+        "website": "http://www.buffet-bistro-pizza-doener-spezialitaeten.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6802799,
+          49.4212552
+        ]
+      },
+      "id": "node/1416343862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537481704",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "delivery": "no",
+        "drive_through": "no",
+        "internet_access": "no",
+        "menu": "yes",
+        "menu_languages": "english, german",
+        "name": "Subway",
+        "note": "main=3,64",
+        "number_of_menulanguages": "2",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 12:00-20:00",
+        "operator": "Subway",
+        "outdoor": "yes",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 656965",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.heidelberg.huerdenlos.de/index.php?id=980&huerdenlos[module_ratings][action]=detail&huerdenlos[module_ratings][dbid]=3110",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6952928,
+          49.4098204
+        ]
+      },
+      "id": "node/1537481704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537481804",
+        "amenity": "fast_food",
+        "brand": "Nordsee",
+        "cuisine": "fish",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Nordsee",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Sa 9:00-20:00; Su off",
+        "outdoor": "yes",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6954419,
+          49.4100552
+        ]
+      },
+      "id": "node/1537481804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539714523",
+        "amenity": "fast_food",
+        "lastcheck": "2017-08-14",
+        "menu_languages": "german",
+        "name": "Big Pommes",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Th 11:00-24:00, Fr-Sa 11:00-03:00, Su 12:00-23:00",
+        "outdoor": "no",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7018994,
+          49.4111928
+        ]
+      },
+      "id": "node/1539714523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539732295",
+        "addr:city": "Heidelberg",
+        "amenity": "fast_food",
+        "brand": "Pizza Hut",
+        "brand:website": "http://www.pizzahut.de",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "de:Pizza Hut",
+        "cuisine": "pizza",
+        "internet_access": "unknown",
+        "lastcheck": "2017-08-14",
+        "name": "Pizza Hut",
+        "opening_hours": "Mo-Th 11:00-23:00, Fr 11:00-24:00, Sa 11:00-01:00, Su 12:00-23:00",
+        "outdoor": "no",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7037794,
+          49.4114791
+        ]
+      },
+      "id": "node/1539732295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539741103",
+        "amenity": "fast_food",
+        "brand": "Gino's",
+        "cuisine": "mexican",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Gino's",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Th 09:00-24:00, Fr-Sa 09:00-03:00, Su 09:00-24:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://www.ginos-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7042989,
+          49.4115238
+        ]
+      },
+      "id": "node/1539741103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539844440",
+        "amenity": "fast_food",
+        "cuisine": "african;lebanese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "no",
+        "lastcheck": "2017-08-14",
+        "menu": "yes",
+        "menu_languages": "german",
+        "name": "Sahara",
+        "number_of_menulanguages": "1",
+        "opening_hours": "Mo-Th 11:00-02:00, Fr-Sa 11:00-03:00, Su 11:00-02:00",
+        "outdoor": "no",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "http://www.sahara-heidelberg.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7079159,
+          49.4118235
+        ]
+      },
+      "id": "node/1539844440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612834292",
+        "amenity": "fast_food",
+        "cuisine": "asian;thai",
+        "name": "Chatuchak",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6783567,
+          49.3999851
+        ]
+      },
+      "id": "node/1612834292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657964049",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "87",
+        "addr:postcode": "69120",
+        "addr:street": "Keplerstraße",
+        "amenity": "fast_food",
+        "level": "-1",
+        "name": "Mensa Alte PH",
+        "phone": "+49 6221 54 26 44",
+        "source": "wheelmap",
+        "website": "http://www.studentenwerk-heidelberg.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6844657,
+          49.4202046
+        ]
+      },
+      "id": "node/1657964049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669007249",
+        "amenity": "fast_food",
+        "name": "Melisa Döner",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6509851,
+          49.4213052
+        ]
+      },
+      "id": "node/1669007249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676237663",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:postcode": "69115",
+        "addr:street": "Willy-Brandt-Platz",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "level": "0",
+        "name": "McDonald's",
+        "opening_hours": "Su-Th 06:00-01:00, Fr-Sa 06:00-04:00",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://www.mcdonalds.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767168,
+          49.4037018
+        ]
+      },
+      "id": "node/1676237663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1779953548",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "19",
+        "addr:postcode": "69115",
+        "addr:street": "Römerstraße",
+        "amenity": "fast_food",
+        "contact:fax": "+49 6221 9851005",
+        "contact:phone": "+49 6221 9851003;+49 6221 9851004",
+        "name": "Indian Curry",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-22:00; PH 12:00-22:00",
+        "shop": "convenience",
+        "website": "http://www.indian-curry.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6848226,
+          49.4042782
+        ]
+      },
+      "id": "node/1779953548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798863253",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69118",
+        "addr:street": "Jägerpfad",
+        "addr:suburb": "Schlierbach",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "fax": "+49 6221 804970",
+        "name": "Pizza Toscana",
+        "opening_hours": "Mo,We-Sa 16:00-23:00; Su,PH 12:00-23:00; Tu off",
+        "operator": "Rehman & Tahir GbR",
+        "phone": "+49 6221 801062",
+        "website": "http://toscana-hd.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7477829,
+          49.4146829
+        ]
+      },
+      "id": "node/1798863253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1939602667",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "62",
+        "addr:postcode": "69115",
+        "addr:street": "Kurfürsten-Anlage",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "name": "Pirim Kebap Haus",
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "phone": "+49 6221 616004",
+        "source": "personal knowledge",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6759129,
+          49.4056328
+        ]
+      },
+      "id": "node/1939602667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291332771",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "42",
+        "addr:postcode": "69121",
+        "addr:street": "Dossenheimer Landstraße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Hallo Habibi",
+        "opening_hours": "Mo-Fr 11:30-21:00; Sa 12:00-21:00; Su 12:00-20:00",
+        "phone": "+49 6221 6555913",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6831848,
+          49.4291086
+        ]
+      },
+      "id": "node/2291332771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446830363",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "email": "info@olive-hd.de",
+        "fax": "+49 6221 7258125",
+        "name": "Die Olive Feinkostgeschäft und Snackbar",
+        "opening_hours": "Mo-Fr 9:00-19:00 ; Sa 9:00-16:00",
+        "phone": "+49 6221 7258124",
+        "shop": "deli",
+        "website": "www.olive-hd.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6468617,
+          49.4269602
+        ]
+      },
+      "id": "node/2446830363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536622312",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Mr. Zhao Nudel Show",
+        "opening_hours": "Mo-Su 11:30-15:00, 17:30-21:30",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69186,
+          49.408838
+        ]
+      },
+      "id": "node/2536622312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609405269",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "69117",
+        "addr:street": "Zwingerstraße",
+        "amenity": "fast_food",
+        "cuisine": "persian",
+        "name": "Persepolis",
+        "opening_hours": "Mo-Th 11:00-16:00; Fr 11:00-20:00; Sa 12:00-20:00",
+        "takeaway": "yes",
+        "website": "http://www.persepolis-heidelberg.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Nur 1 kleiner niedriger Tisch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.711607,
+          49.4113551
+        ]
+      },
+      "id": "node/2609405269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2884170737",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "lastcheck": "2017-08-14",
+        "name": "Asia Wok",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-2:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 6596499",
+        "website": "http://www.asia-wok-heidelberg.de/",
+        "wheelchair": "no",
+        "wheelchair:description": "zwei Stufen am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7081969,
+          49.4118407
+        ]
+      },
+      "id": "node/2884170737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2884170742",
+        "amenity": "fast_food",
+        "name": "Crepes Time",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7101017,
+          49.4120407
+        ]
+      },
+      "id": "node/2884170742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3185290125",
+        "amenity": "fast_food",
+        "cuisine": "thai",
+        "name": "Thai Gourmet",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6935885,
+          49.410212
+        ]
+      },
+      "id": "node/3185290125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3200999541",
+        "amenity": "fast_food",
+        "name": "Royal",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6856736,
+          49.4050523
+        ]
+      },
+      "id": "node/3200999541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3201003644",
+        "amenity": "fast_food",
+        "name": "La Crêpe",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6885094,
+          49.4055366
+        ]
+      },
+      "id": "node/3201003644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3201004062",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "6",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "contact:phone": "+49 6221 6733885",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "mahlzeit",
+        "opening_hours": "Mo-Sa 12:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://Mahlzeit.metro.rest",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6919832,
+          49.4074104
+        ]
+      },
+      "id": "node/3201004062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280029966",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "email": "info@joemolese.com",
+        "name": "Joe Molese",
+        "phone": "+49 6221 6548952",
+        "smoking": "no",
+        "website": "http://www.joemolese.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7095585,
+          49.4125777
+        ]
+      },
+      "id": "node/3280029966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3300451614",
+        "amenity": "fast_food",
+        "diet:vegetarian": "only",
+        "name": "Walters Feinkost",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su off; PH off",
+        "phone": "+49 6221 602322",
+        "shop": "deli",
+        "website": "http://waltersfeinkost.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6954205,
+          49.4095037
+        ]
+      },
+      "id": "node/3300451614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3314335578",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "69115",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "fast_food",
+        "cuisine": "arab",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "mahmoud's",
+        "opening_hours": "Su-Th 11:00-23:00; Fr, Sa 11:00+",
+        "source:opening_hours": "survey",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.facebook.com/mahmoudsheidelberg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6882735,
+          49.4082548
+        ]
+      },
+      "id": "node/3314335578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370913154",
+        "addr:city": "Heidelberg",
+        "addr:postcode": "69115",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza;kebab",
+        "delivery": "yes",
+        "name": "Neckar",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683874,
+          49.4076714
+        ]
+      },
+      "id": "node/3370913154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370913155",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "87",
+        "addr:postcode": "69115",
+        "addr:street": "Bergheimer Straße",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "Punjab Curry",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683748,
+          49.4076749
+        ]
+      },
+      "id": "node/3370913155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3380969012",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69118",
+        "addr:street": "Hahnbergweg",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "delivery": "no",
+        "name": "Dönerhaus Bursali",
+        "opening_hours": "Mo-Fr 11:00-20:00; Sa 11:00-15:00",
+        "phone": "+49 6221 8717254",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7612063,
+          49.4181443
+        ]
+      },
+      "id": "node/3380969012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3425320344",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "14",
+        "addr:postcode": "69118",
+        "addr:street": "Peterstaler Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Pizza Flora",
+        "opening_hours": "Mo-Th 16:30-23:00; Fr-Sa 16:30-24:00; Su,PH 12:00-23:00",
+        "opening_hours:delivery": "Mo-Th 16:30-22:30; Fr-Sa 16:30-23:30; Su,PH 12:00-22:30",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7569997,
+          49.4191242
+        ]
+      },
+      "id": "node/3425320344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3689081671",
+        "amenity": "fast_food",
+        "opening_hours": "Mo-Fr 11:00-15:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6624137,
+          49.4158531
+        ]
+      },
+      "id": "node/3689081671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770940606",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "6",
+        "addr:postcode": "69115",
+        "addr:street": "Rohrbacher Straße",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "Carosello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692123,
+          49.4078778
+        ]
+      },
+      "id": "node/3770940606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3886247485",
+        "amenity": "fast_food",
+        "lastcheck": "2017-08-08",
+        "name": "Best Currywurst",
+        "opening_hours": "Mo-Fr 11:00-23:00; Sa 11:00-05:00; Su 12:00-21:00",
+        "phone": "+49 6221 6544940",
+        "website": "http://www.best-currywurst.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6922369,
+          49.4088323
+        ]
+      },
+      "id": "node/3886247485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3897495403",
+        "addr:housenumber": "23",
+        "addr:street": "Untere Straße",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7080124,
+          49.4122884
+        ]
+      },
+      "id": "node/3897495403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3908959838",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "name": "Sakura",
+        "source": "HiRes aerial imagery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6912046,
+          49.4087415
+        ]
+      },
+      "id": "node/3908959838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962608831",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "6",
+        "addr:postcode": "69115",
+        "addr:street": "Pfaffengrunder Terrasse",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Star Pizza",
+        "opening_hours": "Tu-Fr 17:00-23:45; Sa,Su 11:00-23:45",
+        "takeaway": "yes",
+        "website": "http://www.starpizzaheidelberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6648699,
+          49.402057
+        ]
+      },
+      "id": "node/3962608831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115825430",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Wok Mann",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6788398,
+          49.4029829
+        ]
+      },
+      "id": "node/4115825430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127557146",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "69124",
+        "addr:street": "Speyerer Straße",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "fax": "+49 6221 8935079",
+        "name": "Burger King",
+        "opening_hours": "Mo-Th 09:00-02:00, Fr 09:00-04:00, Sa 09:00-04:00, Su 10:00-02:00, PH 10:00-02:00",
+        "opening_hours:lastcheck": "2016-04-17",
+        "operator": "H. M. Shaffi GmbH",
+        "phone": "+49 6221 8935078",
+        "smoking": "no",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.burgerking.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6742224,
+          49.3986253
+        ]
+      },
+      "id": "node/4127557146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4245964495",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Charisma",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6871149,
+          49.408013
+        ]
+      },
+      "id": "node/4245964495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4346900397",
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "lastcheck": "2017-08-08",
+        "name": "Yufka's Kebap & Pizza",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7095131,
+          49.4117981
+        ]
+      },
+      "id": "node/4346900397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4716726140",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69121",
+        "addr:street": "Mühlingstraße",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "delivery": "yes",
+        "name": "MAHARAJA",
+        "opening_hours": "Mo-Sa 12:00-14:30,17:00-22:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6221 6726490",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.maharaja-heidelberg.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6822857,
+          49.4293686
+        ]
+      },
+      "id": "node/4716726140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4724675059",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69115",
+        "addr:street": "Theodor-Körner-Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "La Fayette Pizza-Heim-Service",
+        "opening_hours": "Mo off, Tu-Fr 11:00-13:50,17:00-23:50; Sa 16:00-23:45; Su 12:00-23:45",
+        "opening_hours:url": "https://www.lafayetteheidelberg.de/uber-uns",
+        "takeaway": "only",
+        "website": "https://www.lafayetteheidelberg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6714868,
+          49.4077295
+        ]
+      },
+      "id": "node/4724675059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4906392621",
+        "addr:housenumber": "37",
+        "addr:postcode": "69115",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "fast_food",
+        "cuisine": "thai",
+        "internet_access": "wlan",
+        "name": "Tuk Tuk",
+        "name:de": "Tuk Tuk",
+        "opening_hours": "Mo-Fr 11:30-21:00; Sa 12:00-21:00; Su 13:00-21:00",
+        "phone": "+49 6221 4306189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6880274,
+          49.4054605
+        ]
+      },
+      "id": "node/4906392621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019731813",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "delivery": "no",
+        "description": "Parkeintritt nicht erforderlich",
+        "drive_through": "no",
+        "ele": "565",
+        "outdoor_seating": "yes",
+        "payment:cash": "only",
+        "smoking": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7289039,
+          49.4021264
+        ]
+      },
+      "id": "node/5019731813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5030222120",
+        "addr:housenumber": "2-4",
+        "addr:street": "Rottmannstraße",
+        "amenity": "fast_food",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Kostbar",
+        "opening_hours": "Mo-Fr 10:00-21:00, Sa-Su 12:00-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "http://www.kostbar-heidelberg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6873203,
+          49.4247691
+        ]
+      },
+      "id": "node/5030222120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5159109820",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "name": "Long Delhi",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6940421,
+          49.4105705
+        ]
+      },
+      "id": "node/5159109820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255347522",
+        "amenity": "fast_food",
+        "name": "Imbiss „Tinessa“"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6786183,
+          49.4374366
+        ]
+      },
+      "id": "node/5255347522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306375357",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "12",
+        "addr:postcode": "69115",
+        "addr:street": "Poststraße",
+        "amenity": "fast_food",
+        "cuisine": "vegetarian",
+        "lastcheck": "2017-12-27",
+        "name": "Exotica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6910553,
+          49.4081687
+        ]
+      },
+      "id": "node/5306375357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5317231484",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "level": "0",
+        "name": "Kaede Sushi Bar",
+        "website": "http://sushibarheidelberg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6920872,
+          49.4079344
+        ]
+      },
+      "id": "node/5317231484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535699491",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "40",
+        "addr:postcode": "69115",
+        "addr:street": "Langer Anger",
+        "amenity": "fast_food",
+        "cuisine": "indian;pakistani",
+        "drive_through": "no",
+        "name": "Kaschmir Tandoori 2",
+        "phone": "+49 6221 3538704",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6698237,
+          49.4005794
+        ]
+      },
+      "id": "node/5535699491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5643659065",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "cuisine:de": "Döner",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6648008,
+          49.454347
+        ]
+      },
+      "id": "node/5643659065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5688826402",
+        "amenity": "fast_food",
+        "name": "Mandy's Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782484,
+          49.3999079
+        ]
+      },
+      "id": "node/5688826402"
+    }
+  ]
+}
