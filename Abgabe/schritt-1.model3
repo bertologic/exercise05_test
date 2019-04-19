@@ -1,0 +1,471 @@
+<!DOCTYPE model>
+<Option type="Map">
+  <Option name="children" type="Map">
+    <Option name="native:mergevectorlayers_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:mergevectorlayers" name="alg_id" type="QString"/>
+      <Option value="cyclenetwork" name="component_description" type="QString"/>
+      <Option value="674" name="component_pos_x" type="double"/>
+      <Option value="582" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:mergevectorlayers_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="ProjectCrs" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="cycleways" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="residentialstreets" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:union_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:union" name="alg_id" type="QString"/>
+      <Option value="pizza+food" name="component_description" type="QString"/>
+      <Option value="428" name="component_pos_x" type="double"/>
+      <Option value="118" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:union_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="amenitypizza" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="amenityfastfood" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:union_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:union" name="alg_id" type="QString"/>
+      <Option value="rest+italian" name="component_description" type="QString"/>
+      <Option value="433" name="component_pos_x" type="double"/>
+      <Option value="220" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:union_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="amenityrestaurant" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="amenityitalian" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:union_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:union" name="alg_id" type="QString"/>
+      <Option value="konkurrenz_gesamt" name="component_description" type="QString"/>
+      <Option value="708" name="component_pos_x" type="double"/>
+      <Option value="279" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:union_3" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="konkurrenz_gesamt" type="Map">
+          <Option value="native:union_3" name="child_id" type="QString"/>
+          <Option value="konkurrenz_gesamt" name="component_description" type="QString"/>
+          <Option value="419" name="component_pos_x" type="double"/>
+          <Option value="369" name="component_pos_y" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="konkurrenz_gesamt" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+        </Option>
+      </Option>
+      <Option value="false" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="native:union_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="OVERLAY" type="List">
+          <Option type="Map">
+            <Option value="native:union_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="qgis:countpointsinpolygon_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="qgis:countpointsinpolygon" name="alg_id" type="QString"/>
+      <Option value="count Konkurrenz" name="component_description" type="QString"/>
+      <Option value="982.2570332480819" name="component_pos_x" type="double"/>
+      <Option value="450.35741687979544" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="qgis:countpointsinpolygon_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CLASSFIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="num_compet" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="POINTS" type="List">
+          <Option type="Map">
+            <Option value="native:union_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="POLYGONS" type="List">
+          <Option type="Map">
+            <Option value="heidelbergstadtteile" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="WEIGHT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="qgis:fieldcalculator_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="qgis:fieldcalculator" name="alg_id" type="QString"/>
+      <Option value="HD_PDL-Index" name="component_description" type="QString"/>
+      <Option value="1323" name="component_pos_x" type="double"/>
+      <Option value="769" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="qgis:fieldcalculator_1" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="Heidelberg_PDLI" type="Map">
+          <Option value="qgis:fieldcalculator_1" name="child_id" type="QString"/>
+          <Option value="Heidelberg_PDLI" name="component_description" type="QString"/>
+          <Option value="1568" name="component_pos_x" type="double"/>
+          <Option value="806" name="component_pos_y" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="Heidelberg_PDLI" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="FIELD_LENGTH" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="5" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_NAME" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="PDL-Index" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_PRECISION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FIELD_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="FORMULA" type="List">
+          <Option type="Map">
+            <Option value="pdlisyntax" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT" type="List">
+          <Option type="Map">
+            <Option value="qgis:sumlinelengths_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="NEW_FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="true" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="qgis:sumlinelengths_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="qgis:sumlinelengths" name="alg_id" type="QString"/>
+      <Option value="Sum line lengths" name="component_description" type="QString"/>
+      <Option value="1018" name="component_pos_x" type="double"/>
+      <Option value="646" name="component_pos_y" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="qgis:sumlinelengths_1" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="Stadtteile_comp+cyclenetwork" type="Map">
+          <Option value="qgis:sumlinelengths_1" name="child_id" type="QString"/>
+          <Option value="Stadtteile_comp+cyclenetwork" name="component_description" type="QString"/>
+          <Option value="1218" name="component_pos_x" type="double"/>
+          <Option value="691" name="component_pos_y" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="Stadtteile_comp+cyclenetwork" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="COUNT_FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="number_cyc" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="LEN_FIELD" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="length_cyc" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="LINES" type="List">
+          <Option type="Map">
+            <Option value="native:mergevectorlayers_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="POLYGONS" type="List">
+          <Option type="Map">
+            <Option value="qgis:countpointsinpolygon_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+  </Option>
+  <Option name="help"/>
+  <Option value="" name="model_group" type="QString"/>
+  <Option value="step-1" name="model_name" type="QString"/>
+  <Option name="parameterDefinitions" type="Map">
+    <Option name="amenityfastfood" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="0" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="amenity=fastfood" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="amenityfastfood" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="amenityitalian" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="5" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="amenity=italian" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="amenityitalian" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="amenitypizza" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="0" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="amenity=pizza" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="amenitypizza" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="amenityrestaurant" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="5" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="amenity=restaurant" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="amenityrestaurant" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="cycleways" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="5" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="cycleways" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="cycleways" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="heidelbergstadtteile" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="2" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="Heidelberg_Stadtteile" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="heidelbergstadtteile" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="native:union_3:konkurrenz_gesamt" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="-1" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option value="konkurrenz_gesamt" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="native:union_3:konkurrenz_gesamt" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="pdlisyntax" type="Map">
+      <Option value="(( CASE&#xd;&#xa;when  &quot;kfz_Wert&quot; &lt;=450 then 3&#xd;&#xa;when  450&lt;&quot;kfz_Wert&quot; AND  &quot;kfz_Wert&quot; &lt;=550 then 2&#xd;&#xa;when  &quot;kfz_Wert&quot;  > 550 then 1&#xd;&#xa;END ) &#xd;&#xa;+&#xd;&#xa;(CASE&#xd;&#xa;when   &quot;num_compet&quot;  &lt;=35 then 3&#xd;&#xa;when   &quot;num_compet&quot; >35 AND   &quot;num_compet&quot;  &lt;=70 then 2&#xd;&#xa;when  &quot;num_compet&quot;   > 70 then 1&#xd;&#xa;END)&#xd;&#xa;+&#xd;&#xa;(CASE&#xd;&#xa;when    &quot;length_cyc&quot;   >50000 then 3&#xd;&#xa;when    &quot;length_cyc&quot; >25000 AND      &quot;length_cyc&quot; &lt;=50000 then 2&#xd;&#xa;when   &quot;length_cyc&quot;   &lt;=25000 then 1&#xd;&#xa;END)&#xd;&#xa;+&#xd;&#xa;(CASE&#xd;&#xa;when     &quot;EW_18-44&quot;    >5000 then 3&#xd;&#xa;when     &quot;EW_18-44&quot;  >2500 AND       &quot;EW_18-44&quot;  &lt;=5000 then 2&#xd;&#xa;when    &quot;EW_18-44&quot;    &lt;=2500 then 1&#xd;&#xa;END)&#xd;&#xa;+&#xd;&#xa;(CASE&#xd;&#xa;when     &quot;EW/ha_veri&quot;   >90 then 3&#xd;&#xa;when     &quot;EW/ha_veri&quot;  >45 AND       &quot;EW/ha_veri&quot;  &lt;=90 then 2&#xd;&#xa;when    &quot;EW/ha_veri&quot;  &lt;=45 then 1&#xd;&#xa;END))/5&#xd;&#xa;" name="default" type="QString"/>
+      <Option value="PDLI_Syntax" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="pdlisyntax" name="name" type="QString"/>
+      <Option value="expression" name="parameter_type" type="QString"/>
+      <Option value="" name="parent_layer" type="QString"/>
+    </Option>
+    <Option name="qgis:fieldcalculator_1:Heidelberg_PDLI" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="-1" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option value="Heidelberg_PDLI" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="qgis:fieldcalculator_1:Heidelberg_PDLI" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="qgis:sumlinelengths_1:Stadtteile_comp+cyclenetwork" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option value="2" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option value="Stadtteile_comp+cyclenetwork" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="qgis:sumlinelengths_1:Stadtteile_comp+cyclenetwork" name="name" type="QString"/>
+      <Option value="sink" name="parameter_type" type="QString"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="residentialstreets" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="1" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option value="residential_streets" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="metadata"/>
+      <Option value="residentialstreets" name="name" type="QString"/>
+      <Option value="vector" name="parameter_type" type="QString"/>
+    </Option>
+  </Option>
+  <Option name="parameters" type="Map">
+    <Option name="amenityfastfood" type="Map">
+      <Option value="amenityfastfood" name="component_description" type="QString"/>
+      <Option value="166" name="component_pos_x" type="double"/>
+      <Option value="111" name="component_pos_y" type="double"/>
+      <Option value="amenityfastfood" name="name" type="QString"/>
+    </Option>
+    <Option name="amenityitalian" type="Map">
+      <Option value="amenityitalian" name="component_description" type="QString"/>
+      <Option value="160" name="component_pos_x" type="double"/>
+      <Option value="231" name="component_pos_y" type="double"/>
+      <Option value="amenityitalian" name="name" type="QString"/>
+    </Option>
+    <Option name="amenitypizza" type="Map">
+      <Option value="amenitypizza" name="component_description" type="QString"/>
+      <Option value="165" name="component_pos_x" type="double"/>
+      <Option value="70" name="component_pos_y" type="double"/>
+      <Option value="amenitypizza" name="name" type="QString"/>
+    </Option>
+    <Option name="amenityrestaurant" type="Map">
+      <Option value="amenityrestaurant" name="component_description" type="QString"/>
+      <Option value="159" name="component_pos_x" type="double"/>
+      <Option value="187" name="component_pos_y" type="double"/>
+      <Option value="amenityrestaurant" name="name" type="QString"/>
+    </Option>
+    <Option name="cycleways" type="Map">
+      <Option value="cycleways" name="component_description" type="QString"/>
+      <Option value="390" name="component_pos_x" type="double"/>
+      <Option value="596" name="component_pos_y" type="double"/>
+      <Option value="cycleways" name="name" type="QString"/>
+    </Option>
+    <Option name="heidelbergstadtteile" type="Map">
+      <Option value="heidelbergstadtteile" name="component_description" type="QString"/>
+      <Option value="690" name="component_pos_x" type="double"/>
+      <Option value="462" name="component_pos_y" type="double"/>
+      <Option value="heidelbergstadtteile" name="name" type="QString"/>
+    </Option>
+    <Option name="pdlisyntax" type="Map">
+      <Option value="pdlisyntax" name="component_description" type="QString"/>
+      <Option value="1331.6278772378516" name="component_pos_x" type="double"/>
+      <Option value="641.6572890025576" name="component_pos_y" type="double"/>
+      <Option value="pdlisyntax" name="name" type="QString"/>
+    </Option>
+    <Option name="residentialstreets" type="Map">
+      <Option value="residentialstreets" name="component_description" type="QString"/>
+      <Option value="392" name="component_pos_x" type="double"/>
+      <Option value="526" name="component_pos_y" type="double"/>
+      <Option value="residentialstreets" name="name" type="QString"/>
+    </Option>
+  </Option>
+</Option>
